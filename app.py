@@ -16,7 +16,7 @@ REDIRECT_URI = os.environ.get("REDIRECT_URI")
 PLAYLIST_ID = os.environ.get("PLAYLIST_ID")
 
 # Scopes needed to control playback and read playlists
-SCOPE = "user-modify-playback-state user-read-playback-state playlist-read-private"
+SCOPE = "user-modify-playback-state user-read-playback-state playlist-read-private playlist-read-collaborative"
 
 def get_spotify_oauth():
     cache_handler = FlaskSessionCacheHandler(session)
