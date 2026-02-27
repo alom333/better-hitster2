@@ -162,26 +162,31 @@ def play_random():
 
     # Get all tracks from the playlist (handle pagination)
     tracks = []
-    url = f"/playlists/{PLAYLIST_ID}/tracks"
-    params = {"limit": 100, "fields": "items(track(id,name,artists,album,duration_ms)),next,total"}
+    next_url = f"{SPOTIFY_API_BASE}/playlists/{PLAYLIST_ID}/tracks"
+    params = {"limit": 100}
 
-    while url:
-        data, code = spotify_get(url, params)
-        if not data or code != 200:
-            return jsonify({"error": "Could not fetch playlist"}), 500
+    while next_url:
+        access_token = session.get("access_token")
+        headers = {"Authorization": f"Bearer {access_token}"}
+        resp = requests.get(next_url, headers=headers, params=params)
 
+        if resp.status_code == 401:
+            if refresh_token_if_needed():
+                headers["Authorization"] = f"Bearer {session['access_token']}"
+                resp = requests.get(next_url, headers=headers, params=params)
+
+        if resp.status_code != 200:
+            app.logger.error(f"Playlist fetch failed: {resp.status_code} {resp.text}")
+            return jsonify({"error": f"Could not fetch playlist (status {resp.status_code})"}), 500
+
+        data = resp.json()
         for item in data.get("items", []):
             track = item.get("track")
             if track and track.get("id"):
                 tracks.append(track)
 
-        next_url = data.get("next")
-        if next_url:
-            # Extract relative path
-            url = next_url.replace(SPOTIFY_API_BASE, "")
-            params = None
-        else:
-            url = None
+        next_url = data.get("next")  # full URL or None
+        params = None  # params are already encoded in next_url
 
     if not tracks:
         return jsonify({"error": "Playlist is empty"}), 404
