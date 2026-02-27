@@ -1,1 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Randomizer</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #121212 0%, #1e1e1e 100%);
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+
+        h1 {
+            color: #1DB954; /* Spotify Green */
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            background-color: #1DB954;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            margin: 10px;
+            font-size: 18px;
+            font-weight: 600;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(29, 185, 84, 0.4);
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            background-color: #1ed760;
+        }
+
+        .btn:disabled {
+            background-color: #555;
+            box-shadow: none;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-logout {
+            background-color: transparent;
+            border: 2px solid #555;
+            box-shadow: none;
+            font-size: 14px;
+            padding: 8px 20px;
+            margin-top: 20px;
+        }
+
+        #controls {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+
+        #song-info {
+            margin-top: 30px;
+            opacity: 0; /* Hidden initially */
+            transform: translateY(20px);
+            transition: all 0.5s ease;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 15px;
+            max-width: 300px;
+        }
+
+        #song-info.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        #album-art {
+            width: 200px;
+            height: 200px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            margin-bottom: 15px;
+        }
+
+        .year {
+            font-weight: 700;
+            color: #1DB954;
+            font-size: 20px;
+        }
+
+        #status-message {
+            margin-top: 15px;
+            color: #ff4d4d;
+            font-size: 14px;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Music Roulette 🎵</h1>
+
+    {% if not is_logged_in %}
+        <button class="btn" onclick="window.location.href='/login'">Login with Spotify</button>
+    {% else %}
+        <div id="controls">
+            <button id="btn-new-song" class="btn" onclick="playNewSong()">Play New Song</button>
+            <button id="btn-reveal" class="btn" onclick="revealSong()" disabled>Reveal!</button>
+            <button class="btn btn-logout" onclick="window.location.href='/logout'">Logout</button>
+        </div>
+        
+        <div id="status-message"></div>
+
+        <div id="song-info">
+            <img id="album-art" src="" alt="Album Art">
+            <h2 id="song-name">Song Name</h2>
+            <h3 id="artist-name">Artist</h3>
+            <p class="year" id="song-year">2024</p>
+        </div>
+    {% endif %}
+
+    <script>
+        let currentSongData = null;
+
+        async function playNewSong() {
+            const btnNewSong = document.getElementById('btn-new-song');
+            const btnReveal = document.getElementById('btn-reveal');
+            const statusMessage = document.getElementById('status-message');
+            const songInfoBox = document.getElementById('song-info');
+
+            // Reset UI
+            btnNewSong.innerText = "Loading...";
+            btnNewSong.disabled = true;
+            btnReveal.disabled = true;
+            statusMessage.innerText = "";
+            songInfoBox.classList.remove('visible');
+
+            try {
+                const response = await fetch('/play_random');
+                const data = await response.json();
+
+                if (!response.ok) {
+                    throw new Error(data.error || "An error occurred");
+                }
+
+                // Store data but don't show it yet
+                currentSongData = data;
+                
+                // Enable reveal button
+                btnReveal.disabled = false;
+                btnNewSong.innerText = "Play Another Song";
+
+            } catch (error) {
+                statusMessage.innerText = error.message;
+                btnNewSong.innerText = "Play New Song";
+            } finally {
+                btnNewSong.disabled = false;
+            }
+        }
+
+        function revealSong() {
+            if (!currentSongData) return;
+
+            document.getElementById('album-art').src = currentSongData.album_pic;
+            document.getElementById('song-name').innerText = currentSongData.song_name;
+            document.getElementById('artist-name').innerText = currentSongData.artist;
+            document.getElementById('song-year').innerText = currentSongData.year;
+
+            document.getElementById('song-info').classList.add('visible');
+            document.getElementById('btn-reveal').disabled = true; // Disable after revealing
+        }
+    </script>
+</body>
+</html>
