@@ -5,7 +5,9 @@ from flask import Flask, redirect, request, session, jsonify, render_template
 from urllib.parse import urlencode
 
 app = Flask(__name__)
-app.secret_key = os.urandom(24)
+# Use a stable secret key from env so sessions survive Render restarts.
+# Falls back to random only in local dev.
+app.secret_key = os.environ.get("SECRET_KEY", os.urandom(24))
 
 # Spotify config from environment variables (set in Render)
 SPOTIFY_CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
@@ -159,6 +161,9 @@ def status():
 def play_random():
     if "access_token" not in session:
         return jsonify({"error": "Not logged in"}), 401
+
+    access_token = session.get("access_token")
+    app.logger.info(f"play_random called. PLAYLIST_ID={PLAYLIST_ID!r} token_present={bool(access_token)}")
 
     # Get all tracks from the playlist (handle pagination)
     tracks = []
