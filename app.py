@@ -1,137 +1,237 @@
 import os
 import random
-from flask import Flask, session, request, redirect, render_template, jsonify
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
-from spotipy.cache_handler import FlaskSessionCacheHandler
+import requests
+from flask import Flask, redirect, request, session, jsonify, render_template
+from urllib.parse import urlencode
 
 app = Flask(__name__)
+app.secret_key = os.urandom(24)
 
-# FIXED: Use a stable secret key from env vars instead of os.urandom()
-# os.urandom regenerates on every restart, killing all sessions.
-app.config['SECRET_KEY'] = os.environ.get("FLASK_SECRET_KEY", "a-fallback-secret-change-me")
-
-# Environment variables from Render
-CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
-CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
+# Spotify config from environment variables (set in Render)
+SPOTIFY_CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
+SPOTIFY_CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
 REDIRECT_URI = os.environ.get("REDIRECT_URI")
 PLAYLIST_ID = os.environ.get("PLAYLIST_ID")
 
-# Scopes needed to control playback and read playlists
-SCOPE = "user-modify-playback-state user-read-playback-state playlist-read-private playlist-read-collaborative"
+SPOTIFY_AUTH_URL = "https://accounts.spotify.com/authorize"
+SPOTIFY_TOKEN_URL = "https://accounts.spotify.com/api/token"
+SPOTIFY_API_BASE = "https://api.spotify.com/v1"
 
-def get_spotify_oauth():
-    cache_handler = FlaskSessionCacheHandler(session)
-    return SpotifyOAuth(
-        client_id=CLIENT_ID,
-        client_secret=CLIENT_SECRET,
-        redirect_uri=REDIRECT_URI,
-        scope=SCOPE,
-        cache_handler=cache_handler,
-        show_dialog=True
+SCOPES = "user-read-playback-state user-modify-playback-state playlist-read-private playlist-read-collaborative streaming"
+
+
+@app.route("/")
+def index():
+    logged_in = "access_token" in session
+    return render_template("index.html", logged_in=logged_in)
+
+
+@app.route("/login")
+def login():
+    params = {
+        "client_id": SPOTIFY_CLIENT_ID,
+        "response_type": "code",
+        "redirect_uri": REDIRECT_URI,
+        "scope": SCOPES,
+        "show_dialog": True,
+    }
+    return redirect(f"{SPOTIFY_AUTH_URL}?{urlencode(params)}")
+
+
+@app.route("/callback")
+def callback():
+    code = request.args.get("code")
+    error = request.args.get("error")
+
+    if error:
+        return redirect("/?error=access_denied")
+
+    if not code:
+        return redirect("/?error=no_code")
+
+    # Exchange code for tokens
+    response = requests.post(
+        SPOTIFY_TOKEN_URL,
+        data={
+            "grant_type": "authorization_code",
+            "code": code,
+            "redirect_uri": REDIRECT_URI,
+            "client_id": SPOTIFY_CLIENT_ID,
+            "client_secret": SPOTIFY_CLIENT_SECRET,
+        },
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
     )
 
-@app.route('/')
-def home():
-    sp_oauth = get_spotify_oauth()
-    token_info = sp_oauth.cache_handler.get_cached_token()
-    is_logged_in = token_info is not None and not sp_oauth.is_token_expired(token_info)
-    return render_template('index.html', is_logged_in=is_logged_in)
+    if response.status_code != 200:
+        return redirect("/?error=token_exchange_failed")
 
-@app.route('/login')
-def login():
-    sp_oauth = get_spotify_oauth()
-    auth_url = sp_oauth.get_authorize_url()
-    return redirect(auth_url)
+    tokens = response.json()
+    session["access_token"] = tokens["access_token"]
+    session["refresh_token"] = tokens.get("refresh_token")
+    return redirect("/")
 
-@app.route('/callback')
-def callback():
-    sp_oauth = get_spotify_oauth()
-    session.clear()
-    code = request.args.get('code')
-    try:
-        token_info = sp_oauth.get_access_token(code)
-        print(f"Token obtained successfully: {bool(token_info)}")
-    except Exception as e:
-        print(f"Error getting token: {e}")
-    return redirect('/')
 
-@app.route('/logout')
+@app.route("/logout")
 def logout():
     session.clear()
-    return redirect('/')
+    return redirect("/")
 
-@app.route('/play_random')
+
+def refresh_token_if_needed():
+    """Refresh the access token using the refresh token."""
+    refresh_token = session.get("refresh_token")
+    if not refresh_token:
+        return False
+
+    response = requests.post(
+        SPOTIFY_TOKEN_URL,
+        data={
+            "grant_type": "refresh_token",
+            "refresh_token": refresh_token,
+            "client_id": SPOTIFY_CLIENT_ID,
+            "client_secret": SPOTIFY_CLIENT_SECRET,
+        },
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
+    )
+
+    if response.status_code == 200:
+        tokens = response.json()
+        session["access_token"] = tokens["access_token"]
+        if "refresh_token" in tokens:
+            session["refresh_token"] = tokens["refresh_token"]
+        return True
+    return False
+
+
+def spotify_get(endpoint, params=None):
+    """Make authenticated GET request to Spotify API, refreshing token if needed."""
+    access_token = session.get("access_token")
+    if not access_token:
+        return None, 401
+
+    headers = {"Authorization": f"Bearer {access_token}"}
+    response = requests.get(f"{SPOTIFY_API_BASE}{endpoint}", headers=headers, params=params)
+
+    if response.status_code == 401:
+        if refresh_token_if_needed():
+            headers["Authorization"] = f"Bearer {session['access_token']}"
+            response = requests.get(f"{SPOTIFY_API_BASE}{endpoint}", headers=headers, params=params)
+        else:
+            return None, 401
+
+    return response.json() if response.status_code == 200 else None, response.status_code
+
+
+def spotify_put(endpoint, json_data=None):
+    """Make authenticated PUT request to Spotify API."""
+    access_token = session.get("access_token")
+    if not access_token:
+        return 401
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+        "Content-Type": "application/json",
+    }
+    response = requests.put(f"{SPOTIFY_API_BASE}{endpoint}", headers=headers, json=json_data)
+
+    if response.status_code == 401:
+        if refresh_token_if_needed():
+            headers["Authorization"] = f"Bearer {session['access_token']}"
+            response = requests.put(f"{SPOTIFY_API_BASE}{endpoint}", headers=headers, json=json_data)
+
+    return response.status_code
+
+
+@app.route("/api/status")
+def status():
+    if "access_token" not in session:
+        return jsonify({"logged_in": False})
+
+    data, code = spotify_get("/me")
+    if code == 401 or data is None:
+        session.clear()
+        return jsonify({"logged_in": False})
+
+    return jsonify({"logged_in": True, "display_name": data.get("display_name", "")})
+
+
+@app.route("/api/play_random")
 def play_random():
-    sp_oauth = get_spotify_oauth()
-    token_info = sp_oauth.get_cached_token()
-
-    if not token_info:
-        print("DEBUG: No token found in session")
+    if "access_token" not in session:
         return jsonify({"error": "Not logged in"}), 401
 
-    # Refresh token if expired
-    if sp_oauth.is_token_expired(token_info):
-        try:
-            token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
-            print("Token refreshed successfully")
-        except Exception as e:
-            print(f"Token refresh failed: {e}")
-            return jsonify({"error": "Session expired, please log in again"}), 401
+    # Get all tracks from the playlist (handle pagination)
+    tracks = []
+    url = f"/playlists/{PLAYLIST_ID}/tracks"
+    params = {"limit": 100, "fields": "items(track(id,name,artists,album,duration_ms)),next,total"}
 
-    sp = spotipy.Spotify(auth=token_info['access_token'])
+    while url:
+        data, code = spotify_get(url, params)
+        if not data or code != 200:
+            return jsonify({"error": "Could not fetch playlist"}), 500
 
-    try:
-        # 1. Fetch playlist items directly
-        results = sp.playlist_items(PLAYLIST_ID, fields='total', limit=1)
+        for item in data.get("items", []):
+            track = item.get("track")
+            if track and track.get("id"):
+                tracks.append(track)
 
-        if 'total' not in results:
-            print(f"DEBUG: Response from Spotify: {results}")
-            return jsonify({"error": "Could not find 'total' tracks. Check if PLAYLIST_ID is correct and public."}), 400
+        next_url = data.get("next")
+        if next_url:
+            # Extract relative path
+            url = next_url.replace(SPOTIFY_API_BASE, "")
+            params = None
+        else:
+            url = None
 
-        total_tracks = results['total']
+    if not tracks:
+        return jsonify({"error": "Playlist is empty"}), 404
 
-        if total_tracks == 0:
-            return jsonify({"error": "This playlist is empty!"}), 400
+    # Pick a random track (avoid repeating the last one if possible)
+    last_track_id = session.get("last_track_id")
+    available = [t for t in tracks if t["id"] != last_track_id] if len(tracks) > 1 else tracks
+    track = random.choice(available)
+    session["last_track_id"] = track["id"]
 
-        # 2. Pick a random song
-        random_offset = random.randint(0, total_tracks - 1)
+    # Get active device
+    devices_data, _ = spotify_get("/me/player/devices")
+    devices = devices_data.get("devices", []) if devices_data else []
 
-        # 3. Get the track at that offset
-        track_data = sp.playlist_items(
-            PLAYLIST_ID,
-            limit=1,
-            offset=random_offset,
-            fields='items(track(name, uri, album(name, images, release_date), artists(name)))'
-        )
+    if not devices:
+        return jsonify({"error": "No active Spotify device found. Please open Spotify on your phone or desktop."}), 404
 
-        track = track_data['items'][0]['track']
+    # Prefer active device, else first available
+    active_device = next((d for d in devices if d.get("is_active")), devices[0])
+    device_id = active_device["id"]
 
-        # Extract details
-        track_uri = track['uri']
-        song_name = track['name']
-        artist_name = track['artists'][0]['name']
-        album_pic = track['album']['images'][0]['url'] if track['album']['images'] else ""
-        release_date = track['album']['release_date']
-        year = release_date.split('-')[0] if release_date else "????"
+    # Play the track
+    status_code = spotify_put(
+        f"/me/player/play?device_id={device_id}",
+        {"uris": [f"spotify:track:{track['id']}"]},
+    )
 
-        # 4. Try to play
-        try:
-            sp.start_playback(uris=[track_uri])
-        except Exception as e:
-            return jsonify({"error": "Open Spotify on your phone first!", "details": str(e)}), 400
+    if status_code not in (200, 204):
+        return jsonify({"error": f"Could not start playback (status {status_code}). Make sure Spotify is open and active."}), 500
 
-        return jsonify({
-            "song_name": song_name,
-            "artist": artist_name,
-            "year": year,
-            "album_pic": album_pic
-        })
+    # Build track info for reveal
+    album = track.get("album", {})
+    artists = [a["name"] for a in track.get("artists", [])]
+    images = album.get("images", [])
+    album_image = images[0]["url"] if images else None
+    release_year = album.get("release_date", "")[:4]
 
-    except Exception as e:
-        print(f"CRITICAL ERROR: {str(e)}")
-        return jsonify({"error": f"Backend Error: {str(e)}"}), 500
+    return jsonify({
+        "success": True,
+        "track": {
+            "id": track["id"],
+            "name": track["name"],
+            "artists": artists,
+            "album": album.get("name", ""),
+            "album_image": album_image,
+            "year": release_year,
+        },
+    })
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
-    app.run(host='0.0.0.0', port=port)
+    app.run(host="0.0.0.0", port=port, debug=False)
