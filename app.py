@@ -60,43 +60,55 @@ def logout():
 @app.route('/play_random')
 def play_random():
     sp_oauth = get_spotify_oauth()
-    if not sp_oauth.validate_token(sp_oauth.cache_handler.get_cached_token()):
+    token_info = sp_oauth.get_cached_token()
+    
+    if not token_info:
         return jsonify({"error": "Not logged in"}), 401
 
-    sp = spotipy.Spotify(auth_manager=sp_oauth)
+    sp = spotipy.Spotify(auth=token_info['access_token'])
 
     try:
-        # 1. Get total tracks in the playlist to pick a random offset
-        playlist_info = sp.playlist(PLAYLIST_ID, fields="tracks.total")
-        total_tracks = playlist_info['tracks']['total']
+        # 1. Fetch playlist items directly (this is more reliable than sp.playlist)
+        # We ask for a limit of 1 just to get the 'total' count safely.
+        results = sp.playlist_items(PLAYLIST_ID, fields='total', limit=1)
+        
+        if 'total' not in results:
+            print(f"DEBUG: Response from Spotify: {results}")
+            return jsonify({"error": "Could not find 'total' tracks. Check if PLAYLIST_ID is correct and public."}), 400
+            
+        total_tracks = results['total']
         
         if total_tracks == 0:
-            return jsonify({"error": "Playlist is empty!"}), 400
+            return jsonify({"error": "This playlist is empty!"}), 400
 
+        # 2. Pick a random song
         random_offset = random.randint(0, total_tracks - 1)
-
-        # 2. Fetch the specific random track
-        track_items = sp.playlist_items(PLAYLIST_ID, limit=1, offset=random_offset)
-        track = track_items['items'][0]['track']
         
-        # 3. Extract information
+        # 3. Get the track at that offset
+        track_data = sp.playlist_items(
+            PLAYLIST_ID, 
+            limit=1, 
+            offset=random_offset,
+            fields='items(track(name, uri, album(name, images, release_date), artists(name)))'
+        )
+        
+        track = track_data['items'][0]['track']
+        
+        # Extract details
         track_uri = track['uri']
         song_name = track['name']
         artist_name = track['artists'][0]['name']
         album_pic = track['album']['images'][0]['url'] if track['album']['images'] else ""
         release_date = track['album']['release_date']
-        year = release_date.split('-')[0] if release_date else "Unknown"
+        year = release_date.split('-')[0] if release_date else "????"
 
-        # 4. Play the track on the active device
+        # 4. Try to play
         try:
             sp.start_playback(uris=[track_uri])
-        except spotipy.SpotifyException as e:
-            if "NO_ACTIVE_DEVICE" in str(e) or e.http_status == 404:
-                return jsonify({"error": "No active Spotify device found. Please open Spotify on your phone or computer and try again!"}), 400
-            else:
-                return jsonify({"error": "Requires Spotify Premium to control playback."}), 403
+        except Exception as e:
+            # If it's a 'No Active Device' error
+            return jsonify({"error": "Open Spotify on your phone first!", "details": str(e)}), 400
 
-        # Return info (hidden by frontend until Reveal is clicked)
         return jsonify({
             "song_name": song_name,
             "artist": artist_name,
@@ -105,8 +117,8 @@ def play_random():
         })
 
     except Exception as e:
-        print(f"Error: {e}")
-        return jsonify({"error": "Something went wrong fetching the song."}), 500
+        print(f"CRITICAL ERROR: {str(e)}")
+        return jsonify({"error": f"Backend Error: {str(e)}"}), 500
 
 if __name__ == '__main__':
     # Render binds to port 10000 by default, but standard Flask is 5000. 
