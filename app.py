@@ -6,8 +6,10 @@ from spotipy.oauth2 import SpotifyOAuth
 from spotipy.cache_handler import FlaskSessionCacheHandler
 
 app = Flask(__name__)
-# Render needs a secret key for session management. We'll use a random string.
-app.config['SECRET_KEY'] = os.urandom(64)
+
+# FIXED: Use a stable secret key from env vars instead of os.urandom()
+# os.urandom regenerates on every restart, killing all sessions.
+app.config['SECRET_KEY'] = os.environ.get("FLASK_SECRET_KEY", "a-fallback-secret-change-me")
 
 # Environment variables from Render
 CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
@@ -32,7 +34,8 @@ def get_spotify_oauth():
 @app.route('/')
 def home():
     sp_oauth = get_spotify_oauth()
-    is_logged_in = sp_oauth.validate_token(sp_oauth.cache_handler.get_cached_token()) is not None
+    token_info = sp_oauth.cache_handler.get_cached_token()
+    is_logged_in = token_info is not None and not sp_oauth.is_token_expired(token_info)
     return render_template('index.html', is_logged_in=is_logged_in)
 
 @app.route('/login')
@@ -47,7 +50,8 @@ def callback():
     session.clear()
     code = request.args.get('code')
     try:
-        sp_oauth.get_access_token(code)
+        token_info = sp_oauth.get_access_token(code)
+        print(f"Token obtained successfully: {bool(token_info)}")
     except Exception as e:
         print(f"Error getting token: {e}")
     return redirect('/')
@@ -61,39 +65,48 @@ def logout():
 def play_random():
     sp_oauth = get_spotify_oauth()
     token_info = sp_oauth.get_cached_token()
-    
+
     if not token_info:
+        print("DEBUG: No token found in session")
         return jsonify({"error": "Not logged in"}), 401
+
+    # Refresh token if expired
+    if sp_oauth.is_token_expired(token_info):
+        try:
+            token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+            print("Token refreshed successfully")
+        except Exception as e:
+            print(f"Token refresh failed: {e}")
+            return jsonify({"error": "Session expired, please log in again"}), 401
 
     sp = spotipy.Spotify(auth=token_info['access_token'])
 
     try:
-        # 1. Fetch playlist items directly (this is more reliable than sp.playlist)
-        # We ask for a limit of 1 just to get the 'total' count safely.
+        # 1. Fetch playlist items directly
         results = sp.playlist_items(PLAYLIST_ID, fields='total', limit=1)
-        
+
         if 'total' not in results:
             print(f"DEBUG: Response from Spotify: {results}")
             return jsonify({"error": "Could not find 'total' tracks. Check if PLAYLIST_ID is correct and public."}), 400
-            
+
         total_tracks = results['total']
-        
+
         if total_tracks == 0:
             return jsonify({"error": "This playlist is empty!"}), 400
 
         # 2. Pick a random song
         random_offset = random.randint(0, total_tracks - 1)
-        
+
         # 3. Get the track at that offset
         track_data = sp.playlist_items(
-            PLAYLIST_ID, 
-            limit=1, 
+            PLAYLIST_ID,
+            limit=1,
             offset=random_offset,
             fields='items(track(name, uri, album(name, images, release_date), artists(name)))'
         )
-        
+
         track = track_data['items'][0]['track']
-        
+
         # Extract details
         track_uri = track['uri']
         song_name = track['name']
@@ -106,7 +119,6 @@ def play_random():
         try:
             sp.start_playback(uris=[track_uri])
         except Exception as e:
-            # If it's a 'No Active Device' error
             return jsonify({"error": "Open Spotify on your phone first!", "details": str(e)}), 400
 
         return jsonify({
@@ -121,7 +133,5 @@ def play_random():
         return jsonify({"error": f"Backend Error: {str(e)}"}), 500
 
 if __name__ == '__main__':
-    # Render binds to port 10000 by default, but standard Flask is 5000. 
-    # Using 0.0.0.0 is required for Render web services.
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port)
