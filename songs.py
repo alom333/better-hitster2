@@ -9,7 +9,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis' Golden Records",
-    "album_image": null,
+    "album_image": None,
     "year": "1958"
   },
   {
@@ -20,7 +20,7 @@ SONGS = [
       "Eagles"
     ],
     "album": "Hotel California (2013 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -31,7 +31,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Thriller 25 Super Deluxe Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -42,7 +42,7 @@ SONGS = [
       "Queen"
     ],
     "album": "A Night At The Opera (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -53,7 +53,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Let It Be (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -64,7 +64,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Out Of Our Heads",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -75,7 +75,7 @@ SONGS = [
       "TOTO"
     ],
     "album": "Toto IV",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -86,7 +86,7 @@ SONGS = [
       "Boston"
     ],
     "album": "Boston",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -97,7 +97,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Greatest",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -108,7 +108,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "Nevermind (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -119,7 +119,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Synchronicity (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -130,7 +130,7 @@ SONGS = [
       "Ben E. King"
     ],
     "album": "Don't Play That Song (Mono)",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -141,7 +141,7 @@ SONGS = [
       "Sinéad O'Connor"
     ],
     "album": "I Do Not Want What I Haven't Got",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -152,7 +152,7 @@ SONGS = [
       "John Lennon"
     ],
     "album": "Imagine",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -163,7 +163,7 @@ SONGS = [
       "Laura Bryna"
     ],
     "album": "I Hate Myself For Loving You",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -174,7 +174,7 @@ SONGS = [
       "KISS"
     ],
     "album": "Dynasty",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -185,7 +185,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Thriller 25 Super Deluxe Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -196,7 +196,7 @@ SONGS = [
       "Led Zeppelin"
     ],
     "album": "Led Zeppelin II (1994 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -207,7 +207,7 @@ SONGS = [
       "a-ha"
     ],
     "album": "Hunting High and Low",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -218,7 +218,7 @@ SONGS = [
       "Red Hot Chili Peppers"
     ],
     "album": "Blood Sugar Sex Magik (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -229,7 +229,7 @@ SONGS = [
       "Coolio;L.V."
     ],
     "album": "Gangsta's Paradise",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -240,7 +240,7 @@ SONGS = [
       "Guns N' Roses"
     ],
     "album": "Appetite For Destruction",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -251,7 +251,7 @@ SONGS = [
       "Whitney Houston"
     ],
     "album": "The Bodyguard - Original Soundtrack Album",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -262,7 +262,7 @@ SONGS = [
       "Tracy Chapman"
     ],
     "album": "Tracy Chapman",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -273,7 +273,7 @@ SONGS = [
       "Sam Cooke"
     ],
     "album": "The Man Who Invented Soul",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -284,7 +284,7 @@ SONGS = [
       "Prince"
     ],
     "album": "Purple Rain",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -295,7 +295,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis' Golden Records",
-    "album_image": null,
+    "album_image": None,
     "year": "1958"
   },
   {
@@ -306,7 +306,7 @@ SONGS = [
       "Cyndi Lauper"
     ],
     "album": "She's So Unusual",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -317,7 +317,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -328,7 +328,7 @@ SONGS = [
       "LEROCQUE"
     ],
     "album": "Not Invisible",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -339,7 +339,7 @@ SONGS = [
       "Neil Diamond"
     ],
     "album": "Sweet Caroline",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -350,7 +350,7 @@ SONGS = [
       "Marvin Gaye;Tammi Terrell"
     ],
     "album": "United",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -361,7 +361,7 @@ SONGS = [
       "R.E.M."
     ],
     "album": "Out Of Time (25th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -372,7 +372,7 @@ SONGS = [
       "Aretha Franklin"
     ],
     "album": "I Never Loved a Man the Way I Love You",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -383,7 +383,7 @@ SONGS = [
       "Rip Gerber;Mads Tolling"
     ],
     "album": "Y Knot",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -394,7 +394,7 @@ SONGS = [
       "Nick Phoenix"
     ],
     "album": "Let's Go",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -405,7 +405,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Abbey Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -417,7 +417,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "September",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -428,7 +428,7 @@ SONGS = [
       "Laura Bryna"
     ],
     "album": "Black Cat",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -439,7 +439,7 @@ SONGS = [
       "Led Zeppelin"
     ],
     "album": "Led Zeppelin IV (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -450,7 +450,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Escape (Bonus Track Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -461,7 +461,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Dire Straits",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -472,7 +472,7 @@ SONGS = [
       "Survivor"
     ],
     "album": "Rocky IV",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -483,7 +483,7 @@ SONGS = [
       "Nick Phoenix"
     ],
     "album": "Airplane",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -494,7 +494,7 @@ SONGS = [
       "Madonna"
     ],
     "album": "Like a Virgin",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -505,7 +505,7 @@ SONGS = [
       "Phil Collins"
     ],
     "album": "Face Value (Deluxe Editon)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -516,7 +516,7 @@ SONGS = [
       "Stevie Wonder"
     ],
     "album": "The Definitive Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -527,7 +527,7 @@ SONGS = [
       "Diddy;Faith Evans;112"
     ],
     "album": "Bad Boy's 10th Anniversary- The Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -538,7 +538,7 @@ SONGS = [
       "Bon Jovi"
     ],
     "album": "Slippery When Wet",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -549,7 +549,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Off the Wall",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -560,7 +560,7 @@ SONGS = [
       "Michael Chagnon"
     ],
     "album": "The Way That You Move",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -571,7 +571,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "Highway to Hell",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -582,7 +582,7 @@ SONGS = [
       "Bryan Adams"
     ],
     "album": "Reckless (30th Anniversary / Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -593,7 +593,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -604,7 +604,7 @@ SONGS = [
       "The Hourglass Effect"
     ],
     "album": "Sunlight",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -615,7 +615,7 @@ SONGS = [
       "Procol Harum"
     ],
     "album": "Hits'n'Flips",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -626,7 +626,7 @@ SONGS = [
       "Mathilde Widding"
     ],
     "album": "Good Grief",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -637,7 +637,7 @@ SONGS = [
       "Foreigner"
     ],
     "album": "Agent Provocateur",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -648,7 +648,7 @@ SONGS = [
       "Gloria Gaynor"
     ],
     "album": "Hits Of The 70's",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -659,7 +659,7 @@ SONGS = [
       "Nick Phoenix"
     ],
     "album": "Armageddon Somewhere",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -670,7 +670,7 @@ SONGS = [
       "Bill Withers"
     ],
     "album": "Just As I Am",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -681,7 +681,7 @@ SONGS = [
       "George Michael"
     ],
     "album": "Ladies And Gentlemen... The Best Of George Michael",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -692,7 +692,7 @@ SONGS = [
       "Al Green"
     ],
     "album": "Let's Stay Together",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -703,7 +703,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Aftermath",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -714,7 +714,7 @@ SONGS = [
       "Fathers & Sons"
     ],
     "album": "If Tomorrow Does",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -725,7 +725,7 @@ SONGS = [
       "Simon & Garfunkel"
     ],
     "album": "Bridge Over Troubled Water",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -736,7 +736,7 @@ SONGS = [
       "No Doubt"
     ],
     "album": "Tragic Kingdom",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -747,7 +747,7 @@ SONGS = [
       "Fugees;Ms. Lauryn Hill"
     ],
     "album": "The Score (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -758,7 +758,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "Berry Is On Top",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -769,7 +769,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Pendulum (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -780,7 +780,7 @@ SONGS = [
       "The Hourglass Effect"
     ],
     "album": "Inner Ocean",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -791,7 +791,7 @@ SONGS = [
       "Otis Redding"
     ],
     "album": "The Dock of the Bay (Mono)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -802,7 +802,7 @@ SONGS = [
       "Oasis"
     ],
     "album": "(What's the Story) Morning Glory?",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -813,7 +813,7 @@ SONGS = [
       "The Clash"
     ],
     "album": "Combat Rock (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -824,7 +824,7 @@ SONGS = [
       "Louis Armstrong"
     ],
     "album": "What A Wonderful World",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -835,7 +835,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Rumours",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -846,7 +846,7 @@ SONGS = [
       "Queen"
     ],
     "album": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -857,7 +857,7 @@ SONGS = [
       "The Doobie Brothers"
     ],
     "album": "Toulouse Street",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -868,7 +868,7 @@ SONGS = [
       "The Shim Shams"
     ],
     "album": "Rain",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -879,7 +879,7 @@ SONGS = [
       "The Temptations"
     ],
     "album": "The Temptations Sing Smokey",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -890,7 +890,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "The Essential Billy Joel",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -901,7 +901,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "The Wall (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -912,7 +912,7 @@ SONGS = [
       "Lynyrd Skynyrd"
     ],
     "album": "Second Helping (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -923,7 +923,7 @@ SONGS = [
       "Chris Pannella"
     ],
     "album": "The Four Seasons of Her",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -934,7 +934,7 @@ SONGS = [
       "Ray Charles"
     ],
     "album": "Las 66 Favoritas de Jose María Íñigo y José Ramón Pardo. Vol. 1 (1958-1961) [Remastered]]",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -945,7 +945,7 @@ SONGS = [
       "The Archies"
     ],
     "album": "The Very Best Of \"The Archies\"",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -956,7 +956,7 @@ SONGS = [
       "Wham!"
     ],
     "album": "Make It Big",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -967,7 +967,7 @@ SONGS = [
       "Elton John;Kiki Dee"
     ],
     "album": "Rock Of The Westies",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -978,7 +978,7 @@ SONGS = [
       "Nancy Sinatra"
     ],
     "album": "Boots",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -989,7 +989,7 @@ SONGS = [
       "The Jackson 5"
     ],
     "album": "Diana Ross Presents The Jackson 5",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -1000,7 +1000,7 @@ SONGS = [
       "Stone Canyons"
     ],
     "album": "Mystifying",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1011,7 +1011,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "Born In The U.S.A.",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -1022,7 +1022,7 @@ SONGS = [
       "Van Morrison"
     ],
     "album": "Blowin' Your Mind!",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -1033,7 +1033,7 @@ SONGS = [
       "Sean Kehoe"
     ],
     "album": "BOOTS",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1044,7 +1044,7 @@ SONGS = [
       "Frank Sinatra;Count Basie"
     ],
     "album": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -1055,7 +1055,7 @@ SONGS = [
       "Donna Summer"
     ],
     "album": "Bad Girls",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -1066,7 +1066,7 @@ SONGS = [
       "The Everly Brothers"
     ],
     "album": "The Very Best of The Everly Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -1077,7 +1077,7 @@ SONGS = [
       "Roy Orbison"
     ],
     "album": "Oh, Pretty Woman",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -1088,7 +1088,7 @@ SONGS = [
       "Jimi Hendrix"
     ],
     "album": "Electric Ladyland",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -1099,7 +1099,7 @@ SONGS = [
       "Seal"
     ],
     "album": "Seal",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -1110,7 +1110,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Honky Chateau",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -1121,7 +1121,7 @@ SONGS = [
       "The Burkharts"
     ],
     "album": "Tell Me",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1132,7 +1132,7 @@ SONGS = [
       "Michael J Sullivan"
     ],
     "album": "My Beloved My Descendants",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -1143,7 +1143,7 @@ SONGS = [
       "The Animals"
     ],
     "album": "The Singles Plus",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -1154,7 +1154,7 @@ SONGS = [
       "Sam & Dave"
     ],
     "album": "Soul Men",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -1165,7 +1165,7 @@ SONGS = [
       "Tears For Fears"
     ],
     "album": "Songs From The Big Chair (Super Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -1176,7 +1176,7 @@ SONGS = [
       "Bill Haley & His Comets"
     ],
     "album": "Rock Around The Clock",
-    "album_image": null,
+    "album_image": None,
     "year": "1955"
   },
   {
@@ -1187,7 +1187,7 @@ SONGS = [
       "Simple Minds"
     ],
     "album": "Celebrate (Greatest Hits / Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -1198,7 +1198,7 @@ SONGS = [
       "The Four Seasons"
     ],
     "album": "The Very Best of Frankie Valli & The 4 Seasons",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -1209,7 +1209,7 @@ SONGS = [
       "The Tokens"
     ],
     "album": "The Lion Sleeps Tonight",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -1220,7 +1220,7 @@ SONGS = [
       "The Isley Brothers"
     ],
     "album": "Shout!",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -1231,7 +1231,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "The Doors",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -1242,7 +1242,7 @@ SONGS = [
       "Bob Dylan"
     ],
     "album": "Highway 61 Revisited",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -1253,7 +1253,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Willy And The Poor Boys (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -1264,7 +1264,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Abbey Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -1275,7 +1275,7 @@ SONGS = [
       "Ritchie Valens"
     ],
     "album": "Ritchie Valens",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -1286,7 +1286,7 @@ SONGS = [
       "The Weeknd"
     ],
     "album": "After Hours",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -1297,7 +1297,7 @@ SONGS = [
       "Ed Sheeran"
     ],
     "album": "÷ (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -1308,7 +1308,7 @@ SONGS = [
       "The Neighbourhood"
     ],
     "album": "I Love You.",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -1319,7 +1319,7 @@ SONGS = [
       "The Weeknd;Daft Punk"
     ],
     "album": "Starboy",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -1330,7 +1330,7 @@ SONGS = [
       "Harry Styles"
     ],
     "album": "Harry's House",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -1341,7 +1341,7 @@ SONGS = [
       "Lewis Capaldi"
     ],
     "album": "Divinely Uninspired To A Hellish Extent",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -1352,7 +1352,7 @@ SONGS = [
       "Post Malone;Swae Lee"
     ],
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -1363,7 +1363,7 @@ SONGS = [
       "Drake;Wizkid;Kyla"
     ],
     "album": "Views",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -1374,7 +1374,7 @@ SONGS = [
       "Ed Sheeran"
     ],
     "album": "÷ (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -1385,7 +1385,7 @@ SONGS = [
       "The Kid LAROI;Justin Bieber"
     ],
     "album": "F*CK LOVE 3: OVER YOU",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -1396,7 +1396,7 @@ SONGS = [
       "Imagine Dragons"
     ],
     "album": "Evolve",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -1407,7 +1407,7 @@ SONGS = [
       "Glass Animals"
     ],
     "album": "Heat Waves",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -1418,7 +1418,7 @@ SONGS = [
       "Billie Eilish;Khalid"
     ],
     "album": "lovely (with Khalid)",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -1429,7 +1429,7 @@ SONGS = [
       "The Gee-Kay Project"
     ],
     "album": "Love The Hurricane",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1440,7 +1440,7 @@ SONGS = [
       "The Chainsmokers;Halsey"
     ],
     "album": "Closer",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -1451,7 +1451,7 @@ SONGS = [
       "Lord Huron"
     ],
     "album": "Strange Trails",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -1462,7 +1462,7 @@ SONGS = [
       "Sound Birds"
     ],
     "album": "Between The Coffee And The Quiet",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -1473,7 +1473,7 @@ SONGS = [
       "Arctic Monkeys"
     ],
     "album": "AM",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -1484,7 +1484,7 @@ SONGS = [
       "Coldplay"
     ],
     "album": "Parachutes",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -1495,7 +1495,7 @@ SONGS = [
       "James Arthur"
     ],
     "album": "Back from the Edge",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -1506,7 +1506,7 @@ SONGS = [
       "The Chainsmokers;Coldplay"
     ],
     "album": "Memories...Do Not Open",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -1517,7 +1517,7 @@ SONGS = [
       "Mr. Dreem"
     ],
     "album": "Rotary View",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1528,7 +1528,7 @@ SONGS = [
       "Vance Joy"
     ],
     "album": "Dream Your Life Away",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -1539,7 +1539,7 @@ SONGS = [
       "Billie Eilish"
     ],
     "album": "HIT ME HARD AND SOFT",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -1550,7 +1550,7 @@ SONGS = [
       "Tom Odell"
     ],
     "album": "Long Way Down (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -1561,7 +1561,7 @@ SONGS = [
       "Tones And I"
     ],
     "album": "Dance Monkey (Stripped Back) / Dance Monkey",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -1572,7 +1572,7 @@ SONGS = [
       "Lady Gaga;Bruno Mars"
     ],
     "album": "Die With A Smile",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -1583,7 +1583,7 @@ SONGS = [
       "Hozier"
     ],
     "album": "Hozier (Special Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -1594,7 +1594,7 @@ SONGS = [
       "Post Malone;21 Savage"
     ],
     "album": "rockstar",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -1605,7 +1605,7 @@ SONGS = [
       "OneRepublic"
     ],
     "album": "Native",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -1616,7 +1616,7 @@ SONGS = [
       "Bella Kay"
     ],
     "album": "The Sick",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1627,7 +1627,7 @@ SONGS = [
       "Ed Sheeran"
     ],
     "album": "x (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -1638,7 +1638,7 @@ SONGS = [
       "Shawn Mendes;Camila Cabello"
     ],
     "album": "Señorita",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -1649,7 +1649,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "Lover",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -1660,7 +1660,7 @@ SONGS = [
       "Harry Styles"
     ],
     "album": "Fine Line",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -1671,7 +1671,7 @@ SONGS = [
       "Sound Birds"
     ],
     "album": "Half A Mile",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -1682,7 +1682,7 @@ SONGS = [
       "Macklemore;Ryan Lewis;Macklemore & Ryan Lewis;Ray Dalton"
     ],
     "album": "The Heist",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -1693,7 +1693,7 @@ SONGS = [
       "Coldplay"
     ],
     "album": "Viva La Vida or Death and All His Friends",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -1704,7 +1704,7 @@ SONGS = [
       "Dua Lipa"
     ],
     "album": "Future Nostalgia",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -1715,7 +1715,7 @@ SONGS = [
       "waywørd wønder"
     ],
     "album": "Stormy Eye",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -1726,7 +1726,7 @@ SONGS = [
       "The Weeknd"
     ],
     "album": "Starboy",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -1737,7 +1737,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "Doo-Wops & Hooligans",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -1748,7 +1748,7 @@ SONGS = [
       "The Goo Goo Dolls"
     ],
     "album": "Dizzy up the Girl",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -1759,7 +1759,7 @@ SONGS = [
       "Post Malone"
     ],
     "album": "Hollywood's Bleeding",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -1770,7 +1770,7 @@ SONGS = [
       "Juice WRLD"
     ],
     "album": "Goodbye & Good Riddance",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -1781,7 +1781,7 @@ SONGS = [
       "Alek Sandar;Young Thug"
     ],
     "album": "1000 Miles",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1792,7 +1792,7 @@ SONGS = [
       "Travis Scott"
     ],
     "album": "Birds In The Trap Sing McKnight",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -1803,7 +1803,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Purpose (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -1814,7 +1814,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "Unorthodox Jukebox",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -1825,7 +1825,7 @@ SONGS = [
       "Lil Xtravert"
     ],
     "album": "Hospital",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1836,7 +1836,7 @@ SONGS = [
       "Ed Sheeran"
     ],
     "album": "x (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -1847,7 +1847,7 @@ SONGS = [
       "Lady Gaga;Bradley Cooper"
     ],
     "album": "A Star Is Born Soundtrack",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -1858,7 +1858,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "24K Magic",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -1869,7 +1869,7 @@ SONGS = [
       "Linkin Park"
     ],
     "album": "Hybrid Theory (Bonus Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -1880,7 +1880,7 @@ SONGS = [
       "Sentury"
     ],
     "album": "Forever",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -1891,7 +1891,7 @@ SONGS = [
       "Avicii"
     ],
     "album": "True",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -1902,7 +1902,7 @@ SONGS = [
       "The Killers"
     ],
     "album": "Hot Fuss",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -1913,7 +1913,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "Unorthodox Jukebox",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -1924,7 +1924,7 @@ SONGS = [
       "John Legend"
     ],
     "album": "Love In The Future (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -1935,7 +1935,7 @@ SONGS = [
       "Drake"
     ],
     "album": "Scary Hours",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -1946,7 +1946,7 @@ SONGS = [
       "Ryan Witherspoon;Jadakiss"
     ],
     "album": "Take Money",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -1957,7 +1957,7 @@ SONGS = [
       "Eminem"
     ],
     "album": "The Eminem Show",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -1968,7 +1968,7 @@ SONGS = [
       "Imagine Dragons"
     ],
     "album": "Evolve",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -1979,7 +1979,7 @@ SONGS = [
       "The Weeknd"
     ],
     "album": "Beauty Behind The Madness",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -1990,7 +1990,7 @@ SONGS = [
       "Imagine Dragons"
     ],
     "album": "Night Visions (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -2001,7 +2001,7 @@ SONGS = [
       "Jt5k"
     ],
     "album": "Stay",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -2012,7 +2012,7 @@ SONGS = [
       "Twenty One Pilots"
     ],
     "album": "Blurryface",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -2023,7 +2023,7 @@ SONGS = [
       "Billie Eilish"
     ],
     "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -2034,7 +2034,7 @@ SONGS = [
       "Arctic Monkeys"
     ],
     "album": "AM",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -2045,7 +2045,7 @@ SONGS = [
       "DJ Snake;Justin Bieber"
     ],
     "album": "Encore",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -2056,7 +2056,7 @@ SONGS = [
       "Darius Martin;Cool & Dre"
     ],
     "album": "Sorry No More",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -2067,7 +2067,7 @@ SONGS = [
       "Kendrick Lamar"
     ],
     "album": "DAMN.",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -2078,7 +2078,7 @@ SONGS = [
       "Kendrick Lamar;SZA"
     ],
     "album": "Black Panther The Album Music From And Inspired By",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -2089,7 +2089,7 @@ SONGS = [
       "J. Cole"
     ],
     "album": "2014 Forest Hills Drive",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -2100,7 +2100,7 @@ SONGS = [
       "Eminem"
     ],
     "album": "SHADYXV",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -2111,7 +2111,7 @@ SONGS = [
       "French Montana;Swae Lee"
     ],
     "album": "Jungle Rules",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -2122,7 +2122,7 @@ SONGS = [
       "Sabrina Carpenter"
     ],
     "album": "Please Please Please",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -2134,7 +2134,7 @@ SONGS = [
       "The Creator;Kali Uchis"
     ],
     "album": "Flower Boy",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -2145,7 +2145,7 @@ SONGS = [
       "Jung Kook;Latto"
     ],
     "album": "GOLDEN",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -2156,7 +2156,7 @@ SONGS = [
       "Miley Cyrus"
     ],
     "album": "Endless Summer Vacation",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -2167,7 +2167,7 @@ SONGS = [
       "Shawn Mendes"
     ],
     "album": "Illuminate (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -2178,7 +2178,7 @@ SONGS = [
       "Passenger"
     ],
     "album": "All The Little Lights",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -2189,7 +2189,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "Nevermind (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -2200,7 +2200,7 @@ SONGS = [
       "Benson Boone"
     ],
     "album": "Fireworks & Rollerblades",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -2211,7 +2211,7 @@ SONGS = [
       "TEHYA"
     ],
     "album": "It's You",
-    "album_image": null,
+    "album_image": None,
     "year": "2026"
   },
   {
@@ -2222,7 +2222,7 @@ SONGS = [
       "Olivia Rodrigo"
     ],
     "album": "SOUR",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -2233,7 +2233,7 @@ SONGS = [
       "Ariana Grande"
     ],
     "album": "thank u, next",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -2244,7 +2244,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Purpose (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -2255,7 +2255,7 @@ SONGS = [
       "Coldplay"
     ],
     "album": "A Rush of Blood to the Head",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -2266,7 +2266,7 @@ SONGS = [
       "Journey"
     ],
     "album": "The Essential Journey",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -2277,7 +2277,7 @@ SONGS = [
       "SZA"
     ],
     "album": "SOS",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -2288,7 +2288,7 @@ SONGS = [
       "Shawn Mendes"
     ],
     "album": "Illuminate (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -2299,7 +2299,7 @@ SONGS = [
       "Steinsdotter;Lovec Mx"
     ],
     "album": "LDN calling CDMX",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -2310,7 +2310,7 @@ SONGS = [
       "Radiohead"
     ],
     "album": "Pablo Honey",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -2321,7 +2321,7 @@ SONGS = [
       "Oasis"
     ],
     "album": "(What's The Story) Morning Glory?",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -2332,7 +2332,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Greatest Hits (2024 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -2343,7 +2343,7 @@ SONGS = [
       "Queen;David Bowie"
     ],
     "album": "Hot Space (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -2354,7 +2354,7 @@ SONGS = [
       "Whitney Houston"
     ],
     "album": "Whitney",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -2365,7 +2365,7 @@ SONGS = [
       "The Outfield"
     ],
     "album": "Play Deep",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -2376,7 +2376,7 @@ SONGS = [
       "Kenny Loggins"
     ],
     "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -2388,7 +2388,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "Raise!",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -2399,7 +2399,7 @@ SONGS = [
       "Madonna"
     ],
     "album": "Celebration (double disc version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -2410,7 +2410,7 @@ SONGS = [
       "Joan Jett & the Blackhearts"
     ],
     "album": "I Love Rock 'N' Roll (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -2421,7 +2421,7 @@ SONGS = [
       "Bonnie Tyler"
     ],
     "album": "The Very Best of Bonnie Tyler",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -2432,7 +2432,7 @@ SONGS = [
       "Guns N' Roses"
     ],
     "album": "Appetite For Destruction",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -2443,7 +2443,7 @@ SONGS = [
       "Eurythmics;Annie Lennox;Dave Stewart"
     ],
     "album": "Sweet Dreams (Are Made Of This)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -2454,7 +2454,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Works (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -2465,7 +2465,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "Back In Black",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2476,7 +2476,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "An Innocent Man",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -2487,7 +2487,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "H2O",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -2498,7 +2498,7 @@ SONGS = [
       "Men At Work"
     ],
     "album": "Business As Usual",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -2509,7 +2509,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Game (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2520,7 +2520,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "Storm Front",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -2531,7 +2531,7 @@ SONGS = [
       "Survivor"
     ],
     "album": "Eye Of The Tiger",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -2542,7 +2542,7 @@ SONGS = [
       "Cyndi Lauper"
     ],
     "album": "She's So Unusual",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -2553,7 +2553,7 @@ SONGS = [
       "The Romantics"
     ],
     "album": "In Heat (2023 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -2564,7 +2564,7 @@ SONGS = [
       "The Cure"
     ],
     "album": "Kiss Me, Kiss Me, Kiss Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -2575,7 +2575,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "Back In Black",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2586,7 +2586,7 @@ SONGS = [
       "The Human League"
     ],
     "album": "Dare!",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -2597,7 +2597,7 @@ SONGS = [
       "Sade"
     ],
     "album": "The Best of Sade",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -2608,7 +2608,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "Voices",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2619,7 +2619,7 @@ SONGS = [
       "George Michael"
     ],
     "album": "Faith",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -2630,7 +2630,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "Born In The U.S.A.",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -2641,7 +2641,7 @@ SONGS = [
       "Living Colour"
     ],
     "album": "Vivid (2023 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -2652,7 +2652,7 @@ SONGS = [
       "Wham!"
     ],
     "album": "Make It Big",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -2663,7 +2663,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Number Ones",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -2674,7 +2674,7 @@ SONGS = [
       "Sade"
     ],
     "album": "The Best of Sade",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -2685,7 +2685,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Rio (Collector's Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -2696,7 +2696,7 @@ SONGS = [
       "Barry Manilow"
     ],
     "album": "Dance Vault Mixes - Copacabana (At The Copa)",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -2707,7 +2707,7 @@ SONGS = [
       "Teena Marie"
     ],
     "album": "Starchild (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -2718,7 +2718,7 @@ SONGS = [
       "The Clash"
     ],
     "album": "Combat Rock (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -2729,7 +2729,7 @@ SONGS = [
       "Bronski Beat"
     ],
     "album": "The Age of Consent",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -2740,7 +2740,7 @@ SONGS = [
       "Dead Or Alive"
     ],
     "album": "Evolution: The Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -2751,7 +2751,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "Glass Houses",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2762,7 +2762,7 @@ SONGS = [
       "Kate Bush"
     ],
     "album": "Hounds of Love (2018 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -2773,7 +2773,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Game (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2784,7 +2784,7 @@ SONGS = [
       "Milli Vanilli"
     ],
     "album": "The Best of Milli Vanilli (35th Anniversary)",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -2795,7 +2795,7 @@ SONGS = [
       "Guns N' Roses"
     ],
     "album": "Appetite For Destruction",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -2806,7 +2806,7 @@ SONGS = [
       "Dolly Parton"
     ],
     "album": "9 To 5 And Odd Jobs",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2817,7 +2817,7 @@ SONGS = [
       "Bon Jovi"
     ],
     "album": "Slippery When Wet",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -2828,7 +2828,7 @@ SONGS = [
       "Europe"
     ],
     "album": "The Final Countdown (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -2839,7 +2839,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "Speak and Spell (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -2850,7 +2850,7 @@ SONGS = [
       "Bob Marley & The Wailers"
     ],
     "album": "Uprising",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2861,7 +2861,7 @@ SONGS = [
       "The Smiths"
     ],
     "album": "The Queen Is Dead",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -2872,7 +2872,7 @@ SONGS = [
       "The B-52's"
     ],
     "album": "Cosmic Thing",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -2883,7 +2883,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "Let's Dance (2018 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -2894,7 +2894,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "The River",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2905,7 +2905,7 @@ SONGS = [
       "REO Speedwagon"
     ],
     "album": "Hi Infidelity (30th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2916,7 +2916,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "Back In Black",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -2927,7 +2927,7 @@ SONGS = [
       "Sade"
     ],
     "album": "The Best of Sade",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -2938,7 +2938,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Greatest Hits (2024 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -2949,7 +2949,7 @@ SONGS = [
       "Milli Vanilli"
     ],
     "album": "The Best of Milli Vanilli (35th Anniversary)",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -2960,7 +2960,7 @@ SONGS = [
       "Loverboy"
     ],
     "album": "Get Lucky",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -2971,7 +2971,7 @@ SONGS = [
       "George Michael"
     ],
     "album": "Faith",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -2982,7 +2982,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "The Razors Edge",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -2993,7 +2993,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "Private Eyes (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -3004,7 +3004,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "Music for the Masses (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3015,7 +3015,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Greatest Hits (2024 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -3026,7 +3026,7 @@ SONGS = [
       "Eric Carmen"
     ],
     "album": "The Definitive Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -3037,7 +3037,7 @@ SONGS = [
       "Kenny Loggins"
     ],
     "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -3048,7 +3048,7 @@ SONGS = [
       "Rick Springfield"
     ],
     "album": "Working Class Dog",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -3059,7 +3059,7 @@ SONGS = [
       "Ozzy Osbourne"
     ],
     "album": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -3070,7 +3070,7 @@ SONGS = [
       "Philip Bailey;Phil Collins"
     ],
     "album": "Chinese Wall (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -3081,7 +3081,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Works (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -3092,7 +3092,7 @@ SONGS = [
       "Run–D.M.C.;Aerosmith"
     ],
     "album": "Raising Hell",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3103,7 +3103,7 @@ SONGS = [
       "Guns N' Roses"
     ],
     "album": "Appetite For Destruction",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3114,7 +3114,7 @@ SONGS = [
       "Eddie Money"
     ],
     "album": "Can't Hold Back",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3125,7 +3125,7 @@ SONGS = [
       "Men At Work"
     ],
     "album": "Business As Usual",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -3136,7 +3136,7 @@ SONGS = [
       "U2"
     ],
     "album": "The Joshua Tree (Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3147,7 +3147,7 @@ SONGS = [
       "REO Speedwagon"
     ],
     "album": "Wheels Are Turnin'",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -3158,7 +3158,7 @@ SONGS = [
       "Paul Simon"
     ],
     "album": "Graceland (25th Anniversary Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3169,7 +3169,7 @@ SONGS = [
       "Adam & The Ants"
     ],
     "album": "Prince Charming (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -3180,7 +3180,7 @@ SONGS = [
       "Spandau Ballet"
     ],
     "album": "The Twelve Inch Mixes",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3191,7 +3191,7 @@ SONGS = [
       "Billy Ocean"
     ],
     "album": "The Very Best of Billy Ocean",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -3202,7 +3202,7 @@ SONGS = [
       "Prince"
     ],
     "album": "Around The World In A Day",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -3213,7 +3213,7 @@ SONGS = [
       "Matthew Wilder"
     ],
     "album": "I Don't Speak The Language",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -3224,7 +3224,7 @@ SONGS = [
       "Daryl Braithwaite"
     ],
     "album": "Edge",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -3235,7 +3235,7 @@ SONGS = [
       "Queen"
     ],
     "album": "A Kind of Magic (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3246,7 +3246,7 @@ SONGS = [
       "New Order"
     ],
     "album": "Substance",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3257,7 +3257,7 @@ SONGS = [
       "Berlin"
     ],
     "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -3268,7 +3268,7 @@ SONGS = [
       "Indigo Girls"
     ],
     "album": "Indigo Girls (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -3279,7 +3279,7 @@ SONGS = [
       "Alabama"
     ],
     "album": "The Closer You Get...",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -3290,7 +3290,7 @@ SONGS = [
       "Milli Vanilli"
     ],
     "album": "The Best of Milli Vanilli (35th Anniversary)",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -3301,7 +3301,7 @@ SONGS = [
       "'Til Tuesday"
     ],
     "album": "Voices Carry (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -3312,7 +3312,7 @@ SONGS = [
       "Deniece Williams"
     ],
     "album": "Let's Hear It for the Boy (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -3323,7 +3323,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "A Momentary Lapse of Reason",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3334,7 +3334,7 @@ SONGS = [
       "Rick Astley"
     ],
     "album": "Whenever You Need Somebody",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3345,7 +3345,7 @@ SONGS = [
       "The The"
     ],
     "album": "Soul Mining",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -3356,7 +3356,7 @@ SONGS = [
       "Pet Shop Boys"
     ],
     "album": "Electrospective: Electronic Music Since 1958",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -3367,7 +3367,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Tango In the Night (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3378,7 +3378,7 @@ SONGS = [
       "Katrina & The Waves"
     ],
     "album": "Katrina & The Waves",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -3389,7 +3389,7 @@ SONGS = [
       "Alice Cooper"
     ],
     "album": "Trash",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -3400,7 +3400,7 @@ SONGS = [
       "Quiet Riot"
     ],
     "album": "Metal Health",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -3411,7 +3411,7 @@ SONGS = [
       "TOTO"
     ],
     "album": "Toto IV",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -3422,7 +3422,7 @@ SONGS = [
       "Cowboy Junkies"
     ],
     "album": "The Trinity Session",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -3433,7 +3433,7 @@ SONGS = [
       "Wham!"
     ],
     "album": "Fantastic",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -3444,7 +3444,7 @@ SONGS = [
       "Bananarama"
     ],
     "album": "True Confessions (Collector's Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3455,7 +3455,7 @@ SONGS = [
       "Marvin Gaye"
     ],
     "album": "Midnight Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -3466,7 +3466,7 @@ SONGS = [
       "Whitney Houston"
     ],
     "album": "Whitney Houston",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -3477,7 +3477,7 @@ SONGS = [
       "Air Supply"
     ],
     "album": "Lost in Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -3488,7 +3488,7 @@ SONGS = [
       "The Alan Parsons Project"
     ],
     "album": "Eye In The Sky (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -3499,7 +3499,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "Music for the Masses (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3510,7 +3510,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Off the Wall",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -3521,7 +3521,7 @@ SONGS = [
       "The Pointer Sisters"
     ],
     "album": "So Excited! (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -3532,7 +3532,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "Born In The U.S.A.",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -3543,7 +3543,7 @@ SONGS = [
       "Loverboy"
     ],
     "album": "Loverboy",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -3554,7 +3554,7 @@ SONGS = [
       "Air Supply"
     ],
     "album": "Lost in Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -3565,7 +3565,7 @@ SONGS = [
       "Patty Smyth"
     ],
     "album": "Patty Smyth's Greatest Hits Featuring Scandal",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -3576,7 +3576,7 @@ SONGS = [
       "Run–D.M.C."
     ],
     "album": "Raising Hell",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3587,7 +3587,7 @@ SONGS = [
       "Midnight Oil"
     ],
     "album": "Diesel And Dust",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3598,7 +3598,7 @@ SONGS = [
       "Teddy Pendergrass"
     ],
     "album": "TP (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -3609,7 +3609,7 @@ SONGS = [
       "The Bangles;Susanna Hoffs"
     ],
     "album": "The Essential Bangles",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -3620,7 +3620,7 @@ SONGS = [
       "Luther Vandross"
     ],
     "album": "Never Too Much",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -3631,7 +3631,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Greatest Hits (2024 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -3642,7 +3642,7 @@ SONGS = [
       "Joan Jett & the Blackhearts"
     ],
     "album": "Up Your Alley",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -3653,7 +3653,7 @@ SONGS = [
       "Judas Priest"
     ],
     "album": "Screaming For Vengeance (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -3664,7 +3664,7 @@ SONGS = [
       "The Alan Parsons Project"
     ],
     "album": "Eye In The Sky (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -3675,7 +3675,7 @@ SONGS = [
       "Roy Orbison"
     ],
     "album": "Mystery Girl",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -3686,7 +3686,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "Some Great Reward (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -3697,7 +3697,7 @@ SONGS = [
       "Bruce Hornsby and the Range"
     ],
     "album": "The Way It Is",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3708,7 +3708,7 @@ SONGS = [
       "Whitney Houston"
     ],
     "album": "Whitney Houston",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -3719,7 +3719,7 @@ SONGS = [
       "Living Colour"
     ],
     "album": "Vivid (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -3730,7 +3730,7 @@ SONGS = [
       "Cheap Trick"
     ],
     "album": "Lap Of Luxury",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -3741,7 +3741,7 @@ SONGS = [
       "Steve Perry"
     ],
     "album": "Street Talk (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -3752,7 +3752,7 @@ SONGS = [
       "Survivor"
     ],
     "album": "Rocky IV",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -3763,7 +3763,7 @@ SONGS = [
       "Cyndi Lauper"
     ],
     "album": "True Colors",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -3774,7 +3774,7 @@ SONGS = [
       "Bill Medley;Jennifer Warnes"
     ],
     "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -3786,7 +3786,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "The Best Of Earth, Wind & Fire Vol. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -3797,7 +3797,7 @@ SONGS = [
       "Redbone"
     ],
     "album": "Come and Get Your Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -3808,7 +3808,7 @@ SONGS = [
       "The Five Stairsteps"
     ],
     "album": "The First Family of Soul: The Best of The Five Stairsteps",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -3819,7 +3819,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "Piano Man (Legacy Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -3830,7 +3830,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis (Fool)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -3841,7 +3841,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "Bigger Than Both Of Us",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -3852,7 +3852,7 @@ SONGS = [
       "Wild Cherry"
     ],
     "album": "Wild Cherry",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -3863,7 +3863,7 @@ SONGS = [
       "Queen"
     ],
     "album": "Jazz (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -3874,7 +3874,7 @@ SONGS = [
       "Sly & The Family Stone"
     ],
     "album": "R&B: From Doo-Wop To Hip-Hop",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -3885,7 +3885,7 @@ SONGS = [
       "Looking Glass"
     ],
     "album": "Looking Glass",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -3896,7 +3896,7 @@ SONGS = [
       "The Jacksons"
     ],
     "album": "Destiny",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -3907,7 +3907,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "Born To Run",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -3918,7 +3918,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "Daryl Hall & John Oates (The Silver Album)",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -3929,7 +3929,7 @@ SONGS = [
       "Bob Dylan"
     ],
     "album": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -3940,7 +3940,7 @@ SONGS = [
       "Roberta Flack"
     ],
     "album": "Killing Me Softly",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -3951,7 +3951,7 @@ SONGS = [
       "Queen"
     ],
     "album": "A Day At The Races (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -3962,7 +3962,7 @@ SONGS = [
       "The Emotions"
     ],
     "album": "Rejoice",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -3973,7 +3973,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "Wish You Were Here",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -3984,7 +3984,7 @@ SONGS = [
       "John Denver"
     ],
     "album": "Poems, Prayers and Promises",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -3995,7 +3995,7 @@ SONGS = [
       "Waylon Jennings"
     ],
     "album": "The Essential Waylon Jennings",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -4006,7 +4006,7 @@ SONGS = [
       "Queen"
     ],
     "album": "A Night At The Opera (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -4017,7 +4017,7 @@ SONGS = [
       "Yusuf / Cat Stevens"
     ],
     "album": "Tea For The Tillerman (Remastered 2020)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -4028,7 +4028,7 @@ SONGS = [
       "Electric Light Orchestra"
     ],
     "album": "Out of the Blue",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4039,7 +4039,7 @@ SONGS = [
       "Heart"
     ],
     "album": "Little Queen",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4050,7 +4050,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Outlandos D'Amour (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -4061,7 +4061,7 @@ SONGS = [
       "Kansas"
     ],
     "album": "Leftoverture (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4072,7 +4072,7 @@ SONGS = [
       "Bill Withers"
     ],
     "album": "Menagerie",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4083,7 +4083,7 @@ SONGS = [
       "TOTO"
     ],
     "album": "Toto",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -4094,7 +4094,7 @@ SONGS = [
       "Johnny Nash"
     ],
     "album": "The Best Of",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -4105,7 +4105,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "The Stranger (Legacy Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4116,7 +4116,7 @@ SONGS = [
       "Blue Öyster Cult"
     ],
     "album": "Agents Of Fortune",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4127,7 +4127,7 @@ SONGS = [
       "Queen"
     ],
     "album": "Sheer Heart Attack (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -4138,7 +4138,7 @@ SONGS = [
       "Carole King"
     ],
     "album": "Tapestry",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -4149,7 +4149,7 @@ SONGS = [
       "Dolly Parton"
     ],
     "album": "Jolene",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -4160,7 +4160,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "How Can You Mend A Broken Heart",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -4171,7 +4171,7 @@ SONGS = [
       "ABBA"
     ],
     "album": "Voulez-Vous",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -4182,7 +4182,7 @@ SONGS = [
       "Janis Joplin"
     ],
     "album": "Pearl (Legacy Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -4193,7 +4193,7 @@ SONGS = [
       "Electric Light Orchestra"
     ],
     "album": "Discovery",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -4204,7 +4204,7 @@ SONGS = [
       "David Essex"
     ],
     "album": "David Essex",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -4215,7 +4215,7 @@ SONGS = [
       "Commodores"
     ],
     "album": "Commodores",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4226,7 +4226,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "Darkness On the Edge of Town",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -4237,7 +4237,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Rumours (Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4248,7 +4248,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "The Dark Side of the Moon",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -4259,7 +4259,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Staying Alive (Original Motion Picture Soundtrack)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4270,7 +4270,7 @@ SONGS = [
       "The Romantics"
     ],
     "album": "The Romantics",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -4281,7 +4281,7 @@ SONGS = [
       "Roger Waters"
     ],
     "album": "Money",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -4292,7 +4292,7 @@ SONGS = [
       "Gladys Knight & The Pips"
     ],
     "album": "Imagination (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -4303,7 +4303,7 @@ SONGS = [
       "The Charlie Daniels Band"
     ],
     "album": "A Decade Of Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -4314,7 +4314,7 @@ SONGS = [
       "LaBelle"
     ],
     "album": "Nightbirds",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -4326,7 +4326,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "That's The Way Of The World",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -4337,7 +4337,7 @@ SONGS = [
       "Queen"
     ],
     "album": "News Of The World (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4348,7 +4348,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Elton John",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -4359,7 +4359,7 @@ SONGS = [
       "Santana"
     ],
     "album": "Santana's Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -4370,7 +4370,7 @@ SONGS = [
       "Lou Rawls"
     ],
     "album": "All Things In Time",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4381,7 +4381,7 @@ SONGS = [
       "The O'Jays"
     ],
     "album": "Back Stabbers",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -4393,7 +4393,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "That's The Way Of The World",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -4404,7 +4404,7 @@ SONGS = [
       "Lou Reed"
     ],
     "album": "Transformer",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -4415,7 +4415,7 @@ SONGS = [
       "Silver"
     ],
     "album": "Silver",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4426,7 +4426,7 @@ SONGS = [
       "Southside Johnny And The Asbury Jukes"
     ],
     "album": "I Don't Want to Go Home (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4437,7 +4437,7 @@ SONGS = [
       "Aerosmith"
     ],
     "album": "Toys In The Attic",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -4448,7 +4448,7 @@ SONGS = [
       "Bob Marley & The Wailers"
     ],
     "album": "Legend - The Best Of Bob Marley And The Wailers",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -4459,7 +4459,7 @@ SONGS = [
       "Boz Scaggs"
     ],
     "album": "Silk Degrees",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4470,7 +4470,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Greatest Hits (2024 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -4481,7 +4481,7 @@ SONGS = [
       "Cheryl Lynn"
     ],
     "album": "Cheryl Lynn (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -4492,7 +4492,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "Turnstiles",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4503,7 +4503,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Off the Wall",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -4514,7 +4514,7 @@ SONGS = [
       "Ram Jam"
     ],
     "album": "Ram Jam",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4525,7 +4525,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Greatest",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -4536,7 +4536,7 @@ SONGS = [
       "ZZ Top"
     ],
     "album": "Tres Hombres (Expanded 2006 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -4547,7 +4547,7 @@ SONGS = [
       "Eagles"
     ],
     "album": "Eagles (2013 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -4558,7 +4558,7 @@ SONGS = [
       "John Travolta;Olivia Newton-John"
     ],
     "album": "Grease (The Original Motion Picture Soundtrack)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -4569,7 +4569,7 @@ SONGS = [
       "Carole King"
     ],
     "album": "Tapestry",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -4580,7 +4580,7 @@ SONGS = [
       "ABBA"
     ],
     "album": "Arrival",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4591,7 +4591,7 @@ SONGS = [
       "Led Zeppelin"
     ],
     "album": "Led Zeppelin III (Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -4602,7 +4602,7 @@ SONGS = [
       "Eddie Money"
     ],
     "album": "Eddie Money (2022 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4613,7 +4613,7 @@ SONGS = [
       "Harry Nilsson"
     ],
     "album": "Nilsson Schmilsson",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -4624,7 +4624,7 @@ SONGS = [
       "Bob Dylan"
     ],
     "album": "Desire",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4635,7 +4635,7 @@ SONGS = [
       "ABBA"
     ],
     "album": "Abba",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -4646,7 +4646,7 @@ SONGS = [
       "Eric Clapton"
     ],
     "album": "Slowhand 35th Anniversary (Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4657,7 +4657,7 @@ SONGS = [
       "Bill Withers"
     ],
     "album": "Still Bill",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -4668,7 +4668,7 @@ SONGS = [
       "Patti Smith"
     ],
     "album": "Easter",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -4679,7 +4679,7 @@ SONGS = [
       "Boston"
     ],
     "album": "Don't Look Back",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -4690,7 +4690,7 @@ SONGS = [
       "Dolly Parton"
     ],
     "album": "Jolene",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -4701,7 +4701,7 @@ SONGS = [
       "Mountain"
     ],
     "album": "Climbing!",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -4713,7 +4713,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "I Am",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -4724,7 +4724,7 @@ SONGS = [
       "Waylon Jennings;Willie Nelson"
     ],
     "album": "Waylon & Willie",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -4735,7 +4735,7 @@ SONGS = [
       "Rachel Faro"
     ],
     "album": "Refugees",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -4746,7 +4746,7 @@ SONGS = [
       "Dolly Parton"
     ],
     "album": "Here You Come Again",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4757,7 +4757,7 @@ SONGS = [
       "The Isley Brothers"
     ],
     "album": "The Heat Is On",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -4768,7 +4768,7 @@ SONGS = [
       "The Manhattans"
     ],
     "album": "The Manhattans (Expanded Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4779,7 +4779,7 @@ SONGS = [
       "Harold Melvin & The Blue Notes"
     ],
     "album": "The Essential Teddy Pendergrass",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -4790,7 +4790,7 @@ SONGS = [
       "Aerosmith"
     ],
     "album": "Aerosmith",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -4801,7 +4801,7 @@ SONGS = [
       "Cass Elliot"
     ],
     "album": "Cass Elliot (With Bonus Tracks)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -4812,7 +4812,7 @@ SONGS = [
       "Barry Manilow"
     ],
     "album": "Barry Manilow II",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -4823,7 +4823,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis (Fool)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -4834,7 +4834,7 @@ SONGS = [
       "The Isley Brothers"
     ],
     "album": "Go for Your Guns",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4845,7 +4845,7 @@ SONGS = [
       "Julio Iglesias"
     ],
     "album": "Emociones",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -4856,7 +4856,7 @@ SONGS = [
       "Santana"
     ],
     "album": "Abraxas",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -4867,7 +4867,7 @@ SONGS = [
       "McFadden & Whitehead"
     ],
     "album": "The Best Of Philadelphia International Records",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -4878,7 +4878,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "High Voltage",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4889,7 +4889,7 @@ SONGS = [
       "Meat Loaf"
     ],
     "album": "Bat Out Of Hell",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4900,7 +4900,7 @@ SONGS = [
       "Cheap Trick"
     ],
     "album": "In Color",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4911,7 +4911,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "High Voltage",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -4922,7 +4922,7 @@ SONGS = [
       "Loggins & Messina"
     ],
     "album": "The Best: Loggins & Messina Sittin' In Again",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -4933,7 +4933,7 @@ SONGS = [
       "Sly & The Family Stone"
     ],
     "album": "There's A Riot Goin' On (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -4944,7 +4944,7 @@ SONGS = [
       "Billy Paul"
     ],
     "album": "360 Degrees of Billy Paul (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -4955,7 +4955,7 @@ SONGS = [
       "Meat Loaf"
     ],
     "album": "Bat Out Of Hell",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4967,7 +4967,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "All 'N All",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4978,7 +4978,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "The Stranger (Legacy Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -4989,7 +4989,7 @@ SONGS = [
       "Kansas"
     ],
     "album": "Point Of Know Return (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -5000,7 +5000,7 @@ SONGS = [
       "John Denver"
     ],
     "album": "Back Home Again",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -5011,7 +5011,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "Born To Run",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -5022,7 +5022,7 @@ SONGS = [
       "Electric Light Orchestra"
     ],
     "album": "Discovery",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -5033,7 +5033,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Greatest Hits (2024 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -5045,7 +5045,7 @@ SONGS = [
       "Wind & Fire;The Emotions"
     ],
     "album": "I Am",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -5056,7 +5056,7 @@ SONGS = [
       "The Jacksons"
     ],
     "album": "The Jacksons",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -5067,7 +5067,7 @@ SONGS = [
       "Simon & Garfunkel"
     ],
     "album": "Bridge Over Troubled Water",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -5078,7 +5078,7 @@ SONGS = [
       "Albert Hammond"
     ],
     "album": "It Never Rains In Southern California",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -5089,7 +5089,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Greatest Hits (2024 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -5100,7 +5100,7 @@ SONGS = [
       "Bill Withers"
     ],
     "album": "Still Bill",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -5111,7 +5111,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "The Stranger (Legacy Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -5122,7 +5122,7 @@ SONGS = [
       "Boney M."
     ],
     "album": "Nightflight to Venus",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -5133,7 +5133,7 @@ SONGS = [
       "Boston"
     ],
     "album": "Boston",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -5144,7 +5144,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "The Stranger (Legacy Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -5155,7 +5155,7 @@ SONGS = [
       "Billy Ocean"
     ],
     "album": "Billy Ocean (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -5166,7 +5166,7 @@ SONGS = [
       "Van Morrison"
     ],
     "album": "The Essential Van Morrison",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -5177,7 +5177,7 @@ SONGS = [
       "Lou Reed"
     ],
     "album": "Transformer",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -5188,7 +5188,7 @@ SONGS = [
       "Pure Prairie League"
     ],
     "album": "Aimee And Other Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -5199,7 +5199,7 @@ SONGS = [
       "Carole King"
     ],
     "album": "Tapestry",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -5210,7 +5210,7 @@ SONGS = [
       "Paul Simon"
     ],
     "album": "There Goes Rhymin' Simon",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -5221,7 +5221,7 @@ SONGS = [
       "Ted Nugent"
     ],
     "album": "Ted Nugent",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -5232,7 +5232,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis 30 #1 Hits (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -5243,7 +5243,7 @@ SONGS = [
       "Stealers Wheel"
     ],
     "album": "Stealers Wheel",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -5254,7 +5254,7 @@ SONGS = [
       "Stevie Wonder"
     ],
     "album": "Songs In The Key Of Life",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -5265,7 +5265,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "Berry Is On Top",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -5276,7 +5276,7 @@ SONGS = [
       "Pilot"
     ],
     "album": "From The Album Of The Same Name",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -5287,7 +5287,7 @@ SONGS = [
       "KISS"
     ],
     "album": "Dressed To Kill",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -5298,7 +5298,7 @@ SONGS = [
       "Blue Swede;Björn Skifs"
     ],
     "album": "Hooked On A Feeling",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -5309,7 +5309,7 @@ SONGS = [
       "Rupert Holmes"
     ],
     "album": "Partners In Crime",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -5320,7 +5320,7 @@ SONGS = [
       "Queen"
     ],
     "album": "News Of The World (Deluxe Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -5332,7 +5332,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "The Eternal Dance",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -5343,7 +5343,7 @@ SONGS = [
       "Guns N' Roses"
     ],
     "album": "Appetite For Destruction",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -5354,7 +5354,7 @@ SONGS = [
       "Glen Campbell"
     ],
     "album": "Southern Nights",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -5365,7 +5365,7 @@ SONGS = [
       "The Spinners"
     ],
     "album": "The Very Best of the Spinners",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -5376,7 +5376,7 @@ SONGS = [
       "Aerosmith"
     ],
     "album": "Aerosmith",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -5387,7 +5387,7 @@ SONGS = [
       "War"
     ],
     "album": "Why Can't We Be Friends?",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -5398,7 +5398,7 @@ SONGS = [
       "Sweet"
     ],
     "album": "Desolation Boulevard",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -5409,7 +5409,7 @@ SONGS = [
       "Twisted Sister"
     ],
     "album": "Stay Hungry",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -5420,7 +5420,7 @@ SONGS = [
       "Dobie Gray"
     ],
     "album": "Throwback Tunes: 70s",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -5431,7 +5431,7 @@ SONGS = [
       "Simple Minds"
     ],
     "album": "Once Upon A Time (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -5442,7 +5442,7 @@ SONGS = [
       "Spin Doctors"
     ],
     "album": "Pocket Full Of Kryptonite",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -5453,7 +5453,7 @@ SONGS = [
       "Phil Collins"
     ],
     "album": "...But Seriously (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -5464,7 +5464,7 @@ SONGS = [
       "Pat Benatar"
     ],
     "album": "Crimes Of Passion",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -5475,7 +5475,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Madman Across The Water",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -5486,7 +5486,7 @@ SONGS = [
       "Dexys Midnight Runners"
     ],
     "album": "St. Paddys Day",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -5497,7 +5497,7 @@ SONGS = [
       "Semisonic"
     ],
     "album": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -5508,7 +5508,7 @@ SONGS = [
       "Whitesnake"
     ],
     "album": "Saints & Sinners",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -5519,7 +5519,7 @@ SONGS = [
       "George Thorogood & The Destroyers"
     ],
     "album": "BAD TO THE BONE",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -5530,7 +5530,7 @@ SONGS = [
       "A Flock Of Seagulls"
     ],
     "album": "A Flock Of Seagulls",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -5541,7 +5541,7 @@ SONGS = [
       "Guns N' Roses"
     ],
     "album": "Use Your Illusion II",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -5552,7 +5552,7 @@ SONGS = [
       "Queen"
     ],
     "album": "Stone Cold Classics",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -5564,7 +5564,7 @@ SONGS = [
       "Jr.;Bill Withers"
     ],
     "album": "Anthology",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -5575,7 +5575,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "The Essential Daryl Hall & John Oates",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -5586,7 +5586,7 @@ SONGS = [
       "Chicago"
     ],
     "album": "Chicago X",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -5597,7 +5597,7 @@ SONGS = [
       "Starship"
     ],
     "album": "Knee Deep In The Hoopla",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -5608,7 +5608,7 @@ SONGS = [
       "Bob Seger"
     ],
     "album": "Stranger In Town",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -5619,7 +5619,7 @@ SONGS = [
       "Rick Springfield"
     ],
     "album": "The Best Of Rick Springfield",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -5630,7 +5630,7 @@ SONGS = [
       "Def Leppard"
     ],
     "album": "Hysteria (Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -5641,7 +5641,7 @@ SONGS = [
       "The Jackson 5"
     ],
     "album": "Motown Legends: Jackson 5 - Never Can Say Goodbye",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -5652,7 +5652,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Too Low For Zero",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -5663,7 +5663,7 @@ SONGS = [
       "Don McLean"
     ],
     "album": "American Pie",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -5674,7 +5674,7 @@ SONGS = [
       "Norman Greenbaum"
     ],
     "album": "Music From The Motion Picture Michael",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -5685,7 +5685,7 @@ SONGS = [
       "Cutting Crew"
     ],
     "album": "Broadcast",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -5696,7 +5696,7 @@ SONGS = [
       "Van Halen"
     ],
     "album": "1984 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -5707,7 +5707,7 @@ SONGS = [
       "The J. Geils Band"
     ],
     "album": "Freeze Frame",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -5718,7 +5718,7 @@ SONGS = [
       "The Knack"
     ],
     "album": "Get The Knack",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -5729,7 +5729,7 @@ SONGS = [
       "The Monkees"
     ],
     "album": "More of The Monkees (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -5740,7 +5740,7 @@ SONGS = [
       "The Proclaimers"
     ],
     "album": "Sunshine on Leith",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -5751,7 +5751,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Please Please Me (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -5762,7 +5762,7 @@ SONGS = [
       "Aerosmith"
     ],
     "album": "Toys In The Attic",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -5773,7 +5773,7 @@ SONGS = [
       "Thin Lizzy"
     ],
     "album": "Jailbreak (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -5784,7 +5784,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Don't Shoot Me I'm Only The Piano Player",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -5795,7 +5795,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Tattoo You (2009 Re-Mastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -5806,7 +5806,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Goodbye Yellow Brick Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -5817,7 +5817,7 @@ SONGS = [
       "Tom Cochrane"
     ],
     "album": "Mad Mad World (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -5828,7 +5828,7 @@ SONGS = [
       "The Buggles"
     ],
     "album": "The Age Of Plastic",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -5839,7 +5839,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Game (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -5850,7 +5850,7 @@ SONGS = [
       "Foreigner"
     ],
     "album": "Foreigner (Expanded)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -5861,7 +5861,7 @@ SONGS = [
       "Queen;David Bowie"
     ],
     "album": "Hot Space (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -5872,7 +5872,7 @@ SONGS = [
       "Aerosmith"
     ],
     "album": "Permanent Vacation",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -5883,7 +5883,7 @@ SONGS = [
       "Tom Petty"
     ],
     "album": "Full Moon Fever",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -5894,7 +5894,7 @@ SONGS = [
       "The Four Seasons"
     ],
     "album": "Who Loves You",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -5905,7 +5905,7 @@ SONGS = [
       "George Harrison"
     ],
     "album": "Cloud Nine",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -5916,7 +5916,7 @@ SONGS = [
       "Bon Jovi"
     ],
     "album": "Slippery When Wet",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -5927,7 +5927,7 @@ SONGS = [
       "Bon Jovi"
     ],
     "album": "Crush",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -5938,7 +5938,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Help! (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -5949,7 +5949,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Let It Be (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -5960,7 +5960,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -5971,7 +5971,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Magical Mystery Tour (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -5982,7 +5982,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -5993,7 +5993,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -6004,7 +6004,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -6015,7 +6015,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles 1962 - 1966 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -6026,7 +6026,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Please Please Me (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -6037,7 +6037,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Abbey Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -6048,7 +6048,7 @@ SONGS = [
       "The Kinks"
     ],
     "album": "Kinks (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -6059,7 +6059,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Green River (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -6070,7 +6070,7 @@ SONGS = [
       "Asia"
     ],
     "album": "Asia",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -6081,7 +6081,7 @@ SONGS = [
       "R.E.M."
     ],
     "album": "Document (R.E.M. No. 5)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6092,7 +6092,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "52nd Street",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -6103,7 +6103,7 @@ SONGS = [
       "Poison"
     ],
     "album": "Open Up And Say . . . Ahh!",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -6114,7 +6114,7 @@ SONGS = [
       "Electric Light Orchestra"
     ],
     "album": "Out of the Blue",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -6125,7 +6125,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "\"Heroes\" (2017 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -6136,7 +6136,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -6147,7 +6147,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "Diamond Dogs (2016 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -6158,7 +6158,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "David Bowie (aka Space Oddity) [2015 Remaster]",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -6169,7 +6169,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -6180,7 +6180,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "Let's Dance (2018 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -6191,7 +6191,7 @@ SONGS = [
       "Guns N' Roses"
     ],
     "album": "Appetite For Destruction",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6202,7 +6202,7 @@ SONGS = [
       "INXS"
     ],
     "album": "Kick (Remastered 2011)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6213,7 +6213,7 @@ SONGS = [
       "Whitesnake"
     ],
     "album": "Whitesnake (2018 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6224,7 +6224,7 @@ SONGS = [
       "Paul Kelly & The Coloured Girls"
     ],
     "album": "Under the Sun",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6235,7 +6235,7 @@ SONGS = [
       "Choirboys"
     ],
     "album": "Gimme 5",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -6246,7 +6246,7 @@ SONGS = [
       "INXS"
     ],
     "album": "Kick (Remastered 2011)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6257,7 +6257,7 @@ SONGS = [
       "R.E.M."
     ],
     "album": "Document (R.E.M. No. 5)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6268,7 +6268,7 @@ SONGS = [
       "U2"
     ],
     "album": "The Joshua Tree (Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6279,7 +6279,7 @@ SONGS = [
       "Paul Kelly & The Coloured Girls"
     ],
     "album": "Under the Sun",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6290,7 +6290,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Tango In the Night (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -6301,7 +6301,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "The Wall",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -6312,7 +6312,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "The Very Best of Daryl Hall / John Oates",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -6323,7 +6323,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "Voices",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -6334,7 +6334,7 @@ SONGS = [
       "Huey Lewis & The News"
     ],
     "album": "Greatest Hits: Huey Lewis And The News",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -6345,7 +6345,7 @@ SONGS = [
       "Huey Lewis & The News"
     ],
     "album": "Fore!",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -6356,7 +6356,7 @@ SONGS = [
       "Huey Lewis & The News"
     ],
     "album": "Fore!",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -6367,7 +6367,7 @@ SONGS = [
       "Huey Lewis & The News"
     ],
     "album": "Greatest Hits: Huey Lewis And The News",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -6378,7 +6378,7 @@ SONGS = [
       "Huey Lewis & The News"
     ],
     "album": "Sports",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -6389,7 +6389,7 @@ SONGS = [
       "Joe \"Bean\" Esposito"
     ],
     "album": "The Karate Kid: The Original Motion Picture Soundtrack",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -6400,7 +6400,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Bad 25th Anniversary",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -6411,7 +6411,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Bad 25th Anniversary",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -6422,7 +6422,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Bad 25th Anniversary",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -6433,7 +6433,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Thriller 25 Super Deluxe Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -6444,7 +6444,7 @@ SONGS = [
       "Rick Astley"
     ],
     "album": "The Best of Me",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -6455,7 +6455,7 @@ SONGS = [
       "Kings of Leon"
     ],
     "album": "Only By The Night",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -6466,7 +6466,7 @@ SONGS = [
       "Paul Engemann"
     ],
     "album": "Scarface (Soundtrack)",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -6477,7 +6477,7 @@ SONGS = [
       "Dio"
     ],
     "album": "Holy Diver",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -6488,7 +6488,7 @@ SONGS = [
       "Willie Nelson"
     ],
     "album": "Willie Nelson The Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -6499,7 +6499,7 @@ SONGS = [
       "Billy Preston"
     ],
     "album": "The Kids & Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -6510,7 +6510,7 @@ SONGS = [
       "Jimmy Cliff"
     ],
     "album": "We All Are One: The Best Of Jimmy Cliff",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -6521,7 +6521,7 @@ SONGS = [
       "Kenny Loggins"
     ],
     "album": "The Essential Kenny Loggins",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -6532,7 +6532,7 @@ SONGS = [
       "Donna Summer"
     ],
     "album": "She Works Hard For The Money",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -6543,7 +6543,7 @@ SONGS = [
       "2Pac;Roger;Dr. Dre"
     ],
     "album": "Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -6554,7 +6554,7 @@ SONGS = [
       "Bill Conti"
     ],
     "album": "Rocky III: Music From The Motion Picture",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -6565,7 +6565,7 @@ SONGS = [
       "Tennessee Ernie Ford"
     ],
     "album": "Vintage Collections",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -6576,7 +6576,7 @@ SONGS = [
       "Lionel Richie"
     ],
     "album": "Back To Front",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -6587,7 +6587,7 @@ SONGS = [
       "Paul Stanley"
     ],
     "album": "Live To Win",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -6598,7 +6598,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Zenyatta Mondatta (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -6609,7 +6609,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Ghost In The Machine (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -6620,7 +6620,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Synchronicity (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -6631,7 +6631,7 @@ SONGS = [
       "Lenny Kravitz"
     ],
     "album": "Are You Gonna Go My Way",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -6642,7 +6642,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Reggatta De Blanc (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -6653,7 +6653,7 @@ SONGS = [
       "Prince"
     ],
     "album": "1999",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -6664,7 +6664,7 @@ SONGS = [
       "Split Enz"
     ],
     "album": "True Colours",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -6675,7 +6675,7 @@ SONGS = [
       "Fine Young Cannibals"
     ],
     "album": "The Raw & The Cooked",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -6686,7 +6686,7 @@ SONGS = [
       "Whitesnake"
     ],
     "album": "Whitesnake's Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -6697,7 +6697,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Beggars Banquet (50th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -6708,7 +6708,7 @@ SONGS = [
       "Stevie Wonder"
     ],
     "album": "Talking Book",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -6719,7 +6719,7 @@ SONGS = [
       "Stevie Wonder"
     ],
     "album": "In Square Circle",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -6730,7 +6730,7 @@ SONGS = [
       "Bob Marley & The Wailers"
     ],
     "album": "Exodus (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -6741,7 +6741,7 @@ SONGS = [
       "Bob Marley & The Wailers"
     ],
     "album": "Kaya",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -6752,7 +6752,7 @@ SONGS = [
       "Bob Marley & The Wailers"
     ],
     "album": "Confrontation",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -6763,7 +6763,7 @@ SONGS = [
       "Bob Marley & The Wailers"
     ],
     "album": "Live!",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -6774,7 +6774,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Rumours (Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -6785,7 +6785,7 @@ SONGS = [
       "Ram Jam"
     ],
     "album": "The Very Best Of Ram Jam",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -6796,7 +6796,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Reggatta De Blanc",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -6807,7 +6807,7 @@ SONGS = [
       "T. Rex"
     ],
     "album": "Electric Warrior",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -6818,7 +6818,7 @@ SONGS = [
       "Eric Clapton"
     ],
     "album": "461 Ocean Blvd. (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -6829,7 +6829,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "River Of Dreams",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -6840,7 +6840,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "An Innocent Man",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -6851,7 +6851,7 @@ SONGS = [
       "Robbie Williams"
     ],
     "album": "Life Thru A Lens",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -6862,7 +6862,7 @@ SONGS = [
       "Robbie Williams"
     ],
     "album": "Life Thru A Lens",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -6873,7 +6873,7 @@ SONGS = [
       "U2"
     ],
     "album": "All That You Can't Leave Behind",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -6884,7 +6884,7 @@ SONGS = [
       "U2"
     ],
     "album": "The Unforgettable Fire (Deluxe Edition Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -6895,7 +6895,7 @@ SONGS = [
       "Crowded House"
     ],
     "album": "Woodface",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -6906,7 +6906,7 @@ SONGS = [
       "Lenny Kravitz"
     ],
     "album": "5",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -6917,7 +6917,7 @@ SONGS = [
       "Robbie Williams"
     ],
     "album": "Escapology",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -6928,7 +6928,7 @@ SONGS = [
       "Roxette"
     ],
     "album": "Look Sharp! (Extended Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -6939,7 +6939,7 @@ SONGS = [
       "Pet Shop Boys"
     ],
     "album": "Discography - Complete Singles Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -6950,7 +6950,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "The Singles 86-98",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -6961,7 +6961,7 @@ SONGS = [
       "Soft Cell"
     ],
     "album": "Non-Stop Erotic Cabaret",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -6972,7 +6972,7 @@ SONGS = [
       "Twisted Sister"
     ],
     "album": "Stay Hungry",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -6983,7 +6983,7 @@ SONGS = [
       "Men At Work"
     ],
     "album": "Business As Usual",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -6994,7 +6994,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Brothers in Arms",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -7005,7 +7005,7 @@ SONGS = [
       "Kenny Loggins"
     ],
     "album": "GREATEST HITS",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -7016,7 +7016,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "All Summer Long (Mono & Stereo)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -7027,7 +7027,7 @@ SONGS = [
       "Paul McCartney;Wings"
     ],
     "album": "All The Best (UK Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -7038,7 +7038,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "Pet Sounds (Original Mono & Stereo Mix)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -7049,7 +7049,7 @@ SONGS = [
       "Men Without Hats"
     ],
     "album": "Greatest",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -7060,7 +7060,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Sultans Of Swing - The Very Best Of Dire Straits",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -7071,7 +7071,7 @@ SONGS = [
       "King Kobra"
     ],
     "album": "Thrill Of A Lifetime",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -7082,7 +7082,7 @@ SONGS = [
       "Cheap Trick"
     ],
     "album": "The Epic Archive, Vol. 3 (1984-1992)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -7093,7 +7093,7 @@ SONGS = [
       "Baxter Robinson"
     ],
     "album": "The Karate Kid: The Original Motion Picture Soundtrack",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -7104,7 +7104,7 @@ SONGS = [
       "Survivor"
     ],
     "album": "The Karate Kid: The Original Motion Picture Soundtrack",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -7115,7 +7115,7 @@ SONGS = [
       "Eric Carmen"
     ],
     "album": "Dirty Dancing: Anniversary Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -7126,7 +7126,7 @@ SONGS = [
       "Mark Morrison"
     ],
     "album": "Return of the Mack",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -7137,7 +7137,7 @@ SONGS = [
       "Wig Wam"
     ],
     "album": "Non Stop Rock'n Roll",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -7148,7 +7148,7 @@ SONGS = [
       "Oasis"
     ],
     "album": "(What's The Story) Morning Glory? [Remastered]",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -7159,7 +7159,7 @@ SONGS = [
       "Foo Fighters"
     ],
     "album": "Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -7170,7 +7170,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Magical Mystery Tour (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -7181,7 +7181,7 @@ SONGS = [
       "Jay & The Americans"
     ],
     "album": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -7192,7 +7192,7 @@ SONGS = [
       "ICEHOUSE"
     ],
     "album": "Man Of Colours",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -7203,7 +7203,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Departure",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -7214,7 +7214,7 @@ SONGS = [
       "Steppenwolf"
     ],
     "album": "Steppenwolf",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -7225,7 +7225,7 @@ SONGS = [
       "Boston"
     ],
     "album": "Boston",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -7236,7 +7236,7 @@ SONGS = [
       "Billy Idol"
     ],
     "album": "Rebel Yell",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -7247,7 +7247,7 @@ SONGS = [
       "Foo Fighters"
     ],
     "album": "There Is Nothing Left To Lose",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -7258,7 +7258,7 @@ SONGS = [
       "Bachman-Turner Overdrive"
     ],
     "album": "Not Fragile",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -7269,7 +7269,7 @@ SONGS = [
       "Steve Miller Band"
     ],
     "album": "Abracadabra",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -7280,7 +7280,7 @@ SONGS = [
       "Engelbert Humperdinck"
     ],
     "album": "A Man Without Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -7291,7 +7291,7 @@ SONGS = [
       "Engelbert Humperdinck"
     ],
     "album": "A Man Without Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -7302,7 +7302,7 @@ SONGS = [
       "Frankie Valli"
     ],
     "album": "The Very Best of Frankie Valli & The 4 Seasons",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -7313,7 +7313,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "How Can You Mend A Broken Heart",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -7324,7 +7324,7 @@ SONGS = [
       "The Smiths"
     ],
     "album": "Hatful of Hollow",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -7335,7 +7335,7 @@ SONGS = [
       "Madness"
     ],
     "album": "The Rise & Fall",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -7346,7 +7346,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Rumours",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -7357,7 +7357,7 @@ SONGS = [
       "Billy Idol"
     ],
     "album": "Billy Idol",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -7368,7 +7368,7 @@ SONGS = [
       "Steve Winwood"
     ],
     "album": "'80s Pop #1's",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -7379,7 +7379,7 @@ SONGS = [
       "Michael Sembello"
     ],
     "album": "Flashdance (Original Soundtrack From The Motion Picture)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -7390,7 +7390,7 @@ SONGS = [
       "Men At Work"
     ],
     "album": "The Best Of Men At Work: Contraband",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -7401,7 +7401,7 @@ SONGS = [
       "Bonnie Tyler"
     ],
     "album": "Secret Dreams and Forbidden Fire",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -7412,7 +7412,7 @@ SONGS = [
       "Lipps Inc."
     ],
     "album": "'80s Pop #1's",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -7424,7 +7424,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "The Best Of Earth, Wind & Fire Vol. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -7435,7 +7435,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Timeless - The All-Time Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -7446,7 +7446,7 @@ SONGS = [
       "UB40"
     ],
     "album": "The Best Of UB40 Volume I",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -7457,7 +7457,7 @@ SONGS = [
       "James Brown & The Famous Flames"
     ],
     "album": "I Got You (I Feel Good)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -7468,7 +7468,7 @@ SONGS = [
       "The Temptations"
     ],
     "album": "The Temptations Sing Smokey",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -7479,7 +7479,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Timeless - The All-Time Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -7490,7 +7490,7 @@ SONGS = [
       "Haddaway"
     ],
     "album": "The Album",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -7501,7 +7501,7 @@ SONGS = [
       "Rick James"
     ],
     "album": "Street Songs (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -7512,7 +7512,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Timeless - The All-Time Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -7523,7 +7523,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Timeless - The All-Time Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -7534,7 +7534,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "The Ultimate Bee Gees",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -7545,7 +7545,7 @@ SONGS = [
       "Edwin Starr"
     ],
     "album": "War And Peace",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -7556,7 +7556,7 @@ SONGS = [
       "Patrick Hernandez"
     ],
     "album": "Born to Be Alive (The Original)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -7567,7 +7567,7 @@ SONGS = [
       "Black Sabbath"
     ],
     "album": "Paranoid (2009 Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -7578,7 +7578,7 @@ SONGS = [
       "Green Day"
     ],
     "album": "American Idiot",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -7589,7 +7589,7 @@ SONGS = [
       "Green Day"
     ],
     "album": "Greatest Hits: God's Favorite Band",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -7600,7 +7600,7 @@ SONGS = [
       "Weezer"
     ],
     "album": "Weezer",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -7611,7 +7611,7 @@ SONGS = [
       "Tears For Fears"
     ],
     "album": "Songs From The Big Chair",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -7622,7 +7622,7 @@ SONGS = [
       "Tears For Fears;Dave Bascombe"
     ],
     "album": "Songs From The Big Chair (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -7633,7 +7633,7 @@ SONGS = [
       "Tears For Fears"
     ],
     "album": "The Hurting",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -7644,7 +7644,7 @@ SONGS = [
       "The Outfield"
     ],
     "album": "Play Deep",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -7655,7 +7655,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "Nothing But The Best (2008 Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -7666,7 +7666,7 @@ SONGS = [
       "Green Day"
     ],
     "album": "Nimrod",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -7677,7 +7677,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "Smiley Smile (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -7688,7 +7688,7 @@ SONGS = [
       "Simon & Garfunkel"
     ],
     "album": "Bookends",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -7699,7 +7699,7 @@ SONGS = [
       "Jefferson Airplane"
     ],
     "album": "Surrealistic Pillow",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -7710,7 +7710,7 @@ SONGS = [
       "The Bobby Fuller Four"
     ],
     "album": "Never To Be Forgotten - The Mustang Years",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -7721,7 +7721,7 @@ SONGS = [
       "Buffalo Springfield"
     ],
     "album": "Buffalo Springfield",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -7732,7 +7732,7 @@ SONGS = [
       "The Stooges"
     ],
     "album": "The Stooges",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -7743,7 +7743,7 @@ SONGS = [
       "Cream"
     ],
     "album": "Disraeli Gears (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -7754,7 +7754,7 @@ SONGS = [
       "The Easybeats"
     ],
     "album": "Easy",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -7765,7 +7765,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "The Doors",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -7776,7 +7776,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "Strange Days",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -7787,7 +7787,7 @@ SONGS = [
       "Gerry Rafferty"
     ],
     "album": "City to City",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -7798,7 +7798,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Cosmo's Factory",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -7809,7 +7809,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis 30 #1 Hits (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -7820,7 +7820,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Don't Shoot Me I'm Only The Piano Player",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -7831,7 +7831,7 @@ SONGS = [
       "Ray Charles"
     ],
     "album": "Soul",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -7842,7 +7842,7 @@ SONGS = [
       "Blur"
     ],
     "album": "Blur (Special Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -7853,7 +7853,7 @@ SONGS = [
       "John Farnham"
     ],
     "album": "Whispering Jack",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -7864,7 +7864,7 @@ SONGS = [
       "Prince"
     ],
     "album": "Around the World in a Day",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -7875,7 +7875,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "Let's Dance (2018 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -7886,7 +7886,7 @@ SONGS = [
       "Mike + The Mechanics"
     ],
     "album": "Living Years",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -7897,7 +7897,7 @@ SONGS = [
       "Cold Chisel"
     ],
     "album": "Cold Chisel",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -7908,7 +7908,7 @@ SONGS = [
       "Marc Cohn"
     ],
     "album": "Marc Cohn",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -7919,7 +7919,7 @@ SONGS = [
       "Go West"
     ],
     "album": "Indian Summer",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -7930,7 +7930,7 @@ SONGS = [
       "Maxi Priest;John Gallen"
     ],
     "album": "Maxi",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -7941,7 +7941,7 @@ SONGS = [
       "Traveling Wilburys"
     ],
     "album": "The Traveling Wilburys, Vol. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -7952,7 +7952,7 @@ SONGS = [
       "Neil Young"
     ],
     "album": "Eat, Pray, Love",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -7963,7 +7963,7 @@ SONGS = [
       "Phil Collins"
     ],
     "album": "Love Songs (A Compilation Old and New)",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -7974,7 +7974,7 @@ SONGS = [
       "Kool & The Gang"
     ],
     "album": "Something Special",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -7985,7 +7985,7 @@ SONGS = [
       "Orchestral Manoeuvres In The Dark"
     ],
     "album": "The OMD Singles",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -7996,7 +7996,7 @@ SONGS = [
       "Marvin Gaye"
     ],
     "album": "Songbook",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -8007,7 +8007,7 @@ SONGS = [
       "Marvin Gaye"
     ],
     "album": "Let's Get It On (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -8018,7 +8018,7 @@ SONGS = [
       "John Mellencamp"
     ],
     "album": "Scarecrow",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -8029,7 +8029,7 @@ SONGS = [
       "John Mellencamp"
     ],
     "album": "American Fool",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -8040,7 +8040,7 @@ SONGS = [
       "R.E.M."
     ],
     "album": "Automatic For The People",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -8051,7 +8051,7 @@ SONGS = [
       "R.E.M."
     ],
     "album": "Out Of Time (25th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -8062,7 +8062,7 @@ SONGS = [
       "The Cars"
     ],
     "album": "Heartbeat City (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -8073,7 +8073,7 @@ SONGS = [
       "Radiohead"
     ],
     "album": "OK Computer",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -8084,7 +8084,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "Nevermind (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -8095,7 +8095,7 @@ SONGS = [
       "Oasis"
     ],
     "album": "(What's The Story) Morning Glory? [Remastered]",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -8106,7 +8106,7 @@ SONGS = [
       "Oasis"
     ],
     "album": "Heathen Chemistry",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -8117,7 +8117,7 @@ SONGS = [
       "Oasis"
     ],
     "album": "(What's The Story) Morning Glory? [Remastered]",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -8128,7 +8128,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "Nevermind (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -8139,7 +8139,7 @@ SONGS = [
       "Taco"
     ],
     "album": "After Eight",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -8150,7 +8150,7 @@ SONGS = [
       "Aliotta Haynes Jeremiah"
     ],
     "album": "Lake Shore Drive",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -8161,7 +8161,7 @@ SONGS = [
       "Rainbow"
     ],
     "album": "Down To Earth",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -8172,7 +8172,7 @@ SONGS = [
       "Cheap Trick"
     ],
     "album": "Heaven Tonight",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -8183,7 +8183,7 @@ SONGS = [
       "Heart"
     ],
     "album": "Dreamboat Annie",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -8194,7 +8194,7 @@ SONGS = [
       "INXS"
     ],
     "album": "Kick (Remastered 2011)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -8205,7 +8205,7 @@ SONGS = [
       "INXS"
     ],
     "album": "X (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -8216,7 +8216,7 @@ SONGS = [
       "Deep Purple"
     ],
     "album": "Machine Head (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -8227,7 +8227,7 @@ SONGS = [
       "Styx"
     ],
     "album": "Kilroy Was Here",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -8238,7 +8238,7 @@ SONGS = [
       "Styx"
     ],
     "album": "The Grand Illusion",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -8249,7 +8249,7 @@ SONGS = [
       "Renaissance"
     ],
     "album": "Tales of 1001 Nights, Vol. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -8260,7 +8260,7 @@ SONGS = [
       "Radiohead"
     ],
     "album": "OK Computer",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -8271,7 +8271,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Frontiers (2023 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -8282,7 +8282,7 @@ SONGS = [
       "The Cardigans"
     ],
     "album": "First Band On The Moon (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -8293,7 +8293,7 @@ SONGS = [
       "Wings"
     ],
     "album": "Wings Greatest",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -8304,7 +8304,7 @@ SONGS = [
       "Talking Heads"
     ],
     "album": "Talking Heads '77 (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -8315,7 +8315,7 @@ SONGS = [
       "Bobby Caldwell"
     ],
     "album": "What You Won't Do for Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -8326,7 +8326,7 @@ SONGS = [
       "The Clash"
     ],
     "album": "London Calling (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -8337,7 +8337,7 @@ SONGS = [
       "The Cure"
     ],
     "album": "Three Imaginary Boys",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -8348,7 +8348,7 @@ SONGS = [
       "Blondie"
     ],
     "album": "Parallel Lines (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -8359,7 +8359,7 @@ SONGS = [
       "The Who"
     ],
     "album": "Who's Next (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -8370,7 +8370,7 @@ SONGS = [
       "The Who"
     ],
     "album": "Who's Next (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -8381,7 +8381,7 @@ SONGS = [
       "King Harvest"
     ],
     "album": "Dancing in the Moonlight",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -8392,7 +8392,7 @@ SONGS = [
       "Styx"
     ],
     "album": "Pieces Of Eight",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -8403,7 +8403,7 @@ SONGS = [
       "Steve Miller Band"
     ],
     "album": "The Joker",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -8414,7 +8414,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Bayou Country (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -8425,7 +8425,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "The Stranger (Legacy Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -8436,7 +8436,7 @@ SONGS = [
       "The Hit Crew"
     ],
     "album": "Party Like A Big Kahuna",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -8447,7 +8447,7 @@ SONGS = [
       "Extreme"
     ],
     "album": "20th Century Masters: The Millennium Collection: Best Of Extreme",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -8458,7 +8458,7 @@ SONGS = [
       "Talking Heads"
     ],
     "album": "Burning Down the House / I Get Wild / Wild Gravity",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -8469,7 +8469,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "The Nylon Curtain",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -8480,7 +8480,7 @@ SONGS = [
       "Genesis"
     ],
     "album": "Invisible Touch (2007 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -8491,7 +8491,7 @@ SONGS = [
       "Supertramp"
     ],
     "album": "Even In The Quietest Moments",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -8502,7 +8502,7 @@ SONGS = [
       "Supertramp"
     ],
     "album": "Breakfast In America (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -8513,7 +8513,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Works (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -8524,7 +8524,7 @@ SONGS = [
       "Talking Heads"
     ],
     "album": "Remain in Light (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -8535,7 +8535,7 @@ SONGS = [
       "The Who"
     ],
     "album": "Who Are You",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -8546,7 +8546,7 @@ SONGS = [
       "The Who"
     ],
     "album": "My Generation (50th Anniversary / Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -8557,7 +8557,7 @@ SONGS = [
       "Modern Talking"
     ],
     "album": "Let's Talk About Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -8568,7 +8568,7 @@ SONGS = [
       "Alphaville"
     ],
     "album": "Forever Young",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -8579,7 +8579,7 @@ SONGS = [
       "ZZ Top"
     ],
     "album": "Eliminator",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -8590,7 +8590,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "L.A. Woman",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -8601,7 +8601,7 @@ SONGS = [
       "Jim Croce"
     ],
     "album": "You Don't Mess Around With Jim",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -8612,7 +8612,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "L.A. Woman",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -8623,7 +8623,7 @@ SONGS = [
       "Steve Miller Band"
     ],
     "album": "Fly Like An Eagle",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -8634,7 +8634,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "The Doors",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -8645,7 +8645,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "Morrison Hotel",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -8656,7 +8656,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "L.A. Woman",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -8667,7 +8667,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "The Soft Parade",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -8678,7 +8678,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "Waiting for the Sun",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -8689,7 +8689,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "The Doors",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -8700,7 +8700,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "Waiting for the Sun",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -8711,7 +8711,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "The Doors",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -8722,7 +8722,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "Strange Days",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -8733,7 +8733,7 @@ SONGS = [
       "The Turtles"
     ],
     "album": "Happy Together",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -8744,7 +8744,7 @@ SONGS = [
       "The Mamas & The Papas"
     ],
     "album": "If You Can Believe Your Eyes & Ears",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -8755,7 +8755,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Green River (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -8766,7 +8766,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Willy And The Poor Boys (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -8777,7 +8777,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "Bleach",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -8788,7 +8788,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Cosmo's Factory",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -8799,7 +8799,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "St. Louis To Liverpool",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -8810,7 +8810,7 @@ SONGS = [
       "Jefferson Airplane"
     ],
     "album": "Surrealistic Pillow",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -8821,7 +8821,7 @@ SONGS = [
       "Steve Miller Band"
     ],
     "album": "Fly Like An Eagle",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -8832,7 +8832,7 @@ SONGS = [
       "Badfinger"
     ],
     "album": "Straight Up (Remastered 2010 / Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -8843,7 +8843,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "FUTURE PAST",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -8854,7 +8854,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Duran Duran",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -8865,7 +8865,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Duran Duran (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -8876,7 +8876,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Rio (Collector's Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -8887,7 +8887,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Decade",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -8898,7 +8898,7 @@ SONGS = [
       "Yes"
     ],
     "album": "90125 (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -8909,7 +8909,7 @@ SONGS = [
       "Yes"
     ],
     "album": "Fragile (Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -8920,7 +8920,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Revolver (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -8931,7 +8931,7 @@ SONGS = [
       "Hot Chocolate"
     ],
     "album": "Hot Chocolate",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -8942,7 +8942,7 @@ SONGS = [
       "Culture Club"
     ],
     "album": "Colour By Numbers (Remastered / Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -8953,7 +8953,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Rubber Soul (Remastered 2009)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -8964,7 +8964,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -8975,7 +8975,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Help! (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -8986,7 +8986,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "A Hard Day's Night (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -8997,7 +8997,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "A Hard Day's Night (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -9008,7 +9008,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Rubber Soul (Remastered 2009)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9019,7 +9019,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "With The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -9030,7 +9030,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Rubber Soul (Remastered 2009)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9041,7 +9041,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -9052,7 +9052,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Help! (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9063,7 +9063,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -9074,7 +9074,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Revolver (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -9085,7 +9085,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Abbey Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -9096,7 +9096,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -9107,7 +9107,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Rubber Soul (Remastered 2009)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9118,7 +9118,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "A Hard Day's Night (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -9129,7 +9129,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Help! (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9140,7 +9140,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "With The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -9151,7 +9151,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Please Please Me (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -9162,7 +9162,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Let It Be (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -9173,7 +9173,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "A Hard Day's Night (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -9184,7 +9184,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles 1967 - 1970 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -9195,7 +9195,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Help! (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9206,7 +9206,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Please Please Me (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -9217,7 +9217,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Beatles For Sale (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -9228,7 +9228,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Abbey Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -9239,7 +9239,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Rubber Soul (Remastered 2009)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9250,7 +9250,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Revolver (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -9261,7 +9261,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Let It Be (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -9272,7 +9272,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Now And Then",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -9283,7 +9283,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Let It Be (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -9294,7 +9294,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Beatles For Sale (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -9305,7 +9305,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Rubber Soul (Remastered 2009)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9316,7 +9316,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles 1962 - 1966 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -9327,7 +9327,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -9338,7 +9338,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Abbey Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -9349,7 +9349,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Magical Mystery Tour (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -9360,7 +9360,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Help! (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -9371,7 +9371,7 @@ SONGS = [
       "Soundgarden"
     ],
     "album": "Superunknown (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -9382,7 +9382,7 @@ SONGS = [
       "Red Hot Chili Peppers"
     ],
     "album": "By the Way (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -9393,7 +9393,7 @@ SONGS = [
       "Incubus"
     ],
     "album": "Make Yourself",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -9404,7 +9404,7 @@ SONGS = [
       "Jet"
     ],
     "album": "Get Born",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -9415,7 +9415,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "In Utero (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -9426,7 +9426,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "Nevermind (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -9437,7 +9437,7 @@ SONGS = [
       "Derek & The Dominos"
     ],
     "album": "Layla And Other Assorted Love Songs (Remastered 2010)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -9448,7 +9448,7 @@ SONGS = [
       "The Chords"
     ],
     "album": "Complete Discography",
-    "album_image": null,
+    "album_image": None,
     "year": "1954"
   },
   {
@@ -9459,7 +9459,7 @@ SONGS = [
       "Carpenters"
     ],
     "album": "Close To You",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -9470,7 +9470,7 @@ SONGS = [
       "Lynyrd Skynyrd"
     ],
     "album": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -9481,7 +9481,7 @@ SONGS = [
       "Pat Benatar"
     ],
     "album": "In The Heat Of The Night",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -9492,7 +9492,7 @@ SONGS = [
       "ABBA"
     ],
     "album": "Waterloo",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -9503,7 +9503,7 @@ SONGS = [
       "The Cranberries"
     ],
     "album": "No Need To Argue (The Complete Sessions 1994-1995)",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -9514,7 +9514,7 @@ SONGS = [
       "Yusuf / Cat Stevens"
     ],
     "album": "Tea For The Tillerman (Remastered 2020)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -9525,7 +9525,7 @@ SONGS = [
       "Harry Chapin"
     ],
     "album": "Verities & Balderdash",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -9536,7 +9536,7 @@ SONGS = [
       "Queen"
     ],
     "album": "Jazz (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -9547,7 +9547,7 @@ SONGS = [
       "Europe"
     ],
     "album": "80s 100 Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -9558,7 +9558,7 @@ SONGS = [
       "The Jacksons"
     ],
     "album": "The Very Best Of The Jacksons and Jackson 5",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -9569,7 +9569,7 @@ SONGS = [
       "Bill Medley;Jennifer Warnes"
     ],
     "album": "Dirty Dancing",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -9580,7 +9580,7 @@ SONGS = [
       "Backstreet Boys"
     ],
     "album": "Backstreet Boys",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -9591,7 +9591,7 @@ SONGS = [
       "U2"
     ],
     "album": "The Joshua Tree (Deluxe Edition Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -9602,7 +9602,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "The Best Of Depeche Mode - Volume One",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -9613,7 +9613,7 @@ SONGS = [
       "Frankie Goes To Hollywood"
     ],
     "album": "Welcome To The Pleasuredome: 25th Anniversary Deluxe Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -9624,7 +9624,7 @@ SONGS = [
       "The Bangles"
     ],
     "album": "Different Light",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -9635,7 +9635,7 @@ SONGS = [
       "Salt-N-Pepa"
     ],
     "album": "Hot, Cool & Vicious",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -9646,7 +9646,7 @@ SONGS = [
       "John Mellencamp"
     ],
     "album": "American Fool (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -9657,7 +9657,7 @@ SONGS = [
       "Prince"
     ],
     "album": "Purple Rain",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -9668,7 +9668,7 @@ SONGS = [
       "Prince"
     ],
     "album": "Parade - Music from the Motion Picture Under the Cherry Moon",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -9679,7 +9679,7 @@ SONGS = [
       "Prince"
     ],
     "album": "Purple Rain",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -9690,7 +9690,7 @@ SONGS = [
       "Prince"
     ],
     "album": "Purple Rain",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -9701,7 +9701,7 @@ SONGS = [
       "Phil Collins"
     ],
     "album": "Hello, I Must Be Going! (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -9712,7 +9712,7 @@ SONGS = [
       "The Romantics"
     ],
     "album": "What I Like About You (And Other Romantic Hits)",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -9723,7 +9723,7 @@ SONGS = [
       "Bryan Adams"
     ],
     "album": "Reckless (30th Anniversary / Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -9734,7 +9734,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "Come Fly With Me (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1958"
   },
   {
@@ -9745,7 +9745,7 @@ SONGS = [
       "Daddy Cool"
     ],
     "album": "Daddy Who? Daddy Cool (40th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -9756,7 +9756,7 @@ SONGS = [
       "Daryl Braithwaite"
     ],
     "album": "The Essential",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -9767,7 +9767,7 @@ SONGS = [
       "Irene Cara"
     ],
     "album": "What A Feeling",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -9778,7 +9778,7 @@ SONGS = [
       "Silverchair"
     ],
     "album": "Young Modern",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -9789,7 +9789,7 @@ SONGS = [
       "Don Henley"
     ],
     "album": "Building The Perfect Beast",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -9800,7 +9800,7 @@ SONGS = [
       "Wolfmother"
     ],
     "album": "Wolfmother (10th Anniversary Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -9811,7 +9811,7 @@ SONGS = [
       "Lionel Richie"
     ],
     "album": "Can't Slow Down",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -9822,7 +9822,7 @@ SONGS = [
       "Pet Shop Boys"
     ],
     "album": "Discography - Complete Singles Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -9833,7 +9833,7 @@ SONGS = [
       "Commodores"
     ],
     "album": "The Very Best Of The Commodores",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -9844,7 +9844,7 @@ SONGS = [
       "Spandau Ballet"
     ],
     "album": "Gold - The Best of Spandau Ballet",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -9855,7 +9855,7 @@ SONGS = [
       "Mr. Mister"
     ],
     "album": "Welcome To The Real World",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -9866,7 +9866,7 @@ SONGS = [
       "George Harrison"
     ],
     "album": "All Things Must Pass (2014 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -9877,7 +9877,7 @@ SONGS = [
       "America;George Martin"
     ],
     "album": "America",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -9888,7 +9888,7 @@ SONGS = [
       "Traveling Wilburys"
     ],
     "album": "The Traveling Wilburys, Vol. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -9899,7 +9899,7 @@ SONGS = [
       "Queen"
     ],
     "album": "A Night At The Opera (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -9910,7 +9910,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Platinum Collection (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -9921,7 +9921,7 @@ SONGS = [
       "Ricky Martin"
     ],
     "album": "Ricky Martin",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -9932,7 +9932,7 @@ SONGS = [
       "Jimmy Barnes"
     ],
     "album": "For The Working Class Man 25",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -9943,7 +9943,7 @@ SONGS = [
       "Matthew Wilder"
     ],
     "album": "'80s Pop Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -9954,7 +9954,7 @@ SONGS = [
       "The Angels"
     ],
     "album": "The Angels (Alberts Classic Series)",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -9965,7 +9965,7 @@ SONGS = [
       "The Angels"
     ],
     "album": "Dark Room",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -9976,7 +9976,7 @@ SONGS = [
       "Nena"
     ],
     "album": "NENA",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -9987,7 +9987,7 @@ SONGS = [
       "Bonnie Tyler"
     ],
     "album": "4 Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -9998,7 +9998,7 @@ SONGS = [
       "Ben Lee"
     ],
     "album": "Awake Is the New Sleep",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -10009,7 +10009,7 @@ SONGS = [
       "Patrick Swayze Featuring Wendy Fraser"
     ],
     "album": "Ultimate Dirty Dancing",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -10020,7 +10020,7 @@ SONGS = [
       "Spandau Ballet"
     ],
     "album": "Spandau Ballet ''The Story'' The Very Best of (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -10031,7 +10031,7 @@ SONGS = [
       "Céline Dion"
     ],
     "album": "Let's Talk About Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -10042,7 +10042,7 @@ SONGS = [
       "Bernard Fanning"
     ],
     "album": "Tea & Sympathy",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -10053,7 +10053,7 @@ SONGS = [
       "The Smiths"
     ],
     "album": "The Smiths",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -10064,7 +10064,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "Born In The U.S.A.",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -10075,7 +10075,7 @@ SONGS = [
       "Australian Crawl"
     ],
     "album": "The Boys Light Up (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -10086,7 +10086,7 @@ SONGS = [
       "Cold Chisel"
     ],
     "album": "East",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -10097,7 +10097,7 @@ SONGS = [
       "Hunters & Collectors"
     ],
     "album": "Cut",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -10108,7 +10108,7 @@ SONGS = [
       "Midnight Oil"
     ],
     "album": "10,9,8,7,6,5,4,3,2,1",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -10119,7 +10119,7 @@ SONGS = [
       "Mental As Anything"
     ],
     "album": "Essential As Anything",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -10130,7 +10130,7 @@ SONGS = [
       "Powderfinger"
     ],
     "album": "Odyssey Number Five",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -10141,7 +10141,7 @@ SONGS = [
       "Australian Crawl"
     ],
     "album": "Semantics (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -10152,7 +10152,7 @@ SONGS = [
       "GANGgajang"
     ],
     "album": "GANGgajang",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -10163,7 +10163,7 @@ SONGS = [
       "ICEHOUSE"
     ],
     "album": "Primitive Man (Bonus Track Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -10174,7 +10174,7 @@ SONGS = [
       "Goanna"
     ],
     "album": "Spirit Of Place (Remastered & Expanded)",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -10185,7 +10185,7 @@ SONGS = [
       "Noiseworks"
     ],
     "album": "Noiseworks",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -10196,7 +10196,7 @@ SONGS = [
       "Midnight Oil"
     ],
     "album": "Blue Sky Mining (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -10207,7 +10207,7 @@ SONGS = [
       "Powderfinger"
     ],
     "album": "Odyssey Number Five",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -10218,7 +10218,7 @@ SONGS = [
       "Divinyls"
     ],
     "album": "Divinyls",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -10229,7 +10229,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "Dirty Deeds Done Dirt Cheap",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -10240,7 +10240,7 @@ SONGS = [
       "Dragon"
     ],
     "album": "Body And The Beat",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -10251,7 +10251,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -10262,7 +10262,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Blue Hawaii",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -10273,7 +10273,7 @@ SONGS = [
       "Elvis Presley;JXL"
     ],
     "album": "Elvis Forever: The Best of Elvis Presley",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -10284,7 +10284,7 @@ SONGS = [
       "The Who"
     ],
     "album": "My Generation (Stereo Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -10295,7 +10295,7 @@ SONGS = [
       "Eric Clapton"
     ],
     "album": "Unplugged (Deluxe Edition) (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -10306,7 +10306,7 @@ SONGS = [
       "The Animals"
     ],
     "album": "The Singles Plus",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -10317,7 +10317,7 @@ SONGS = [
       "Nina Simone"
     ],
     "album": "Broadway-Blues-Ballads",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -10328,7 +10328,7 @@ SONGS = [
       "Crowded House"
     ],
     "album": "Crowded House (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -10339,7 +10339,7 @@ SONGS = [
       "Crowded House"
     ],
     "album": "Woodface",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -10350,7 +10350,7 @@ SONGS = [
       "Crowded House"
     ],
     "album": "Temple Of Low Men",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -10361,7 +10361,7 @@ SONGS = [
       "Tom Petty"
     ],
     "album": "Full Moon Fever",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -10372,7 +10372,7 @@ SONGS = [
       "Tom Petty"
     ],
     "album": "Full Moon Fever",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -10383,7 +10383,7 @@ SONGS = [
       "Chicago"
     ],
     "album": "Love from Chicago",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -10394,7 +10394,7 @@ SONGS = [
       "Supertramp"
     ],
     "album": "Breakfast In America (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -10405,7 +10405,7 @@ SONGS = [
       "Iggy Pop"
     ],
     "album": "Lust For Life",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -10416,7 +10416,7 @@ SONGS = [
       "Warren Zevon"
     ],
     "album": "A Quiet Normal Life: The Best of Warren Zevon",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -10427,7 +10427,7 @@ SONGS = [
       "Curtis Mayfield"
     ],
     "album": "Move on Up",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -10438,7 +10438,7 @@ SONGS = [
       "Bob Dylan"
     ],
     "album": "Bringing It All Back Home",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -10449,7 +10449,7 @@ SONGS = [
       "Peter Gabriel"
     ],
     "album": "So (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -10460,7 +10460,7 @@ SONGS = [
       "Heart"
     ],
     "album": "Bad Animals",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -10471,7 +10471,7 @@ SONGS = [
       "Heart"
     ],
     "album": "Brigade",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -10482,7 +10482,7 @@ SONGS = [
       "Led Zeppelin"
     ],
     "album": "Led Zeppelin IV (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -10493,7 +10493,7 @@ SONGS = [
       "Bob Marley & The Wailers"
     ],
     "album": "Exodus",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -10504,7 +10504,7 @@ SONGS = [
       "Eric Clapton"
     ],
     "album": "Slowhand 35th Anniversary",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -10515,7 +10515,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Brothers In Arms - 20th Anniversary Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -10526,7 +10526,7 @@ SONGS = [
       "Rod Stewart"
     ],
     "album": "Blondes Have More Fun",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -10537,7 +10537,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Sleeping With The Past (Remastered with bonus tracks)",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -10548,7 +10548,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Goodbye Yellow Brick Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -10559,7 +10559,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Too Low For Zero",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -10570,7 +10570,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Ice On Fire",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -10581,7 +10581,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Goodbye Yellow Brick Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -10592,7 +10592,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Blue Moves",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -10603,7 +10603,7 @@ SONGS = [
       "Elton John"
     ],
     "album": "Diamonds (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -10614,7 +10614,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Duran Duran",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -10625,7 +10625,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -10636,7 +10636,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Fleetwood Mac",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -10647,7 +10647,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "Tango In the Night (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -10658,7 +10658,7 @@ SONGS = [
       "10cc"
     ],
     "album": "20th Century Masters: The Millennium Collection: Best Of 10CC",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -10669,7 +10669,7 @@ SONGS = [
       "Raspberries"
     ],
     "album": "Raspberries",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -10680,7 +10680,7 @@ SONGS = [
       "Elvin Bishop"
     ],
     "album": "Struttin' My Stuff",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -10691,7 +10691,7 @@ SONGS = [
       "Spacehog"
     ],
     "album": "Resident Alien",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -10702,7 +10702,7 @@ SONGS = [
       "Steely Dan"
     ],
     "album": "Can't Buy A Thrill",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -10713,7 +10713,7 @@ SONGS = [
       "Steely Dan"
     ],
     "album": "Can't Buy A Thrill",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -10724,7 +10724,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -10735,7 +10735,7 @@ SONGS = [
       "Paul McCartney"
     ],
     "album": "All The Best (UK Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -10746,7 +10746,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Seven and the Ragged Tiger (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -10757,7 +10757,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "Morrison Hotel",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -10768,7 +10768,7 @@ SONGS = [
       "Queen"
     ],
     "album": "A Kind Of Magic (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -10779,7 +10779,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Works (Deluxe Edition 2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -10790,7 +10790,7 @@ SONGS = [
       "Queen"
     ],
     "album": "News Of The World (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -10801,7 +10801,7 @@ SONGS = [
       "Queen"
     ],
     "album": "The Miracle (Collector's Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -10812,7 +10812,7 @@ SONGS = [
       "Queen"
     ],
     "album": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -10823,7 +10823,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Forty Licks",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -10834,7 +10834,7 @@ SONGS = [
       "Frankie Valli"
     ],
     "album": "Frankie Valli...Is The Word",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -10845,7 +10845,7 @@ SONGS = [
       "Paul McCartney;Wings"
     ],
     "album": "Band On The Run",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -10856,7 +10856,7 @@ SONGS = [
       "Paul McCartney;Michael Jackson"
     ],
     "album": "Pipes Of Peace (Remastered 2015)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -10867,7 +10867,7 @@ SONGS = [
       "The Ink Spots"
     ],
     "album": "The Anthology",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -10878,7 +10878,7 @@ SONGS = [
       "Christopher Cross"
     ],
     "album": "Christopher Cross",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -10889,7 +10889,7 @@ SONGS = [
       "Christopher Cross"
     ],
     "album": "Christopher Cross",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -10900,7 +10900,7 @@ SONGS = [
       "Christopher Cross"
     ],
     "album": "Arthur - The Album [Original Soundtrack]",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -10911,7 +10911,7 @@ SONGS = [
       "Player"
     ],
     "album": "Player",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -10922,7 +10922,7 @@ SONGS = [
       "Australian Crawl"
     ],
     "album": "Sirocco (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -10933,7 +10933,7 @@ SONGS = [
       "Eurythmics;Annie Lennox;Dave Stewart"
     ],
     "album": "Touch (Reissue - Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -10944,7 +10944,7 @@ SONGS = [
       "Supertramp"
     ],
     "album": "Crime Of The Century (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -10955,7 +10955,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Arena",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -10966,7 +10966,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Notorious (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -10977,7 +10977,7 @@ SONGS = [
       "George Michael"
     ],
     "album": "Listen Without Prejudice Vol. 1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -10988,7 +10988,7 @@ SONGS = [
       "Simply Red"
     ],
     "album": "A New Flame (Expanded Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -10999,7 +10999,7 @@ SONGS = [
       "Simply Red"
     ],
     "album": "Stars (Collector's Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -11010,7 +11010,7 @@ SONGS = [
       "Joan Jett & the Blackhearts"
     ],
     "album": "Bad Reputation (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -11021,7 +11021,7 @@ SONGS = [
       "Pixies"
     ],
     "album": "Surfer Rosa (2007 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -11032,7 +11032,7 @@ SONGS = [
       "Pixies"
     ],
     "album": "Doolittle",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -11043,7 +11043,7 @@ SONGS = [
       "Extreme"
     ],
     "album": "Extreme II - Pornograffitti",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -11054,7 +11054,7 @@ SONGS = [
       "Air Supply"
     ],
     "album": "Românticas Anos 80",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -11065,7 +11065,7 @@ SONGS = [
       "The Who"
     ],
     "album": "Tommy",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -11076,7 +11076,7 @@ SONGS = [
       "The Who"
     ],
     "album": "Who's Next (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -11087,7 +11087,7 @@ SONGS = [
       "Chicago"
     ],
     "album": "Chicago V (Expanded & Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -11098,7 +11098,7 @@ SONGS = [
       "Chicago"
     ],
     "album": "Chicago II",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -11109,7 +11109,7 @@ SONGS = [
       "The Who"
     ],
     "album": "It's Hard",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -11120,7 +11120,7 @@ SONGS = [
       "Chicago"
     ],
     "album": "Chicago 17 (Expanded & Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -11131,7 +11131,7 @@ SONGS = [
       "Chicago"
     ],
     "album": "Chicago 16 (Expanded & Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -11142,7 +11142,7 @@ SONGS = [
       "Chicago"
     ],
     "album": "Chicago 19 (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -11153,7 +11153,7 @@ SONGS = [
       "Powderfinger"
     ],
     "album": "Vulture Street",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -11164,7 +11164,7 @@ SONGS = [
       "Chicago"
     ],
     "album": "Chicago 18 (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -11175,7 +11175,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "Violator | The 12\" Singles",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -11186,7 +11186,7 @@ SONGS = [
       "Stevie Nicks"
     ],
     "album": "Bella Donna (2016 Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -11197,7 +11197,7 @@ SONGS = [
       "Supertramp"
     ],
     "album": "Breakfast In America (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -11208,7 +11208,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Let It Bleed",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -11219,7 +11219,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Goats Head Soup (Remastered 2009)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -11230,7 +11230,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Sticky Fingers (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -11241,7 +11241,7 @@ SONGS = [
       "The Kinks"
     ],
     "album": "Lola Versus Powerman and the Moneygoround, Pt. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -11252,7 +11252,7 @@ SONGS = [
       "The Kinks"
     ],
     "album": "Kinks (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -11263,7 +11263,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "Glass Houses",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -11274,7 +11274,7 @@ SONGS = [
       "Fatboy Slim"
     ],
     "album": "Weapon of Choice EP",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -11285,7 +11285,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Rio (Collector's Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -11296,7 +11296,7 @@ SONGS = [
       "Duran Duran"
     ],
     "album": "Duran Duran (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -11307,7 +11307,7 @@ SONGS = [
       "Steely Dan"
     ],
     "album": "Can't Buy A Thrill",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -11318,7 +11318,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "The Dark Side of the Moon",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -11329,7 +11329,7 @@ SONGS = [
       "Rush"
     ],
     "album": "Moving Pictures (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -11340,7 +11340,7 @@ SONGS = [
       "The Living End"
     ],
     "album": "White Noise Rarities Collector's Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -11351,7 +11351,7 @@ SONGS = [
       "Baby Animals"
     ],
     "album": "Baby Animals (25th Anniversary - Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -11362,7 +11362,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Communiqué",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -11373,7 +11373,7 @@ SONGS = [
       "America;George Martin"
     ],
     "album": "Homecoming",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -11384,7 +11384,7 @@ SONGS = [
       "10cc"
     ],
     "album": "Deceptive Bends",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -11395,7 +11395,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "The Dark Side of the Moon",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -11406,7 +11406,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Brothers In Arms - 20th Anniversary Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -11417,7 +11417,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "ExtendeDancEPlay",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -11428,7 +11428,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -11439,7 +11439,7 @@ SONGS = [
       "R.E.M."
     ],
     "album": "Document - 25th Anniversary Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -11450,7 +11450,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Dire Straits",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -11461,7 +11461,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Making Movies",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -11472,7 +11472,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Brothers In Arms (Remastered 1996)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -11483,7 +11483,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Dire Straits",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -11494,7 +11494,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Making Movies",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -11505,7 +11505,7 @@ SONGS = [
       "Radiohead"
     ],
     "album": "Kid A",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -11516,7 +11516,7 @@ SONGS = [
       "Radiohead"
     ],
     "album": "The Bends",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -11527,7 +11527,7 @@ SONGS = [
       "Rush"
     ],
     "album": "Moving Pictures (2011 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -11538,7 +11538,7 @@ SONGS = [
       "Starship"
     ],
     "album": "No Protection",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -11549,7 +11549,7 @@ SONGS = [
       "Eric Clapton"
     ],
     "album": "Rush (Music from the Motion Picture Soundtrack)",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -11560,7 +11560,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -11571,7 +11571,7 @@ SONGS = [
       "The Stranglers"
     ],
     "album": "La Folie",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -11582,7 +11582,7 @@ SONGS = [
       "Eric Clapton"
     ],
     "album": "Clapton Chronicles: The Best of Eric Clapton",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -11593,7 +11593,7 @@ SONGS = [
       "America"
     ],
     "album": "Hearts",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -11604,7 +11604,7 @@ SONGS = [
       "Murray Head"
     ],
     "album": "One Night In Bangkok (Radio Edit / From “Chess” / Remastered 2016)",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -11615,7 +11615,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "The Power and the Glory (Mixed by Steven Wilson)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -11626,7 +11626,7 @@ SONGS = [
       "King Crimson"
     ],
     "album": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -11637,7 +11637,7 @@ SONGS = [
       "King Crimson"
     ],
     "album": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -11648,7 +11648,7 @@ SONGS = [
       "Rush"
     ],
     "album": "Fly By Night",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -11659,7 +11659,7 @@ SONGS = [
       "Jethro Tull"
     ],
     "album": "Aqualung (Special Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -11670,7 +11670,7 @@ SONGS = [
       "Procol Harum"
     ],
     "album": "Hits'n'Flips",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -11681,7 +11681,7 @@ SONGS = [
       "Rush"
     ],
     "album": "A Farewell To Kings",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -11692,7 +11692,7 @@ SONGS = [
       "The Alan Parsons Project"
     ],
     "album": "Eye In The Sky",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -11703,7 +11703,7 @@ SONGS = [
       "The Alan Parsons Project"
     ],
     "album": "Eye In The Sky",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -11714,7 +11714,7 @@ SONGS = [
       "Yes"
     ],
     "album": "90125 (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -11725,7 +11725,7 @@ SONGS = [
       "Yes"
     ],
     "album": "The Yes Album",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -11736,7 +11736,7 @@ SONGS = [
       "America"
     ],
     "album": "View From The Ground",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -11747,7 +11747,7 @@ SONGS = [
       "America"
     ],
     "album": "Holiday",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -11758,7 +11758,7 @@ SONGS = [
       "Rick Astley"
     ],
     "album": "Whenever You Need Somebody",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -11769,7 +11769,7 @@ SONGS = [
       "Metallica"
     ],
     "album": "…And Justice for All (Remastered Deluxe Box Set)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -11780,7 +11780,7 @@ SONGS = [
       "Yes"
     ],
     "album": "Big Generator",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -11791,7 +11791,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "Octopus",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -11802,7 +11802,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "Octopus",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -11813,7 +11813,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "Three Friends",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -11824,7 +11824,7 @@ SONGS = [
       "Rush"
     ],
     "album": "Permanent Waves",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -11835,7 +11835,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "The Power and the Glory (Mixed by Steven Wilson)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -11846,7 +11846,7 @@ SONGS = [
       "Phil Collins"
     ],
     "album": "The Singles (Expanded)",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -11857,7 +11857,7 @@ SONGS = [
       "Cold Chisel"
     ],
     "album": "Twentieth Century",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -11868,7 +11868,7 @@ SONGS = [
       "Australian Crawl"
     ],
     "album": "Sirocco (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -11879,7 +11879,7 @@ SONGS = [
       "Hunters & Collectors"
     ],
     "album": "Human Frailty",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -11890,7 +11890,7 @@ SONGS = [
       "Boney M."
     ],
     "album": "Take The Heat Off Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -11901,7 +11901,7 @@ SONGS = [
       "Dragon"
     ],
     "album": "Running Free",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -11912,7 +11912,7 @@ SONGS = [
       "Diesel"
     ],
     "album": "Hepfidelity",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -11923,7 +11923,7 @@ SONGS = [
       "The Black Sorrows"
     ],
     "album": "Hold On To Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -11934,7 +11934,7 @@ SONGS = [
       "Boom Crash Opera"
     ],
     "album": "These Here Are Crazy Times",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -11945,7 +11945,7 @@ SONGS = [
       "Gordon Lightfoot"
     ],
     "album": "If You Could Read My Mind",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -11956,7 +11956,7 @@ SONGS = [
       "Madness"
     ],
     "album": "7",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -11967,7 +11967,7 @@ SONGS = [
       "Culture Club"
     ],
     "album": "Kissing To Be Clever",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -11978,7 +11978,7 @@ SONGS = [
       "The Bangles"
     ],
     "album": "Different Light",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -11989,7 +11989,7 @@ SONGS = [
       "The Bangles"
     ],
     "album": "Everything",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -12000,7 +12000,7 @@ SONGS = [
       "The Alan Parsons Project"
     ],
     "album": "The Turn Of A Friendly Card",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -12011,7 +12011,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "Acquiring The Taste",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -12022,7 +12022,7 @@ SONGS = [
       "Pearl Jam"
     ],
     "album": "Ten",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -12033,7 +12033,7 @@ SONGS = [
       "Pearl Jam"
     ],
     "album": "Ten",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -12044,7 +12044,7 @@ SONGS = [
       "Wilson Pickett"
     ],
     "album": "The Wicked Pickett",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -12055,7 +12055,7 @@ SONGS = [
       "Journey"
     ],
     "album": "Escape (2022 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -12066,7 +12066,7 @@ SONGS = [
       "The Doobie Brothers"
     ],
     "album": "Minute by Minute",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -12077,7 +12077,7 @@ SONGS = [
       "The Doobie Brothers"
     ],
     "album": "The Captain and Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -12088,7 +12088,7 @@ SONGS = [
       "New Radicals"
     ],
     "album": "Maybe You've Been Brainwashed Too",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -12099,7 +12099,7 @@ SONGS = [
       "Counting Crows"
     ],
     "album": "August And Everything After",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -12110,7 +12110,7 @@ SONGS = [
       "Chumbawamba"
     ],
     "album": "Tubthumper",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -12121,7 +12121,7 @@ SONGS = [
       "The Proclaimers"
     ],
     "album": "Sunshine on Leith",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -12132,7 +12132,7 @@ SONGS = [
       "Carl Douglas"
     ],
     "album": "Kung Fu Fighter",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -12143,7 +12143,7 @@ SONGS = [
       "Blondie"
     ],
     "album": "Call Me",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -12154,7 +12154,7 @@ SONGS = [
       "Blondie"
     ],
     "album": "Parallel Lines: Deluxe Collector's Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -12165,7 +12165,7 @@ SONGS = [
       "Yazoo"
     ],
     "album": "Upstairs at Eric’s",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -12176,7 +12176,7 @@ SONGS = [
       "Yazoo"
     ],
     "album": "Upstairs at Eric’s",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -12187,7 +12187,7 @@ SONGS = [
       "Eiffel 65;Gabry Ponte"
     ],
     "album": "Europop",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -12198,7 +12198,7 @@ SONGS = [
       "Santana;Rob Thomas"
     ],
     "album": "Supernatural (Legacy Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -12209,7 +12209,7 @@ SONGS = [
       "Simon & Garfunkel"
     ],
     "album": "Wednesday Morning, 3 A.M.",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -12220,7 +12220,7 @@ SONGS = [
       "Gary Jules;Michael Andrews"
     ],
     "album": "Trading Snakeoil for Wolftickets",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -12231,7 +12231,7 @@ SONGS = [
       "INXS"
     ],
     "album": "Kick (Remastered 2011)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -12242,7 +12242,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "Gentle Giant",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -12253,7 +12253,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "Gentle Giant",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -12264,7 +12264,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "Acquiring The Taste",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -12275,7 +12275,7 @@ SONGS = [
       "Gentle Giant"
     ],
     "album": "The Power and the Glory (Mixed by Steven Wilson)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -12286,7 +12286,7 @@ SONGS = [
       "Renaissance"
     ],
     "album": "Ashes Are Burning",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -12297,7 +12297,7 @@ SONGS = [
       "Genesis"
     ],
     "album": "Genesis (2007 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -12308,7 +12308,7 @@ SONGS = [
       "Steely Dan"
     ],
     "album": "Gaucho",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -12319,7 +12319,7 @@ SONGS = [
       "The Trammps"
     ],
     "album": "The Trammps",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -12330,7 +12330,7 @@ SONGS = [
       "Los Lobos"
     ],
     "album": "La Bamba / Charlena",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -12341,7 +12341,7 @@ SONGS = [
       "The Notorious B.I.G."
     ],
     "album": "Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -12352,7 +12352,7 @@ SONGS = [
       "The Notorious B.I.G."
     ],
     "album": "Life After Death (2014 Remastered Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -12363,7 +12363,7 @@ SONGS = [
       "2Pac;Big Syke"
     ],
     "album": "All Eyez On Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -12374,7 +12374,7 @@ SONGS = [
       "The Notorious B.I.G."
     ],
     "album": "Ready to Die (The Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -12385,7 +12385,7 @@ SONGS = [
       "MC Hammer"
     ],
     "album": "Please Hammer Don't Hurt 'Em",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -12396,7 +12396,7 @@ SONGS = [
       "Pearl Jam"
     ],
     "album": "Ten",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -12407,7 +12407,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Reggatta De Blanc (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -12418,7 +12418,7 @@ SONGS = [
       "David Bowie"
     ],
     "album": "The Man Who Sold the World (2015 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -12429,7 +12429,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "MTV Unplugged In New York",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -12440,7 +12440,7 @@ SONGS = [
       "Genesis"
     ],
     "album": "Invisible Touch (2007 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -12451,7 +12451,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Outlandos D'Amour (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -12462,7 +12462,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Outlandos D'Amour (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -12473,7 +12473,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Zenyatta Mondatta (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -12484,7 +12484,7 @@ SONGS = [
       "Genesis"
     ],
     "album": "We Can't Dance (2007 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -12495,7 +12495,7 @@ SONGS = [
       "Genesis"
     ],
     "album": "Invisible Touch (2007 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -12506,7 +12506,7 @@ SONGS = [
       "Savage Garden"
     ],
     "album": "Savage Garden (Original Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -12517,7 +12517,7 @@ SONGS = [
       "Richard Marx"
     ],
     "album": "Repeat Offender",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -12528,7 +12528,7 @@ SONGS = [
       "Richard Marx"
     ],
     "album": "Rush Street",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -12539,7 +12539,7 @@ SONGS = [
       "Aerosmith"
     ],
     "album": "I Don't Want To Miss A Thing EP",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -12550,7 +12550,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "The Wall",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -12561,7 +12561,7 @@ SONGS = [
       "Oingo Boingo"
     ],
     "album": "Dead Man's Party",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -12572,7 +12572,7 @@ SONGS = [
       "Eric Clapton"
     ],
     "album": "Slowhand 35th Anniversary (Super Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -12583,7 +12583,7 @@ SONGS = [
       "Big Mountain"
     ],
     "album": "The Best of Big Mountain",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -12594,7 +12594,7 @@ SONGS = [
       "Lenny Kravitz"
     ],
     "album": "Mama Said",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -12605,7 +12605,7 @@ SONGS = [
       "Lenny Kravitz"
     ],
     "album": "5",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -12616,7 +12616,7 @@ SONGS = [
       "Phil Collins"
     ],
     "album": "No Jacket Required (2016 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -12627,7 +12627,7 @@ SONGS = [
       "Naked Eyes"
     ],
     "album": "Naked Eyes",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -12638,7 +12638,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "Wish You Were Here",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -12649,7 +12649,7 @@ SONGS = [
       "The Hollies"
     ],
     "album": "Distant Light (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -12660,7 +12660,7 @@ SONGS = [
       "Foreigner"
     ],
     "album": "Double Vision (Expanded)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -12671,7 +12671,7 @@ SONGS = [
       "Daryl Hall & John Oates"
     ],
     "album": "Private Eyes (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -12682,7 +12682,7 @@ SONGS = [
       "10cc"
     ],
     "album": "Bloody Tourists",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -12693,7 +12693,7 @@ SONGS = [
       "Eagles"
     ],
     "album": "One of These Nights (2013 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -12704,7 +12704,7 @@ SONGS = [
       "Boney M."
     ],
     "album": "Take The Heat Off Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -12715,7 +12715,7 @@ SONGS = [
       "Sting"
     ],
     "album": "...Nothing Like The Sun",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -12726,7 +12726,7 @@ SONGS = [
       "Steely Dan"
     ],
     "album": "Can't Buy A Thrill",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -12737,7 +12737,7 @@ SONGS = [
       "Curtis Mayfield"
     ],
     "album": "People Never Give Up",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -12748,7 +12748,7 @@ SONGS = [
       "Supertramp"
     ],
     "album": "Breakfast In America (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -12759,7 +12759,7 @@ SONGS = [
       "Electric Light Orchestra"
     ],
     "album": "A New World Record",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -12770,7 +12770,7 @@ SONGS = [
       "Gerry Rafferty"
     ],
     "album": "City to City",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -12781,7 +12781,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Synchronicity (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -12792,7 +12792,7 @@ SONGS = [
       "The Police"
     ],
     "album": "Ghost In The Machine (Remastered 2003)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -12803,7 +12803,7 @@ SONGS = [
       "Alice In Chains"
     ],
     "album": "Dirt (2022 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -12814,7 +12814,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Magical Mystery Tour (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -12825,7 +12825,7 @@ SONGS = [
       "Stevie Wonder"
     ],
     "album": "At The Close Of A Century",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -12836,7 +12836,7 @@ SONGS = [
       "Phil Collins"
     ],
     "album": "No Jacket Required (2016 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -12847,7 +12847,7 @@ SONGS = [
       "Crowded House"
     ],
     "album": "Woodface",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -12858,7 +12858,7 @@ SONGS = [
       "Crowded House"
     ],
     "album": "Crowded House (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -12869,7 +12869,7 @@ SONGS = [
       "Crowded House"
     ],
     "album": "Woodface",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -12880,7 +12880,7 @@ SONGS = [
       "Stereo MC's"
     ],
     "album": "Connected",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -12891,7 +12891,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Thriller",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -12902,7 +12902,7 @@ SONGS = [
       "Billy Joel"
     ],
     "album": "An Innocent Man",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -12913,7 +12913,7 @@ SONGS = [
       "Stereo MC's"
     ],
     "album": "Connected",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -12924,7 +12924,7 @@ SONGS = [
       "Chris Isaak"
     ],
     "album": "Heart Shaped World",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -12935,7 +12935,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Communiqué",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -12946,7 +12946,7 @@ SONGS = [
       "Sting"
     ],
     "album": "Ten Summoner's Tales",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -12957,7 +12957,7 @@ SONGS = [
       "Steely Dan"
     ],
     "album": "Aja",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -12968,7 +12968,7 @@ SONGS = [
       "Steely Dan"
     ],
     "album": "Pretzel Logic",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -12979,7 +12979,7 @@ SONGS = [
       "Neil Young"
     ],
     "album": "Harvest (2009 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -12990,7 +12990,7 @@ SONGS = [
       "Pink Floyd"
     ],
     "album": "The Dark Side of the Moon",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -13001,7 +13001,7 @@ SONGS = [
       "Eagles"
     ],
     "album": "Hotel California (2013 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -13012,7 +13012,7 @@ SONGS = [
       "Jamiroquai"
     ],
     "album": "Driving Songs",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -13023,7 +13023,7 @@ SONGS = [
       "Jamiroquai"
     ],
     "album": "Synkronized",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13034,7 +13034,7 @@ SONGS = [
       "Supertramp"
     ],
     "album": "\"...Famous Last Words...\"",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -13045,7 +13045,7 @@ SONGS = [
       "America"
     ],
     "album": "Holiday",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -13056,7 +13056,7 @@ SONGS = [
       "America"
     ],
     "album": "Silent Letter",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -13067,7 +13067,7 @@ SONGS = [
       "America;George Martin"
     ],
     "album": "America",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -13078,7 +13078,7 @@ SONGS = [
       "America"
     ],
     "album": "View From The Ground",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -13089,7 +13089,7 @@ SONGS = [
       "Luiz Bonfá"
     ],
     "album": "Bonfa Burrows Brazil",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13100,7 +13100,7 @@ SONGS = [
       "When In Rome"
     ],
     "album": "When In Rome",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -13111,7 +13111,7 @@ SONGS = [
       "Billy Ocean"
     ],
     "album": "The Very Best of Billy Ocean",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -13122,7 +13122,7 @@ SONGS = [
       "Billy Ocean"
     ],
     "album": "The Very Best of Billy Ocean",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -13133,7 +13133,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Some Girls",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -13144,7 +13144,7 @@ SONGS = [
       "Electric Light Orchestra"
     ],
     "album": "Flashback",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -13155,7 +13155,7 @@ SONGS = [
       "Cru"
     ],
     "album": "Da Dirty 30",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13166,7 +13166,7 @@ SONGS = [
       "TLC"
     ],
     "album": "Fanmail",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13177,7 +13177,7 @@ SONGS = [
       "Britney Spears"
     ],
     "album": "...Baby One More Time (Digital Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13188,7 +13188,7 @@ SONGS = [
       "*NSYNC"
     ],
     "album": "No Strings Attached",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -13199,7 +13199,7 @@ SONGS = [
       "Backstreet Boys"
     ],
     "album": "Millennium",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13210,7 +13210,7 @@ SONGS = [
       "Christina Aguilera"
     ],
     "album": "Christina Aguilera (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13221,7 +13221,7 @@ SONGS = [
       "*NSYNC"
     ],
     "album": "No Strings Attached",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -13232,7 +13232,7 @@ SONGS = [
       "Destiny's Child"
     ],
     "album": "The Writing's On The Wall",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13243,7 +13243,7 @@ SONGS = [
       "Britney Spears"
     ],
     "album": "Oops!... I Did It Again",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -13254,7 +13254,7 @@ SONGS = [
       "Will Smith"
     ],
     "album": "Big Willie Style",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13265,7 +13265,7 @@ SONGS = [
       "Mariah Carey"
     ],
     "album": "Daydream",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -13276,7 +13276,7 @@ SONGS = [
       "Natalie Imbruglia"
     ],
     "album": "Left Of The Middle",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13287,7 +13287,7 @@ SONGS = [
       "Santana;The Product G&B"
     ],
     "album": "Supernatural (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13298,7 +13298,7 @@ SONGS = [
       "Christina Aguilera"
     ],
     "album": "Christina Aguilera (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13309,7 +13309,7 @@ SONGS = [
       "TLC"
     ],
     "album": "Crazysexycool",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -13320,7 +13320,7 @@ SONGS = [
       "Lit"
     ],
     "album": "A Place In The Sun",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13331,7 +13331,7 @@ SONGS = [
       "Nirvana"
     ],
     "album": "Nevermind (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -13342,7 +13342,7 @@ SONGS = [
       "Britney Spears"
     ],
     "album": "...Baby One More Time (Digital Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13353,7 +13353,7 @@ SONGS = [
       "Will Smith"
     ],
     "album": "Big Willie Style",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13364,7 +13364,7 @@ SONGS = [
       "Destiny's Child"
     ],
     "album": "The Writing's On The Wall",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13375,7 +13375,7 @@ SONGS = [
       "*NSYNC"
     ],
     "album": "'N Sync",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13386,7 +13386,7 @@ SONGS = [
       "Lou Bega"
     ],
     "album": "A Little Bit of Mambo",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13397,7 +13397,7 @@ SONGS = [
       "Spice Girls"
     ],
     "album": "Spice",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -13408,7 +13408,7 @@ SONGS = [
       "Dr. Dre;Snoop Dogg"
     ],
     "album": "2001",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13419,7 +13419,7 @@ SONGS = [
       "Macy Gray"
     ],
     "album": "On How Life Is",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13430,7 +13430,7 @@ SONGS = [
       "Mariah Carey"
     ],
     "album": "Daydream",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -13441,7 +13441,7 @@ SONGS = [
       "La Bouche"
     ],
     "album": "Sweet Dreams",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -13452,7 +13452,7 @@ SONGS = [
       "Crazy Town"
     ],
     "album": "The Gift Of Game",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -13463,7 +13463,7 @@ SONGS = [
       "Ms. Lauryn Hill"
     ],
     "album": "The Miseducation of Lauryn Hill",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -13474,7 +13474,7 @@ SONGS = [
       "Coolio;L.V."
     ],
     "album": "Gangsta's Paradise",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -13485,7 +13485,7 @@ SONGS = [
       "The Chicks"
     ],
     "album": "Wide Open Spaces",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -13496,7 +13496,7 @@ SONGS = [
       "Pras;Ol' Dirty Bastard;Mýa"
     ],
     "album": "Ghetto Supastar",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -13507,7 +13507,7 @@ SONGS = [
       "311"
     ],
     "album": "Greatest Hits '93 - '03",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -13518,7 +13518,7 @@ SONGS = [
       "blink-182"
     ],
     "album": "Enema Of The State",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13529,7 +13529,7 @@ SONGS = [
       "Santana;Rob Thomas"
     ],
     "album": "Supernatural (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13540,7 +13540,7 @@ SONGS = [
       "Jennifer Lopez"
     ],
     "album": "On The 6",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13551,7 +13551,7 @@ SONGS = [
       "TLC"
     ],
     "album": "Crazysexycool",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -13562,7 +13562,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "The Essential Michael Jackson",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -13573,7 +13573,7 @@ SONGS = [
       "Christina Aguilera"
     ],
     "album": "Christina Aguilera (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13584,7 +13584,7 @@ SONGS = [
       "Roxette"
     ],
     "album": "It Must Have Been Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -13595,7 +13595,7 @@ SONGS = [
       "The Verve"
     ],
     "album": "Urban Hymns (Remastered 2016)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13606,7 +13606,7 @@ SONGS = [
       "Ms. Lauryn Hill"
     ],
     "album": "The Miseducation of Lauryn Hill",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -13617,7 +13617,7 @@ SONGS = [
       "Foo Fighters"
     ],
     "album": "The Colour And The Shape",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13628,7 +13628,7 @@ SONGS = [
       "Ginuwine"
     ],
     "album": "R&B: From Doo-Wop To Hip-Hop",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13639,7 +13639,7 @@ SONGS = [
       "Eric Carmen"
     ],
     "album": "The Definitive Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13650,7 +13650,7 @@ SONGS = [
       "Mariah Carey"
     ],
     "album": "Butterfly",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13661,7 +13661,7 @@ SONGS = [
       "Nas;Ginuwine"
     ],
     "album": "Nastradamus",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13672,7 +13672,7 @@ SONGS = [
       "Jennifer Lopez"
     ],
     "album": "On The 6",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13683,7 +13683,7 @@ SONGS = [
       "Will Smith"
     ],
     "album": "Big Willie Style",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13694,7 +13694,7 @@ SONGS = [
       "Savage Garden"
     ],
     "album": "Savage Garden",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13705,7 +13705,7 @@ SONGS = [
       "Céline Dion"
     ],
     "album": "Falling into You",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -13716,7 +13716,7 @@ SONGS = [
       "Ginuwine"
     ],
     "album": "100% Ginuwine",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13727,7 +13727,7 @@ SONGS = [
       "Jennifer Lopez"
     ],
     "album": "On The 6",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13738,7 +13738,7 @@ SONGS = [
       "Guns N' Roses"
     ],
     "album": "Use Your Illusion I",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -13749,7 +13749,7 @@ SONGS = [
       "blink-182"
     ],
     "album": "Enema Of The State",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13760,7 +13760,7 @@ SONGS = [
       "Daryl Braithwaite"
     ],
     "album": "Rise",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -13771,7 +13771,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "Violator",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -13782,7 +13782,7 @@ SONGS = [
       "Green Day"
     ],
     "album": "Dookie",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -13793,7 +13793,7 @@ SONGS = [
       "Tal Bachman"
     ],
     "album": "Tal Bachman",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13804,7 +13804,7 @@ SONGS = [
       "Shaggy;Rik Rok"
     ],
     "album": "Hot Shot",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -13815,7 +13815,7 @@ SONGS = [
       "Eve 6"
     ],
     "album": "Eve 6",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -13826,7 +13826,7 @@ SONGS = [
       "Destiny's Child"
     ],
     "album": "Survivor",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -13837,7 +13837,7 @@ SONGS = [
       "Sixpence None The Richer"
     ],
     "album": "Sixpence None The Richer",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13848,7 +13848,7 @@ SONGS = [
       "Red Hot Chili Peppers"
     ],
     "album": "Californication (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13859,7 +13859,7 @@ SONGS = [
       "Smash Mouth"
     ],
     "album": "Astro Lounge",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13870,7 +13870,7 @@ SONGS = [
       "Silverchair"
     ],
     "album": "Frogstomp (Deluxe Edition) [Remastered]",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -13881,7 +13881,7 @@ SONGS = [
       "Fugees;Ms. Lauryn Hill;Wyclef Jean;Pras"
     ],
     "album": "The Score (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -13892,7 +13892,7 @@ SONGS = [
       "Depeche Mode"
     ],
     "album": "Violator (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -13903,7 +13903,7 @@ SONGS = [
       "Prince"
     ],
     "album": "The Gold Experience",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -13914,7 +13914,7 @@ SONGS = [
       "Kris Kross"
     ],
     "album": "Totally Krossed Out",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -13925,7 +13925,7 @@ SONGS = [
       "Céline Dion"
     ],
     "album": "Let's Talk About Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -13936,7 +13936,7 @@ SONGS = [
       "LEN"
     ],
     "album": "Steal My Sunshine EP",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -13947,7 +13947,7 @@ SONGS = [
       "Sublime"
     ],
     "album": "Sublime",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -13958,7 +13958,7 @@ SONGS = [
       "Céline Dion"
     ],
     "album": "JE SUIS : CÉLINE DION (Bande originale du film)",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -13969,7 +13969,7 @@ SONGS = [
       "Mariah Carey;Ol' Dirty Bastard"
     ],
     "album": "The Remixes",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -13980,7 +13980,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Dangerous",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -13991,7 +13991,7 @@ SONGS = [
       "Take That"
     ],
     "album": "Nobody Else (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -14002,7 +14002,7 @@ SONGS = [
       "A Tribe Called Quest"
     ],
     "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -14013,7 +14013,7 @@ SONGS = [
       "Dido"
     ],
     "album": "No Angel",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -14024,7 +14024,7 @@ SONGS = [
       "Mazzy Star"
     ],
     "album": "So Tonight That I Might See",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -14035,7 +14035,7 @@ SONGS = [
       "CAKE"
     ],
     "album": "Prolonging the Magic",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -14046,7 +14046,7 @@ SONGS = [
       "Pearl Jam"
     ],
     "album": "Last Kiss",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -14057,7 +14057,7 @@ SONGS = [
       "Alice In Chains"
     ],
     "album": "Dirt (2022 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -14068,7 +14068,7 @@ SONGS = [
       "Cypress Hill"
     ],
     "album": "Black Sunday",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -14079,7 +14079,7 @@ SONGS = [
       "George Michael"
     ],
     "album": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -14090,7 +14090,7 @@ SONGS = [
       "Red Hot Chili Peppers"
     ],
     "album": "Californication (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -14101,7 +14101,7 @@ SONGS = [
       "Warrant"
     ],
     "album": "Cherry Pie",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -14112,7 +14112,7 @@ SONGS = [
       "Jamiroquai"
     ],
     "album": "High Times: Singles 1992-2006",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -14123,7 +14123,7 @@ SONGS = [
       "Train"
     ],
     "album": "Train",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -14134,7 +14134,7 @@ SONGS = [
       "Mariah Carey"
     ],
     "album": "Music Box",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -14145,7 +14145,7 @@ SONGS = [
       "Alice In Chains"
     ],
     "album": "Facelift",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -14156,7 +14156,7 @@ SONGS = [
       "Monica"
     ],
     "album": "Miss Thang",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -14167,7 +14167,7 @@ SONGS = [
       "Fiona Apple"
     ],
     "album": "Tidal",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -14178,7 +14178,7 @@ SONGS = [
       "Whitney Houston"
     ],
     "album": "My Love Is Your Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -14189,7 +14189,7 @@ SONGS = [
       "Modern Talking;Eric Singleton"
     ],
     "album": "Back For Good/2nd",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -14200,7 +14200,7 @@ SONGS = [
       "Nas;Ms. Lauryn Hill"
     ],
     "album": "It Was Written",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -14211,7 +14211,7 @@ SONGS = [
       "Cypress Hill"
     ],
     "album": "Black Sunday",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -14222,7 +14222,7 @@ SONGS = [
       "Toni Braxton"
     ],
     "album": "Secrets",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -14233,7 +14233,7 @@ SONGS = [
       "Whitney Houston"
     ],
     "album": "The Bodyguard - Original Soundtrack Album",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -14244,7 +14244,7 @@ SONGS = [
       "Annie Lennox"
     ],
     "album": "Diva",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -14255,7 +14255,7 @@ SONGS = [
       "Jeff Buckley"
     ],
     "album": "Grace",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -14266,7 +14266,7 @@ SONGS = [
       "Soul Asylum"
     ],
     "album": "Grave Dancers Union (2022 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -14277,7 +14277,7 @@ SONGS = [
       "Fuel"
     ],
     "album": "Sunburn",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -14288,7 +14288,7 @@ SONGS = [
       "Destiny's Child"
     ],
     "album": "The Writing's On The Wall",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -14299,7 +14299,7 @@ SONGS = [
       "Martina McBride"
     ],
     "album": "The Way That I Am",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -14310,7 +14310,7 @@ SONGS = [
       "Korn"
     ],
     "album": "Follow The Leader",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -14321,7 +14321,7 @@ SONGS = [
       "Alice In Chains"
     ],
     "album": "Facelift",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -14332,7 +14332,7 @@ SONGS = [
       "Big Pun;Joe"
     ],
     "album": "Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -14343,7 +14343,7 @@ SONGS = [
       "Shawn Colvin"
     ],
     "album": "A Few Small Repairs",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -14354,7 +14354,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -14365,7 +14365,7 @@ SONGS = [
       "Westlife"
     ],
     "album": "Westlife",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -14376,7 +14376,7 @@ SONGS = [
       "Pearl Jam"
     ],
     "album": "Vs.",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -14387,7 +14387,7 @@ SONGS = [
       "CAKE"
     ],
     "album": "Fashion Nugget",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -14398,7 +14398,7 @@ SONGS = [
       "B*Witched"
     ],
     "album": "C'est la Vie: The Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -14409,7 +14409,7 @@ SONGS = [
       "A Tribe Called Quest"
     ],
     "album": "The Low End Theory",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -14420,7 +14420,7 @@ SONGS = [
       "Spin Doctors"
     ],
     "album": "Pocket Full Of Kryptonite",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -14431,7 +14431,7 @@ SONGS = [
       "Whitney Houston"
     ],
     "album": "My Love Is Your Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -14442,7 +14442,7 @@ SONGS = [
       "Ginuwine"
     ],
     "album": "The Life",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -14453,7 +14453,7 @@ SONGS = [
       "USHER"
     ],
     "album": "My Way",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -14464,7 +14464,7 @@ SONGS = [
       "SWV"
     ],
     "album": "It's About Time",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -14475,7 +14475,7 @@ SONGS = [
       "Aaliyah"
     ],
     "album": "Age Ain't Nothing But A Number",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -14486,7 +14486,7 @@ SONGS = [
       "Fugees;Ms. Lauryn Hill;Wyclef Jean;Pras"
     ],
     "album": "The Score (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -14497,7 +14497,7 @@ SONGS = [
       "Sarah McLachlan"
     ],
     "album": "Surfacing",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -14508,7 +14508,7 @@ SONGS = [
       "Ghost Town DJs"
     ],
     "album": "My Boo (Hitman's Club Mix)",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -14519,7 +14519,7 @@ SONGS = [
       "Wyclef Jean;New York Philharmonic"
     ],
     "album": "Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -14530,7 +14530,7 @@ SONGS = [
       "Silverchair"
     ],
     "album": "Frogstomp (Deluxe Edition) [Remastered]",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -14541,7 +14541,7 @@ SONGS = [
       "Toni Braxton"
     ],
     "album": "The Heat",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -14552,7 +14552,7 @@ SONGS = [
       "Destiny's Child"
     ],
     "album": "Survivor",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -14563,7 +14563,7 @@ SONGS = [
       "Brooks & Dunn"
     ],
     "album": "Brand New Man",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -14574,7 +14574,7 @@ SONGS = [
       "Bruce Springsteen"
     ],
     "album": "Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -14585,7 +14585,7 @@ SONGS = [
       "AC/DC"
     ],
     "album": "The Razors Edge",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -14596,7 +14596,7 @@ SONGS = [
       "Silverchair"
     ],
     "album": "Frogstomp (Deluxe Edition) [Remastered]",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -14607,7 +14607,7 @@ SONGS = [
       "Sean Kingston"
     ],
     "album": "Beautiful Girls",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -14618,7 +14618,7 @@ SONGS = [
       "Kesha"
     ],
     "album": "Animal + Cannibal (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14629,7 +14629,7 @@ SONGS = [
       "Train"
     ],
     "album": "Hey, Soul Sister",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -14640,7 +14640,7 @@ SONGS = [
       "Katy Perry;Snoop Dogg"
     ],
     "album": "California Gurls (feat. Snoop Dogg)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14651,7 +14651,7 @@ SONGS = [
       "Lady Gaga;Beyoncé"
     ],
     "album": "The Fame Monster",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -14662,7 +14662,7 @@ SONGS = [
       "Taio Cruz"
     ],
     "album": "Rokstarr",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14673,7 +14673,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "Just The Way You Are",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14684,7 +14684,7 @@ SONGS = [
       "Iyaz"
     ],
     "album": "Replay",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -14695,7 +14695,7 @@ SONGS = [
       "Kesha"
     ],
     "album": "Animal + Cannibal (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14706,7 +14706,7 @@ SONGS = [
       "Owl City"
     ],
     "album": "Ocean Eyes",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -14717,7 +14717,7 @@ SONGS = [
       "Jason Derulo"
     ],
     "album": "Jason Derulo",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14728,7 +14728,7 @@ SONGS = [
       "Justin Bieber;Ludacris"
     ],
     "album": "My World 2.0",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14739,7 +14739,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "Speak Now",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14750,7 +14750,7 @@ SONGS = [
       "Justin Bieber;Sean Kingston"
     ],
     "album": "My World 2.0",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14761,7 +14761,7 @@ SONGS = [
       "Nicki Minaj"
     ],
     "album": "Pink Friday (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14772,7 +14772,7 @@ SONGS = [
       "Rihanna;JAŸ-Z"
     ],
     "album": "Good Girl Gone Bad: Reloaded",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -14783,7 +14783,7 @@ SONGS = [
       "B.o.B;Hayley Williams"
     ],
     "album": "B.o.B Presents: The Adventures of Bobby Ray",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14794,7 +14794,7 @@ SONGS = [
       "Katy Perry"
     ],
     "album": "Teenage Dream",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14805,7 +14805,7 @@ SONGS = [
       "Maroon 5;Wiz Khalifa"
     ],
     "album": "Overexposed",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -14816,7 +14816,7 @@ SONGS = [
       "Jessie J;B.o.B"
     ],
     "album": "Who You Are (Platinum Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -14827,7 +14827,7 @@ SONGS = [
       "P!nk"
     ],
     "album": "Funhouse",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -14838,7 +14838,7 @@ SONGS = [
       "Beyoncé"
     ],
     "album": "I AM...SASHA FIERCE",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -14849,7 +14849,7 @@ SONGS = [
       "Katy Perry"
     ],
     "album": "Teenage Dream",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14860,7 +14860,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "Doo-Wops & Hooligans",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -14871,7 +14871,7 @@ SONGS = [
       "Jason Mraz"
     ],
     "album": "We Sing. We Dance. We Steal Things.",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -14882,7 +14882,7 @@ SONGS = [
       "Selena Gomez & The Scene"
     ],
     "album": "Kiss & Tell",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -14893,7 +14893,7 @@ SONGS = [
       "Britney Spears"
     ],
     "album": "Circus (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -14904,7 +14904,7 @@ SONGS = [
       "Alicia Keys"
     ],
     "album": "As I Am",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -14915,7 +14915,7 @@ SONGS = [
       "Miley Cyrus"
     ],
     "album": "Hannah Montana The Movie",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -14926,7 +14926,7 @@ SONGS = [
       "Cher Lloyd"
     ],
     "album": "Sticks & Stones",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -14937,7 +14937,7 @@ SONGS = [
       "One Direction"
     ],
     "album": "Up All Night",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -14948,7 +14948,7 @@ SONGS = [
       "Neon Trees"
     ],
     "album": "Picture Show (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -14959,7 +14959,7 @@ SONGS = [
       "One Direction"
     ],
     "album": "Up All Night",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -14970,7 +14970,7 @@ SONGS = [
       "fun.;Janelle Monáe"
     ],
     "album": "Some Nights",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -14981,7 +14981,7 @@ SONGS = [
       "Alicia Keys"
     ],
     "album": "Girl on Fire (Remixes) - EP",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -14992,7 +14992,7 @@ SONGS = [
       "Miley Cyrus"
     ],
     "album": "Bangerz (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -15003,7 +15003,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "My World 2.0",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15014,7 +15014,7 @@ SONGS = [
       "Justin Bieber;Jaden"
     ],
     "album": "Never Say Never - The Remixes",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15025,7 +15025,7 @@ SONGS = [
       "Justin Bieber;Nicki Minaj"
     ],
     "album": "Believe (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -15036,7 +15036,7 @@ SONGS = [
       "Selena Gomez & The Scene"
     ],
     "album": "When The Sun Goes Down",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15047,7 +15047,7 @@ SONGS = [
       "Jason Derulo"
     ],
     "album": "Everything Is 4",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -15058,7 +15058,7 @@ SONGS = [
       "Jason Derulo"
     ],
     "album": "Jason Derulo",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15069,7 +15069,7 @@ SONGS = [
       "Jason Derulo"
     ],
     "album": "Future History (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15080,7 +15080,7 @@ SONGS = [
       "Jason Derulo"
     ],
     "album": "Jason Derulo",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15091,7 +15091,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "24K Magic",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -15102,7 +15102,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "Good Girl Gone Bad: Reloaded",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -15113,7 +15113,7 @@ SONGS = [
       "Chris Brown"
     ],
     "album": "Chris Brown (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -15124,7 +15124,7 @@ SONGS = [
       "Chris Brown"
     ],
     "album": "Chris Brown (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -15135,7 +15135,7 @@ SONGS = [
       "Chris Brown"
     ],
     "album": "Exclusive (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -15146,7 +15146,7 @@ SONGS = [
       "Jay Sean;Sean Paul;Lil Jon"
     ],
     "album": "Do You Remember",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -15157,7 +15157,7 @@ SONGS = [
       "B.o.B;Bruno Mars"
     ],
     "album": "Nothin' on You",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15168,7 +15168,7 @@ SONGS = [
       "USHER;Pitbull"
     ],
     "album": "Raymond v Raymond (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15179,7 +15179,7 @@ SONGS = [
       "Jay Sean;Lil Wayne"
     ],
     "album": "Down",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -15190,7 +15190,7 @@ SONGS = [
       "Jordin Sparks;Chris Brown"
     ],
     "album": "Jordin Sparks",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -15201,7 +15201,7 @@ SONGS = [
       "Alicia Keys"
     ],
     "album": "As I Am (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -15212,7 +15212,7 @@ SONGS = [
       "Cassie"
     ],
     "album": "Cassie (U.S. Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -15223,7 +15223,7 @@ SONGS = [
       "Beyoncé"
     ],
     "album": "B'Day",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -15234,7 +15234,7 @@ SONGS = [
       "MAGIC!"
     ],
     "album": "Rude",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -15245,7 +15245,7 @@ SONGS = [
       "Foster The People"
     ],
     "album": "New Year's Eve - NYE 2018/2019",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -15256,7 +15256,7 @@ SONGS = [
       "Calvin Harris"
     ],
     "album": "18 Months",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -15267,7 +15267,7 @@ SONGS = [
       "Adele"
     ],
     "album": "25",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -15278,7 +15278,7 @@ SONGS = [
       "Beyoncé"
     ],
     "album": "I AM...SASHA FIERCE - Platinum Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -15289,7 +15289,7 @@ SONGS = [
       "Fifth Harmony;Ty Dolla $ign"
     ],
     "album": "7/27 (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -15300,7 +15300,7 @@ SONGS = [
       "OMI;Felix Jaehn"
     ],
     "album": "Me 4 U",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -15311,7 +15311,7 @@ SONGS = [
       "DJ Khaled;Justin Bieber;Quavo;Chance the Rapper;Lil Wayne"
     ],
     "album": "Grateful",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -15322,7 +15322,7 @@ SONGS = [
       "Maroon 5"
     ],
     "album": "Songs About Jane: 10th Anniversary Edition",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -15333,7 +15333,7 @@ SONGS = [
       "Gwen Stefani"
     ],
     "album": "Love Angel Music Baby",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -15344,7 +15344,7 @@ SONGS = [
       "OneRepublic"
     ],
     "album": "Waking Up",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -15355,7 +15355,7 @@ SONGS = [
       "Maroon 5"
     ],
     "album": "Pop Hits 2012-2015",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -15366,7 +15366,7 @@ SONGS = [
       "Avril Lavigne"
     ],
     "album": "Let Go",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -15377,7 +15377,7 @@ SONGS = [
       "Natasha Bedingfield"
     ],
     "album": "Unwritten",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -15388,7 +15388,7 @@ SONGS = [
       "Zedd;Selena Gomez"
     ],
     "album": "I Want You To Know",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -15399,7 +15399,7 @@ SONGS = [
       "Chris Brown"
     ],
     "album": "Forever",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -15410,7 +15410,7 @@ SONGS = [
       "Ellie Goulding"
     ],
     "album": "Halcyon Days",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -15421,7 +15421,7 @@ SONGS = [
       "The Wanted"
     ],
     "album": "Glad You Came",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15432,7 +15432,7 @@ SONGS = [
       "Owl City;Carly Rae Jepsen"
     ],
     "album": "The Midsummer Station",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -15443,7 +15443,7 @@ SONGS = [
       "Ed Sheeran;Khalid"
     ],
     "album": "No.6 Collaborations Project",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -15454,7 +15454,7 @@ SONGS = [
       "The Chainsmokers;Bebe Rexha"
     ],
     "album": "World War Joy",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -15465,7 +15465,7 @@ SONGS = [
       "Mike Posner;Big Sean"
     ],
     "album": "Cooler Than Me EP",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -15476,7 +15476,7 @@ SONGS = [
       "Lady Gaga"
     ],
     "album": "The Fame Monster (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -15487,7 +15487,7 @@ SONGS = [
       "The Weeknd"
     ],
     "album": "Beauty Behind The Madness",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -15498,7 +15498,7 @@ SONGS = [
       "The Weeknd;Daft Punk"
     ],
     "album": "Starboy",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -15509,7 +15509,7 @@ SONGS = [
       "Chris Brown;Drake"
     ],
     "album": "No Guidance (feat. Drake)",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -15520,7 +15520,7 @@ SONGS = [
       "Drake"
     ],
     "album": "So Far Gone",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -15531,7 +15531,7 @@ SONGS = [
       "Drake;Nicki Minaj"
     ],
     "album": "Take Care (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15542,7 +15542,7 @@ SONGS = [
       "Drake;Majid Jordan"
     ],
     "album": "Nothing Was The Same (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -15553,7 +15553,7 @@ SONGS = [
       "Drake"
     ],
     "album": "More Life",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -15564,7 +15564,7 @@ SONGS = [
       "Lil Wayne"
     ],
     "album": "Tha Carter IV",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15575,7 +15575,7 @@ SONGS = [
       "Flo Rida"
     ],
     "album": "Wild Ones",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -15586,7 +15586,7 @@ SONGS = [
       "David Guetta;Sia"
     ],
     "album": "Nothing but the Beat",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15597,7 +15597,7 @@ SONGS = [
       "Rihanna;Drake"
     ],
     "album": "Loud",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15608,7 +15608,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "Unorthodox Jukebox",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -15619,7 +15619,7 @@ SONGS = [
       "Swedish House Mafia;John Martin"
     ],
     "album": "Don't You Worry Child",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -15630,7 +15630,7 @@ SONGS = [
       "Mike Posner"
     ],
     "album": "31 Minutes to Takeoff",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15641,7 +15641,7 @@ SONGS = [
       "Ray J;Yung Berg"
     ],
     "album": "Sexy Can I",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -15652,7 +15652,7 @@ SONGS = [
       "OneRepublic"
     ],
     "album": "Dreaming Out Loud",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -15663,7 +15663,7 @@ SONGS = [
       "Katy Perry"
     ],
     "album": "Teenage Dream: The Complete Confection",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -15674,7 +15674,7 @@ SONGS = [
       "Neon Trees"
     ],
     "album": "Habits",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15685,7 +15685,7 @@ SONGS = [
       "Maroon 5"
     ],
     "album": "V",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -15696,7 +15696,7 @@ SONGS = [
       "T-Pain;Yung Joc"
     ],
     "album": "Epiphany",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -15707,7 +15707,7 @@ SONGS = [
       "Ariana Grande;The Weeknd"
     ],
     "album": "My Everything (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -15718,7 +15718,7 @@ SONGS = [
       "Flo Rida"
     ],
     "album": "Good Feeling",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15729,7 +15729,7 @@ SONGS = [
       "Ne-Yo"
     ],
     "album": "Year Of The Gentleman",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -15740,7 +15740,7 @@ SONGS = [
       "Drake"
     ],
     "album": "Thank Me Later",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15751,7 +15751,7 @@ SONGS = [
       "Sean Kingston"
     ],
     "album": "Sean Kingston",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -15762,7 +15762,7 @@ SONGS = [
       "Hedley"
     ],
     "album": "The Show Must Go",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -15773,7 +15773,7 @@ SONGS = [
       "Gwen Stefani;Akon"
     ],
     "album": "The Sweet Escape",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -15784,7 +15784,7 @@ SONGS = [
       "Iyaz"
     ],
     "album": "Solo",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15795,7 +15795,7 @@ SONGS = [
       "Jason Derulo"
     ],
     "album": "Talk Dirty",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -15806,7 +15806,7 @@ SONGS = [
       "Travie McCoy;Bruno Mars"
     ],
     "album": "Lazarus",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15817,7 +15817,7 @@ SONGS = [
       "Soulja Boy;Sammie"
     ],
     "album": "iSouljaBoyTellem",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -15828,7 +15828,7 @@ SONGS = [
       "Gym Class Heroes;Adam Levine"
     ],
     "album": "The Papercut Chronicles II",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15839,7 +15839,7 @@ SONGS = [
       "Sean Kingston"
     ],
     "album": "Tomorrow",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -15850,7 +15850,7 @@ SONGS = [
       "Nicki Minaj"
     ],
     "album": "Pink Friday ... Roman Reloaded",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15861,7 +15861,7 @@ SONGS = [
       "Selena Gomez & The Scene"
     ],
     "album": "When The Sun Goes Down",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15872,7 +15872,7 @@ SONGS = [
       "Pitbull;AFROJACK;Ne-Yo;Nayer"
     ],
     "album": "Planet Pit (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15883,7 +15883,7 @@ SONGS = [
       "Jonas Brothers"
     ],
     "album": "A Little Bit Longer",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -15894,7 +15894,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Believe",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -15905,7 +15905,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "Fearless",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -15916,7 +15916,7 @@ SONGS = [
       "Shontelle"
     ],
     "album": "No Gravity",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15927,7 +15927,7 @@ SONGS = [
       "Chris Brown;Justin Bieber"
     ],
     "album": "F.A.M.E. (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15938,7 +15938,7 @@ SONGS = [
       "Sean Paul"
     ],
     "album": "The Trinity",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -15949,7 +15949,7 @@ SONGS = [
       "Selena Gomez"
     ],
     "album": "Stars Dance (Bonus Track Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -15960,7 +15960,7 @@ SONGS = [
       "Vanessa Hudgens"
     ],
     "album": "V",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -15971,7 +15971,7 @@ SONGS = [
       "Nicki Minaj;Drake"
     ],
     "album": "Pink Friday (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -15982,7 +15982,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "It Will Rain",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -15993,7 +15993,7 @@ SONGS = [
       "Bad Meets Evil;Bruno Mars"
     ],
     "album": "Hell: The Sequel (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16004,7 +16004,7 @@ SONGS = [
       "T.I."
     ],
     "album": "Paper Trail",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -16015,7 +16015,7 @@ SONGS = [
       "Jeremih;YG"
     ],
     "album": "Late Nights: The Album",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -16026,7 +16026,7 @@ SONGS = [
       "Marianas Trench"
     ],
     "album": "Ever After",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16037,7 +16037,7 @@ SONGS = [
       "Kid Cudi"
     ],
     "album": "Man On The Moon: The End Of Day",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -16048,7 +16048,7 @@ SONGS = [
       "Michael Bublé"
     ],
     "album": "Crazy Love",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -16059,7 +16059,7 @@ SONGS = [
       "Jonas Brothers"
     ],
     "album": "Jonas Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -16070,7 +16070,7 @@ SONGS = [
       "Jeremih;J. Cole"
     ],
     "album": "Late Nights: The Album",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -16081,7 +16081,7 @@ SONGS = [
       "Enrique Iglesias;Pitbull"
     ],
     "album": "Euphoria (Standard US/Latin version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16092,7 +16092,7 @@ SONGS = [
       "Danny Fernandes"
     ],
     "album": "Intro",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -16103,7 +16103,7 @@ SONGS = [
       "Kesha"
     ],
     "album": "Warrior (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16114,7 +16114,7 @@ SONGS = [
       "Bastille"
     ],
     "album": "Bad Blood",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -16125,7 +16125,7 @@ SONGS = [
       "Major Lazer;Justin Bieber;MØ"
     ],
     "album": "Cold Water",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -16136,7 +16136,7 @@ SONGS = [
       "Nicki Minaj"
     ],
     "album": "Pink Friday ... Roman Reloaded (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16147,7 +16147,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "Fearless",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -16158,7 +16158,7 @@ SONGS = [
       "Akon"
     ],
     "album": "Konvicted",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -16169,7 +16169,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Purpose (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -16180,7 +16180,7 @@ SONGS = [
       "Kanye West;T-Pain"
     ],
     "album": "Graduation",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -16191,7 +16191,7 @@ SONGS = [
       "Chris Brown;USHER;Rick Ross"
     ],
     "album": "X (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -16202,7 +16202,7 @@ SONGS = [
       "ZAYN"
     ],
     "album": "Mind Of Mine (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -16213,7 +16213,7 @@ SONGS = [
       "Kanye West"
     ],
     "album": "Graduation (UK Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -16224,7 +16224,7 @@ SONGS = [
       "Cody Simpson;Becky G"
     ],
     "album": "Paradise (Expanded)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16235,7 +16235,7 @@ SONGS = [
       "Miley Cyrus"
     ],
     "album": "Good Morning Music: Pop Throwbacks",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -16246,7 +16246,7 @@ SONGS = [
       "ABBA"
     ],
     "album": "Arrival",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -16257,7 +16257,7 @@ SONGS = [
       "Vance Joy"
     ],
     "album": "Dream Your Life Away (Special Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -16268,7 +16268,7 @@ SONGS = [
       "Nico & Vinz"
     ],
     "album": "Black Star Elephant",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -16279,7 +16279,7 @@ SONGS = [
       "Britney Spears"
     ],
     "album": "Femme Fatale (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16290,7 +16290,7 @@ SONGS = [
       "David Guetta;Flo Rida;Nicki Minaj"
     ],
     "album": "Nothing but the Beat (Ultimate Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16301,7 +16301,7 @@ SONGS = [
       "Maroon 5"
     ],
     "album": "Overexposed (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16312,7 +16312,7 @@ SONGS = [
       "R. City;Adam Levine"
     ],
     "album": "Locked Away (feat. Adam Levine)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -16323,7 +16323,7 @@ SONGS = [
       "Paramore"
     ],
     "album": "Paramore",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -16334,7 +16334,7 @@ SONGS = [
       "Pitbull;T-Pain"
     ],
     "album": "Planet Pit (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16345,7 +16345,7 @@ SONGS = [
       "Pitbull;Chris Brown"
     ],
     "album": "Planet Pit (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16356,7 +16356,7 @@ SONGS = [
       "David Guetta;Akon"
     ],
     "album": "One More Love",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16367,7 +16367,7 @@ SONGS = [
       "Flo Rida;David Guetta"
     ],
     "album": "Only One Flo (Part 1)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16378,7 +16378,7 @@ SONGS = [
       "T.I.;Rihanna"
     ],
     "album": "Paper Trail",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -16389,7 +16389,7 @@ SONGS = [
       "Icona Pop;Charli xcx"
     ],
     "album": "THIS IS... ICONA POP",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -16400,7 +16400,7 @@ SONGS = [
       "The Chainsmokers;ROZES"
     ],
     "album": "Roses",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -16411,7 +16411,7 @@ SONGS = [
       "Galantis"
     ],
     "album": "Pharmacy",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -16422,7 +16422,7 @@ SONGS = [
       "Ne-Yo"
     ],
     "album": "R.E.D. (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16433,7 +16433,7 @@ SONGS = [
       "Flo Rida;Sia"
     ],
     "album": "Wild Ones",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16444,7 +16444,7 @@ SONGS = [
       "Katy Perry"
     ],
     "album": "Teenage Dream",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16455,7 +16455,7 @@ SONGS = [
       "Cobra Starship;Sabi"
     ],
     "album": "Night Shades",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16466,7 +16466,7 @@ SONGS = [
       "Demi Lovato"
     ],
     "album": "Unbroken",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16477,7 +16477,7 @@ SONGS = [
       "Justin Bieber;Big Sean"
     ],
     "album": "Believe",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16488,7 +16488,7 @@ SONGS = [
       "Chris Brown"
     ],
     "album": "F.A.M.E. (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16499,7 +16499,7 @@ SONGS = [
       "Katy Perry"
     ],
     "album": "Teenage Dream: The Complete Confection",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16510,7 +16510,7 @@ SONGS = [
       "Avril Lavigne"
     ],
     "album": "Goodbye Lullaby (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16521,7 +16521,7 @@ SONGS = [
       "Zedd;Foxes"
     ],
     "album": "Clarity",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16532,7 +16532,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "Talk That Talk (Explicit)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16543,7 +16543,7 @@ SONGS = [
       "Ellie Goulding"
     ],
     "album": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -16554,7 +16554,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "My World",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -16565,7 +16565,7 @@ SONGS = [
       "Rihanna;Calvin Harris"
     ],
     "album": "We Found Love",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16576,7 +16576,7 @@ SONGS = [
       "Diddy - Dirty Money;Skylar Grey"
     ],
     "album": "Last Train To Paris (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16587,7 +16587,7 @@ SONGS = [
       "Fergie;Ludacris"
     ],
     "album": "The Dutchess",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -16598,7 +16598,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "Loud",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16609,7 +16609,7 @@ SONGS = [
       "Justin Timberlake"
     ],
     "album": "The 20/20 Experience",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -16620,7 +16620,7 @@ SONGS = [
       "Ariana Grande;Mac Miller"
     ],
     "album": "Yours Truly",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -16631,7 +16631,7 @@ SONGS = [
       "Rihanna;Kanye West;Paul McCartney"
     ],
     "album": "FourFiveSeconds",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -16642,7 +16642,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "My World (Canada Version - All BP's)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -16653,7 +16653,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Purpose (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -16664,7 +16664,7 @@ SONGS = [
       "Carly Rae Jepsen"
     ],
     "album": "Call Me Maybe",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16675,7 +16675,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "Good Girl Gone Bad",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -16686,7 +16686,7 @@ SONGS = [
       "USHER;will.i.am"
     ],
     "album": "Raymond v Raymond",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16697,7 +16697,7 @@ SONGS = [
       "Maroon 5"
     ],
     "album": "Overexposed (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16708,7 +16708,7 @@ SONGS = [
       "Tiësto;Matthew Koma"
     ],
     "album": "A Town Called Paradise",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -16719,7 +16719,7 @@ SONGS = [
       "Zedd;Hayley Williams"
     ],
     "album": "Clarity (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16730,7 +16730,7 @@ SONGS = [
       "M.I.A."
     ],
     "album": "Kala",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -16741,7 +16741,7 @@ SONGS = [
       "Flo Rida"
     ],
     "album": "Wild Ones",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16752,7 +16752,7 @@ SONGS = [
       "One Direction"
     ],
     "album": "Midnight Memories (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -16763,7 +16763,7 @@ SONGS = [
       "One Direction"
     ],
     "album": "Take Me Home (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16774,7 +16774,7 @@ SONGS = [
       "Katy Perry;Kanye West"
     ],
     "album": "Teenage Dream: The Complete Confection",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16785,7 +16785,7 @@ SONGS = [
       "Kesha"
     ],
     "album": "Warrior (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16796,7 +16796,7 @@ SONGS = [
       "Down With Webster"
     ],
     "album": "Time To Win Vol. I",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -16807,7 +16807,7 @@ SONGS = [
       "Down With Webster"
     ],
     "album": "Time To Win Vol. I",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -16818,7 +16818,7 @@ SONGS = [
       "Chris Brown"
     ],
     "album": "Fortune (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16829,7 +16829,7 @@ SONGS = [
       "Chris Brown"
     ],
     "album": "Fortune (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16840,7 +16840,7 @@ SONGS = [
       "Paramore"
     ],
     "album": "Paramore",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -16851,7 +16851,7 @@ SONGS = [
       "Paramore"
     ],
     "album": "After Laughter",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -16862,7 +16862,7 @@ SONGS = [
       "Kardinal Offishall;Akon"
     ],
     "album": "Not 4 Sale",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -16873,7 +16873,7 @@ SONGS = [
       "Pitbull;Ne-Yo"
     ],
     "album": "Globalization",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -16884,7 +16884,7 @@ SONGS = [
       "Jessie J"
     ],
     "album": "Who You Are (Platinum Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -16895,7 +16895,7 @@ SONGS = [
       "B.o.B;Rivers Cuomo"
     ],
     "album": "B.o.B Presents: The Adventures of Bobby Ray",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16906,7 +16906,7 @@ SONGS = [
       "5 Seconds of Summer"
     ],
     "album": "5 Seconds Of Summer",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -16917,7 +16917,7 @@ SONGS = [
       "One Direction"
     ],
     "album": "FOUR (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -16928,7 +16928,7 @@ SONGS = [
       "USHER;Juicy J"
     ],
     "album": "I Don't Mind (feat. Juicy J)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -16939,7 +16939,7 @@ SONGS = [
       "The Wanted"
     ],
     "album": "The Wanted (Special Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16950,7 +16950,7 @@ SONGS = [
       "Flo Rida;Akon"
     ],
     "album": "Only One Flo (Part 1)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -16961,7 +16961,7 @@ SONGS = [
       "USHER"
     ],
     "album": "Looking 4 Myself (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16972,7 +16972,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "Unapologetic (Edited Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16983,7 +16983,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "Red (Big Machine Radio Release Special)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -16994,7 +16994,7 @@ SONGS = [
       "One Direction"
     ],
     "album": "Take Me Home (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17005,7 +17005,7 @@ SONGS = [
       "MKTO"
     ],
     "album": "MKTO",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17016,7 +17016,7 @@ SONGS = [
       "David Guetta;USHER"
     ],
     "album": "Nothing but the Beat 2.0",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -17027,7 +17027,7 @@ SONGS = [
       "Keri Hilson;Kanye West;Ne-Yo"
     ],
     "album": "In A Perfect World...",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -17038,7 +17038,7 @@ SONGS = [
       "Macklemore;Kesha"
     ],
     "album": "GEMINI",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -17049,7 +17049,7 @@ SONGS = [
       "Justin Bieber;Daniel Caesar;GIVĒON"
     ],
     "album": "Justice",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -17060,7 +17060,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "My World (Canada Version - All BP's)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -17071,7 +17071,7 @@ SONGS = [
       "Soulja Boy"
     ],
     "album": "souljaboytellem.com",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -17082,7 +17082,7 @@ SONGS = [
       "Leona Lewis"
     ],
     "album": "Spirit",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -17093,7 +17093,7 @@ SONGS = [
       "Black Eyed Peas"
     ],
     "album": "THE E.N.D. (THE ENERGY NEVER DIES)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -17104,7 +17104,7 @@ SONGS = [
       "Justin Timberlake"
     ],
     "album": "Justified",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -17115,7 +17115,7 @@ SONGS = [
       "Britney Spears"
     ],
     "album": "Greatest Hits: My Prerogative",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -17126,7 +17126,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "Music Of The Sun",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -17137,7 +17137,7 @@ SONGS = [
       "Nelly Furtado;Timbaland"
     ],
     "album": "The Best of Nelly Furtado (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -17148,7 +17148,7 @@ SONGS = [
       "Kelly Clarkson"
     ],
     "album": "Greatest Hits - Chapter One",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17159,7 +17159,7 @@ SONGS = [
       "T-Pain;Akon"
     ],
     "album": "Epiphany",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -17170,7 +17170,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "A Girl Like Me",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -17181,7 +17181,7 @@ SONGS = [
       "Flo Rida;T-Pain"
     ],
     "album": "Mail on Sunday",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -17192,7 +17192,7 @@ SONGS = [
       "Kanye West;Syleena Johnson"
     ],
     "album": "The College Dropout",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -17203,7 +17203,7 @@ SONGS = [
       "Kanye West;Jamie Foxx"
     ],
     "album": "Late Registration",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -17214,7 +17214,7 @@ SONGS = [
       "Shakira;Wyclef Jean"
     ],
     "album": "Oral Fixation, Vol. 2 (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -17225,7 +17225,7 @@ SONGS = [
       "Kesha"
     ],
     "album": "Cannibal (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -17236,7 +17236,7 @@ SONGS = [
       "Beyoncé;JAŸ-Z"
     ],
     "album": "Dangerously In Love",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -17247,7 +17247,7 @@ SONGS = [
       "The Pussycat Dolls;Busta Rhymes"
     ],
     "album": "PCD (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -17258,7 +17258,7 @@ SONGS = [
       "Estelle;Kanye West"
     ],
     "album": "Shine",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -17269,7 +17269,7 @@ SONGS = [
       "Shakira;Freshlyground"
     ],
     "album": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -17280,7 +17280,7 @@ SONGS = [
       "Avril Lavigne"
     ],
     "album": "The Best Damn Thing",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -17291,7 +17291,7 @@ SONGS = [
       "Akon;Eminem"
     ],
     "album": "Konvicted",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -17302,7 +17302,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "Loud",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -17313,7 +17313,7 @@ SONGS = [
       "Disclosure;Sam Smith"
     ],
     "album": "Settle (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17324,7 +17324,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "Red (Big Machine Radio Release Special)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17335,7 +17335,7 @@ SONGS = [
       "Pitbull;Kesha"
     ],
     "album": "Global Warming: Meltdown (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17346,7 +17346,7 @@ SONGS = [
       "The Weeknd"
     ],
     "album": "Beauty Behind The Madness",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -17357,7 +17357,7 @@ SONGS = [
       "Capital Cities"
     ],
     "album": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17368,7 +17368,7 @@ SONGS = [
       "Black Eyed Peas"
     ],
     "album": "THE E.N.D. (THE ENERGY NEVER DIES)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -17379,7 +17379,7 @@ SONGS = [
       "Nelly"
     ],
     "album": "5.0",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -17390,7 +17390,7 @@ SONGS = [
       "Far East Movement;Ryan Tedder;Ruff Loaderz"
     ],
     "album": "Free Wired",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -17401,7 +17401,7 @@ SONGS = [
       "Foster The People"
     ],
     "album": "Torches",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -17412,7 +17412,7 @@ SONGS = [
       "Coldplay"
     ],
     "album": "Mylo Xyloto",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -17423,7 +17423,7 @@ SONGS = [
       "Lorde"
     ],
     "album": "Pure Heroine",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17434,7 +17434,7 @@ SONGS = [
       "JAŸ-Z;Justin Timberlake"
     ],
     "album": "Magna Carta... Holy Grail",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17445,7 +17445,7 @@ SONGS = [
       "will.i.am;Justin Bieber"
     ],
     "album": "#willpower (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17456,7 +17456,7 @@ SONGS = [
       "Bruno Mars"
     ],
     "album": "Unorthodox Jukebox",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17467,7 +17467,7 @@ SONGS = [
       "Naughty Boy;Sam Smith"
     ],
     "album": "La La La",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17478,7 +17478,7 @@ SONGS = [
       "Tove Lo"
     ],
     "album": "Queen Of The Clouds",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -17489,7 +17489,7 @@ SONGS = [
       "Alesso;Tove Lo"
     ],
     "album": "Heroes (we could be)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -17500,7 +17500,7 @@ SONGS = [
       "Demi Lovato"
     ],
     "album": "Demi",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17511,7 +17511,7 @@ SONGS = [
       "Drake"
     ],
     "album": "Views",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -17522,7 +17522,7 @@ SONGS = [
       "Flo Rida;Kesha"
     ],
     "album": "R.O.O.T.S. (Route of Overcoming the Struggle)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -17533,7 +17533,7 @@ SONGS = [
       "Elton John;Dua Lipa;PNAU"
     ],
     "album": "Cold Heart (PNAU Remix)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -17544,7 +17544,7 @@ SONGS = [
       "Flo Rida"
     ],
     "album": "Wild Ones",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17555,7 +17555,7 @@ SONGS = [
       "Taio Cruz;Ludacris"
     ],
     "album": "Rokstarr",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -17566,7 +17566,7 @@ SONGS = [
       "David Guetta;Flo Rida;Nicki Minaj"
     ],
     "album": "Nothing but the Beat 2.0",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -17577,7 +17577,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "Red (Big Machine Radio Release Special)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17588,7 +17588,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Purpose (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -17599,7 +17599,7 @@ SONGS = [
       "Kesha"
     ],
     "album": "Animal (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -17610,7 +17610,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Purpose (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -17621,7 +17621,7 @@ SONGS = [
       "Calvin Harris;Rihanna"
     ],
     "album": "This Is What You Came For",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -17632,7 +17632,7 @@ SONGS = [
       "Fifth Harmony;Ty Dolla $ign"
     ],
     "album": "7/27 (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -17643,7 +17643,7 @@ SONGS = [
       "Pitbull;Christina Aguilera"
     ],
     "album": "Global Warming: Meltdown (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17654,7 +17654,7 @@ SONGS = [
       "Katy Perry;Juicy J"
     ],
     "album": "PRISM",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17665,7 +17665,7 @@ SONGS = [
       "Jason Derulo"
     ],
     "album": "Tattoos",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17676,7 +17676,7 @@ SONGS = [
       "Olly Murs;Flo Rida"
     ],
     "album": "Right Place Right Time (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17687,7 +17687,7 @@ SONGS = [
       "Lady Gaga"
     ],
     "album": "The Fame Monster (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -17698,7 +17698,7 @@ SONGS = [
       "Lady Gaga"
     ],
     "album": "Born This Way",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -17709,7 +17709,7 @@ SONGS = [
       "Sam Smith"
     ],
     "album": "In The Lonely Hour",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -17720,7 +17720,7 @@ SONGS = [
       "OneRepublic"
     ],
     "album": "Native",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -17731,7 +17731,7 @@ SONGS = [
       "Sia"
     ],
     "album": "This Is Acting (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -17742,7 +17742,7 @@ SONGS = [
       "Shawn Mendes"
     ],
     "album": "Handwritten",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -17753,7 +17753,7 @@ SONGS = [
       "Adele"
     ],
     "album": "21",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -17764,7 +17764,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Believe",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17775,7 +17775,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "1989",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -17786,7 +17786,7 @@ SONGS = [
       "Ellie Goulding"
     ],
     "album": "Lights",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -17797,7 +17797,7 @@ SONGS = [
       "Justin Timberlake;Timbaland"
     ],
     "album": "FutureSex/LoveSounds",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -17808,7 +17808,7 @@ SONGS = [
       "Passenger"
     ],
     "album": "All The Little Lights",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -17819,7 +17819,7 @@ SONGS = [
       "OneRepublic"
     ],
     "album": "Waking Up",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -17830,7 +17830,7 @@ SONGS = [
       "Kelly Clarkson"
     ],
     "album": "Breakaway",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -17841,7 +17841,7 @@ SONGS = [
       "P!nk"
     ],
     "album": "Funhouse (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -17852,7 +17852,7 @@ SONGS = [
       "Justin Timberlake"
     ],
     "album": "Mirrors (Radio Edit)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -17863,7 +17863,7 @@ SONGS = [
       "Cher Lloyd"
     ],
     "album": "Sticks & Stones",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -17874,7 +17874,7 @@ SONGS = [
       "Alessia Cara"
     ],
     "album": "Know-It-All (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -17885,7 +17885,7 @@ SONGS = [
       "JAŸ-Z;Rihanna;Kanye West"
     ],
     "album": "The Blueprint 3",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -17896,7 +17896,7 @@ SONGS = [
       "Rihanna"
     ],
     "album": "Good Girl Gone Bad: Reloaded",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -17907,7 +17907,7 @@ SONGS = [
       "Beyoncé;JAŸ-Z"
     ],
     "album": "BEYONCÉ [Platinum Edition]",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -17918,7 +17918,7 @@ SONGS = [
       "Lady Gaga"
     ],
     "album": "The Fame",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -17929,7 +17929,7 @@ SONGS = [
       "Ariana Grande;Zedd"
     ],
     "album": "My Everything (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -17940,7 +17940,7 @@ SONGS = [
       "Ariana Grande;Iggy Azalea"
     ],
     "album": "My Everything (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -17951,7 +17951,7 @@ SONGS = [
       "Lola Young"
     ],
     "album": "Messy",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -17962,7 +17962,7 @@ SONGS = [
       "Hozier"
     ],
     "album": "Unreal Unearth: Unaired",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -17973,7 +17973,7 @@ SONGS = [
       "Teddy Swims"
     ],
     "album": "I've Tried Everything But Therapy (Part 1)",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -17984,7 +17984,7 @@ SONGS = [
       "Jungle"
     ],
     "album": "Volcano",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -17995,7 +17995,7 @@ SONGS = [
       "Tame Impala"
     ],
     "album": "The Slow Rush",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18006,7 +18006,7 @@ SONGS = [
       "Chappell Roan"
     ],
     "album": "Good Luck, Babe!",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18017,7 +18017,7 @@ SONGS = [
       "Djo"
     ],
     "album": "DECIDE",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18028,7 +18028,7 @@ SONGS = [
       "OneRepublic"
     ],
     "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18039,7 +18039,7 @@ SONGS = [
       "Alex Warren"
     ],
     "album": "Ordinary",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -18050,7 +18050,7 @@ SONGS = [
       "Stephen Sanchez"
     ],
     "album": "Until I Found You",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18061,7 +18061,7 @@ SONGS = [
       "Shaboozey"
     ],
     "album": "A Bar Song (Tipsy)",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18072,7 +18072,7 @@ SONGS = [
       "Benson Boone"
     ],
     "album": "Mystical Magical",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -18083,7 +18083,7 @@ SONGS = [
       "Noah Kahan"
     ],
     "album": "Stick Season",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18094,7 +18094,7 @@ SONGS = [
       "The Weeknd;Ariana Grande"
     ],
     "album": "Save Your Tears (Remix)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18105,7 +18105,7 @@ SONGS = [
       "Adele"
     ],
     "album": "30",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18116,7 +18116,7 @@ SONGS = [
       "Billie Eilish"
     ],
     "album": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18127,7 +18127,7 @@ SONGS = [
       "Olivia Rodrigo"
     ],
     "album": "GUTS",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18138,7 +18138,7 @@ SONGS = [
       "David Kushner"
     ],
     "album": "The Dichotomy",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18149,7 +18149,7 @@ SONGS = [
       "Ravyn Lenae"
     ],
     "album": "Bird's Eye",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18160,7 +18160,7 @@ SONGS = [
       "Majestic;Boney M."
     ],
     "album": "Rasputin",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18171,7 +18171,7 @@ SONGS = [
       "Lady Gaga"
     ],
     "album": "Abracadabra",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -18182,7 +18182,7 @@ SONGS = [
       "Luke Combs"
     ],
     "album": "Gettin' Old",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18193,7 +18193,7 @@ SONGS = [
       "sombr"
     ],
     "album": "back to friends",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18204,7 +18204,7 @@ SONGS = [
       "THE ANXIETY;WILLOW;Tyler Cole"
     ],
     "album": "THE ANXIETY",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18215,7 +18215,7 @@ SONGS = [
       "Joji"
     ],
     "album": "SMITHEREENS",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18226,7 +18226,7 @@ SONGS = [
       "Artemas"
     ],
     "album": "yustyna",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18237,7 +18237,7 @@ SONGS = [
       "Ed Sheeran"
     ],
     "album": "=",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18248,7 +18248,7 @@ SONGS = [
       "Glass Animals"
     ],
     "album": "Dreamland",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18259,7 +18259,7 @@ SONGS = [
       "Billie Eilish"
     ],
     "album": "Happier Than Ever",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18270,7 +18270,7 @@ SONGS = [
       "Måneskin"
     ],
     "album": "Teatro d'ira - Vol. I",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18281,7 +18281,7 @@ SONGS = [
       "Ed Sheeran"
     ],
     "album": "=",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18292,7 +18292,7 @@ SONGS = [
       "Lizzo"
     ],
     "album": "Special",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18303,7 +18303,7 @@ SONGS = [
       "Post Malone;Morgan Wallen"
     ],
     "album": "I Had Some Help",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18314,7 +18314,7 @@ SONGS = [
       "Sabrina Carpenter"
     ],
     "album": "Espresso",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18325,7 +18325,7 @@ SONGS = [
       "Rosa Linn"
     ],
     "album": "SNAP",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18336,7 +18336,7 @@ SONGS = [
       "Steve Lacy"
     ],
     "album": "Bad Habit",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18347,7 +18347,7 @@ SONGS = [
       "Adele"
     ],
     "album": "30",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18358,7 +18358,7 @@ SONGS = [
       "Dua Lipa;DaBaby"
     ],
     "album": "Future Nostalgia",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18369,7 +18369,7 @@ SONGS = [
       "Sabrina Carpenter"
     ],
     "album": "Please Please Please",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18380,7 +18380,7 @@ SONGS = [
       "Gigi Perez"
     ],
     "album": "At The Beach, In Every Life",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -18391,7 +18391,7 @@ SONGS = [
       "Olivia Rodrigo"
     ],
     "album": "SOUR",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18402,7 +18402,7 @@ SONGS = [
       "bbno$;Rich Brian"
     ],
     "album": "eat ya veggies",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18413,7 +18413,7 @@ SONGS = [
       "Zach Bryan"
     ],
     "album": "Something in the Orange",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18424,7 +18424,7 @@ SONGS = [
       "Sabrina Carpenter"
     ],
     "album": "Manchild",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -18435,7 +18435,7 @@ SONGS = [
       "Kenya Grace"
     ],
     "album": "Strangers",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18446,7 +18446,7 @@ SONGS = [
       "Paul Russell"
     ],
     "album": "Lil Boo Thang",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18457,7 +18457,7 @@ SONGS = [
       "David Guetta;Bebe Rexha"
     ],
     "album": "I'm Good (Blue)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18468,7 +18468,7 @@ SONGS = [
       "Lost Frequencies;Calum Scott"
     ],
     "album": "Where Are You Now",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18479,7 +18479,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "Midnights",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18490,7 +18490,7 @@ SONGS = [
       "Sam Fender"
     ],
     "album": "Seventeen Going Under (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18501,7 +18501,7 @@ SONGS = [
       "JVKE"
     ],
     "album": "this is what ____ feels like (Vol. 1-4)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18512,7 +18512,7 @@ SONGS = [
       "Beyoncé"
     ],
     "album": "TEXAS HOLD 'EM",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18523,7 +18523,7 @@ SONGS = [
       "Zach Bryan;Kacey Musgraves"
     ],
     "album": "Zach Bryan",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18534,7 +18534,7 @@ SONGS = [
       "Taylor Swift;Post Malone"
     ],
     "album": "THE TORTURED POETS DEPARTMENT",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18545,7 +18545,7 @@ SONGS = [
       "Dua Lipa"
     ],
     "album": "Dance The Night (From Barbie The Album)",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18556,7 +18556,7 @@ SONGS = [
       "Lewis Capaldi"
     ],
     "album": "Broken By Desire To Be Heavenly Sent",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18567,7 +18567,7 @@ SONGS = [
       "Doja Cat;SZA"
     ],
     "album": "Planet Her",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18578,7 +18578,7 @@ SONGS = [
       "RAYE;070 Shake"
     ],
     "album": "My 21st Century Blues",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18589,7 +18589,7 @@ SONGS = [
       "Kendrick Lamar"
     ],
     "album": "Not Like Us",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18600,7 +18600,7 @@ SONGS = [
       "Dasha"
     ],
     "album": "What Happens Now?",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18611,7 +18611,7 @@ SONGS = [
       "BENEE;Gus Dapperton"
     ],
     "album": "STELLA & STEVE",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -18622,7 +18622,7 @@ SONGS = [
       "Miley Cyrus"
     ],
     "album": "Plastic Hearts",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18633,7 +18633,7 @@ SONGS = [
       "Camila Cabello;Ed Sheeran"
     ],
     "album": "Bam Bam (feat. Ed Sheeran)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18644,7 +18644,7 @@ SONGS = [
       "Laufey"
     ],
     "album": "Bewitched",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18655,7 +18655,7 @@ SONGS = [
       "Ava Max"
     ],
     "album": "Heaven & Hell",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18666,7 +18666,7 @@ SONGS = [
       "Powfu;beabadoobee"
     ],
     "album": "death bed (coffee for your head)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18677,7 +18677,7 @@ SONGS = [
       "Tommy Richman"
     ],
     "album": "MILLION DOLLAR BABY",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18688,7 +18688,7 @@ SONGS = [
       "d4vd"
     ],
     "album": "Petals to Thorns",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18699,7 +18699,7 @@ SONGS = [
       "HUNTR/X;EJAE;AUDREY NUNA;REI AMI;KPop Demon Hunters Cast"
     ],
     "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -18710,7 +18710,7 @@ SONGS = [
       "Rema;Selena Gomez"
     ],
     "album": "Rave & Roses Ultra",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18721,7 +18721,7 @@ SONGS = [
       "Doja Cat"
     ],
     "album": "Scarlet",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18732,7 +18732,7 @@ SONGS = [
       "Metro Boomin;The Weeknd;21 Savage"
     ],
     "album": "HEROES & VILLAINS",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18743,7 +18743,7 @@ SONGS = [
       "The Marías"
     ],
     "album": "Submarine",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18754,7 +18754,7 @@ SONGS = [
       "SZA"
     ],
     "album": "SOS",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18765,7 +18765,7 @@ SONGS = [
       "Sam Smith;Kim Petras"
     ],
     "album": "Unholy (feat. Kim Petras)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18776,7 +18776,7 @@ SONGS = [
       "Charli xcx;Billie Eilish"
     ],
     "album": "Brat and it’s completely different but also still brat",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18787,7 +18787,7 @@ SONGS = [
       "Kali Uchis"
     ],
     "album": "Sin Miedo (del Amor y Otros Demonios) ∞",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18798,7 +18798,7 @@ SONGS = [
       "Farruko"
     ],
     "album": "Pepas",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18809,7 +18809,7 @@ SONGS = [
       "Kendrick Lamar;SZA"
     ],
     "album": "GNX",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18820,7 +18820,7 @@ SONGS = [
       "Tate McRae"
     ],
     "album": "THINK LATER",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18831,7 +18831,7 @@ SONGS = [
       "Gracie Abrams"
     ],
     "album": "The Secret of Us (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18842,7 +18842,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "folklore",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18853,7 +18853,7 @@ SONGS = [
       "ROSÉ;Bruno Mars"
     ],
     "album": "APT.",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18864,7 +18864,7 @@ SONGS = [
       "WizTheMc;bees & honey"
     ],
     "album": "Show Me Love",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -18875,7 +18875,7 @@ SONGS = [
       "Jack Harlow"
     ],
     "album": "Lovin On Me",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18886,7 +18886,7 @@ SONGS = [
       "Leon Thomas"
     ],
     "album": "MUTT",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18897,7 +18897,7 @@ SONGS = [
       "Oliver Tree"
     ],
     "album": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18908,7 +18908,7 @@ SONGS = [
       "KAROL G"
     ],
     "album": "Si Antes Te Hubiera Conocido",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -18919,7 +18919,7 @@ SONGS = [
       "Tyla"
     ],
     "album": "Water",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18930,7 +18930,7 @@ SONGS = [
       "Latto"
     ],
     "album": "777",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18941,7 +18941,7 @@ SONGS = [
       "The Kid LAROI;Justin Bieber"
     ],
     "album": "STAY (with Justin Bieber)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18952,7 +18952,7 @@ SONGS = [
       "Peggy Gou"
     ],
     "album": "(It Goes Like) Nanana [Edit]",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -18963,7 +18963,7 @@ SONGS = [
       "Taylor Swift"
     ],
     "album": "folklore",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -18974,7 +18974,7 @@ SONGS = [
       "Coi Leray"
     ],
     "album": "Players",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -18985,7 +18985,7 @@ SONGS = [
       "GAYLE"
     ],
     "album": "abcdefu",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -18996,7 +18996,7 @@ SONGS = [
       "Bad Bunny"
     ],
     "album": "Un Verano Sin Ti",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19007,7 +19007,7 @@ SONGS = [
       "Jack Harlow"
     ],
     "album": "Come Home The Kids Miss You",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19018,7 +19018,7 @@ SONGS = [
       "Charli xcx"
     ],
     "album": "BRAT",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -19029,7 +19029,7 @@ SONGS = [
       "Olivia Rodrigo"
     ],
     "album": "SOUR",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19040,7 +19040,7 @@ SONGS = [
       "Niall Horan"
     ],
     "album": "The Show",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19051,7 +19051,7 @@ SONGS = [
       "Ariana Grande"
     ],
     "album": "eternal sunshine",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -19062,7 +19062,7 @@ SONGS = [
       "Shouse;David Guetta"
     ],
     "album": "Love Tonight (David Guetta Remix)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19073,7 +19073,7 @@ SONGS = [
       "Meghan Trainor"
     ],
     "album": "Takin' It Back",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19084,7 +19084,7 @@ SONGS = [
       "Nicky Youre;hey daisy"
     ],
     "album": "Good Times Go",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19095,7 +19095,7 @@ SONGS = [
       "Lil Nas X;Jack Harlow"
     ],
     "album": "MONTERO",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19106,7 +19106,7 @@ SONGS = [
       "OneRepublic"
     ],
     "album": "Run",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19117,7 +19117,7 @@ SONGS = [
       "Zoe Wees"
     ],
     "album": "Control",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -19128,7 +19128,7 @@ SONGS = [
       "Shawn Mendes"
     ],
     "album": "Wonder",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -19139,7 +19139,7 @@ SONGS = [
       "d4vd"
     ],
     "album": "Romantic Homicide",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19150,7 +19150,7 @@ SONGS = [
       "Tom Grennan"
     ],
     "album": "Little Bit of Love",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19161,7 +19161,7 @@ SONGS = [
       "Lizzy McAlpine"
     ],
     "album": "five seconds flat",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19172,7 +19172,7 @@ SONGS = [
       "Sabrina Carpenter"
     ],
     "album": "emails i can’t send fwd:",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19183,7 +19183,7 @@ SONGS = [
       "Justin Bieber"
     ],
     "album": "Justice",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19194,7 +19194,7 @@ SONGS = [
       "Lil Nas X"
     ],
     "album": "MONTERO",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19205,7 +19205,7 @@ SONGS = [
       "Tate McRae"
     ],
     "album": "TOO YOUNG TO BE SAD",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19216,7 +19216,7 @@ SONGS = [
       "blackbear"
     ],
     "album": "everything means nothing",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -19227,7 +19227,7 @@ SONGS = [
       "Doja Cat"
     ],
     "album": "Planet Her",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19238,7 +19238,7 @@ SONGS = [
       "James Hype;Miggy Dela Rosa"
     ],
     "album": "Ferrari",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19249,7 +19249,7 @@ SONGS = [
       "SZA"
     ],
     "album": "SOS",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19260,7 +19260,7 @@ SONGS = [
       "Tiësto;Ava Max"
     ],
     "album": "DRIVE",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19271,7 +19271,7 @@ SONGS = [
       "Coldplay;BTS"
     ],
     "album": "My Universe",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19282,7 +19282,7 @@ SONGS = [
       "Joji"
     ],
     "album": "SMITHEREENS",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19293,7 +19293,7 @@ SONGS = [
       "Conan Gray"
     ],
     "album": "Kid Krow",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -19304,7 +19304,7 @@ SONGS = [
       "CKay"
     ],
     "album": "CKay The First",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -19315,7 +19315,7 @@ SONGS = [
       "24kGoldn;iann dior"
     ],
     "album": "El Dorado",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19326,7 +19326,7 @@ SONGS = [
       "George Ezra"
     ],
     "album": "Gold Rush Kid",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19337,7 +19337,7 @@ SONGS = [
       "The Beaches"
     ],
     "album": "Blame My Ex",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19348,7 +19348,7 @@ SONGS = [
       "The Weeknd;JENNIE;Lily-Rose Depp"
     ],
     "album": "The Idol Episode 4 (Music from the HBO Original Series)",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19359,7 +19359,7 @@ SONGS = [
       "FIFTY FIFTY"
     ],
     "album": "The Beginning",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19370,7 +19370,7 @@ SONGS = [
       "Travis Scott;Playboi Carti"
     ],
     "album": "UTOPIA",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19381,7 +19381,7 @@ SONGS = [
       "GIVĒON"
     ],
     "album": "Heartbreak Anniversary",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -19392,7 +19392,7 @@ SONGS = [
       "Joel Corry;MNEK"
     ],
     "album": "Head & Heart (feat. MNEK)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -19403,7 +19403,7 @@ SONGS = [
       "SZA"
     ],
     "album": "SOS",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19414,7 +19414,7 @@ SONGS = [
       "Morgan Wallen;Tate McRae"
     ],
     "album": "I’m The Problem",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -19425,7 +19425,7 @@ SONGS = [
       "Ayra Starr"
     ],
     "album": "Rush",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19436,7 +19436,7 @@ SONGS = [
       "Mae Stephens"
     ],
     "album": "If We Ever Broke Up",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -19447,7 +19447,7 @@ SONGS = [
       "21 Savage"
     ],
     "album": "american dream",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -19458,7 +19458,7 @@ SONGS = [
       "Roddy Ricch"
     ],
     "album": "Please Excuse Me for Being Antisocial",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -19469,7 +19469,7 @@ SONGS = [
       "Bad Bunny;JHAYCO"
     ],
     "album": "DÁKITI",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -19480,7 +19480,7 @@ SONGS = [
       "KATSEYE"
     ],
     "album": "Gabriela",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -19491,7 +19491,7 @@ SONGS = [
       "ROSALÍA"
     ],
     "album": "MOTOMAMI +",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -19502,7 +19502,7 @@ SONGS = [
       "Cardi B;Megan Thee Stallion"
     ],
     "album": "WAP (feat. Megan Thee Stallion)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -19513,7 +19513,7 @@ SONGS = [
       "סאבלימינל;ליאור פרחי"
     ],
     "album": "היצירה שלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19524,7 +19524,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "נמס ממך",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -19535,7 +19535,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "מהשמים",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -19546,7 +19546,7 @@ SONGS = [
       "עומר אדם;איציק קלה"
     ],
     "album": "ילד טוב ילד רע",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19557,7 +19557,7 @@ SONGS = [
       "מושיק עפיה;שלומי סרנגה"
     ],
     "album": "האוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -19568,7 +19568,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "אין כמוך",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -19579,7 +19579,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מוזיקה ושקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -19590,7 +19590,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מוזיקה ושקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -19601,7 +19601,7 @@ SONGS = [
       "עומר אדם;משה פרץ"
     ],
     "album": "מהפכה! (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19612,7 +19612,7 @@ SONGS = [
       "עומר אדם;משה פרץ"
     ],
     "album": "מהפכה! (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19623,7 +19623,7 @@ SONGS = [
       "ליאור פרחי"
     ],
     "album": "פזמון שלא נגמר",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19634,7 +19634,7 @@ SONGS = [
       "דודו אהרון"
     ],
     "album": "Milim Pshutot",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -19645,7 +19645,7 @@ SONGS = [
       "ישי לוי"
     ],
     "album": "ריקוד רומנטי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -19656,7 +19656,7 @@ SONGS = [
       "אייל גולן;Ma Kashur"
     ],
     "album": "רחוק מכאן",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -19667,7 +19667,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "אש",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -19678,7 +19678,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "ילד טוב ילד רע",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19689,7 +19689,7 @@ SONGS = [
       "ליאור נרקיס"
     ],
     "album": "Rechot Shel Alcohol",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19700,7 +19700,7 @@ SONGS = [
       "עידן יניב"
     ],
     "album": "חכי לי",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -19711,7 +19711,7 @@ SONGS = [
       "עדן בן זקן"
     ],
     "album": "מלכת השושנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19722,7 +19722,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מוזיקה ושקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -19733,7 +19733,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מודה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19744,7 +19744,7 @@ SONGS = [
       "שלומי שבת"
     ],
     "album": "זמן אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -19755,7 +19755,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "נגעת לי בלב",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19766,7 +19766,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "נגעת לי בלב",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19777,7 +19777,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "אחרי כל השנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -19788,7 +19788,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "אחרי כל השנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -19799,7 +19799,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "ילד טוב ילד רע",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19810,7 +19810,7 @@ SONGS = [
       "רגב הוד"
     ],
     "album": "מרגיש בטוח",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -19821,7 +19821,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "רחוק מכאן",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -19832,7 +19832,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "זה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -19843,7 +19843,7 @@ SONGS = [
       "סאבלימינל;אבי מסיקה;קובי פרץ"
     ],
     "album": "היצירה שלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19854,7 +19854,7 @@ SONGS = [
       "סאבלימינל;אייל גולן"
     ],
     "album": "היצירה שלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19865,7 +19865,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הוזה אותך מולי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -19876,7 +19876,7 @@ SONGS = [
       "קובי פרץ"
     ],
     "album": "סה לה וי",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19887,7 +19887,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "נגעת לי בלב",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -19898,7 +19898,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "ישמח חתני (מתוך הסרט: ישמח חתני)",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -19909,7 +19909,7 @@ SONGS = [
       "עומר אדם;Zion Baruch"
     ],
     "album": "מודה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19920,7 +19920,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מודה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -19931,7 +19931,7 @@ SONGS = [
       "פאר טסי;אלון דה לוקו"
     ],
     "album": "שתיתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -19942,7 +19942,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "אחרי כל השנים (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -19953,7 +19953,7 @@ SONGS = [
       "מושיק עפיה"
     ],
     "album": "מבט שנוגע",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -19964,7 +19964,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "להיות מאושר",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -19975,7 +19975,7 @@ SONGS = [
       "ליאור נרקיס"
     ],
     "album": "Ani Af Elaich",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -19986,7 +19986,7 @@ SONGS = [
       "ליאור נרקיס;KYD"
     ],
     "album": "יהלום",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -19997,7 +19997,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "מה נשים רוצות",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -20008,7 +20008,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "רחוק מכאן",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -20019,7 +20019,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הלב על השולחן",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -20030,7 +20030,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מוזיקה ושקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -20041,7 +20041,7 @@ SONGS = [
       "קובי פרץ"
     ],
     "album": "בלבלי אותו",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -20052,7 +20052,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מודה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20063,7 +20063,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "אלבום הבכורה",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -20074,7 +20074,7 @@ SONGS = [
       "דודו אהרון"
     ],
     "album": "מילים פשוטות",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20085,7 +20085,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "Names Mimech",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -20096,7 +20096,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מוזיקה ושקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -20107,7 +20107,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "מציאות אחרת",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -20118,7 +20118,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "מציאות אחרת",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -20129,7 +20129,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "מציאות אחרת",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -20140,7 +20140,7 @@ SONGS = [
       "אייל גולן;ארקדי דוכין"
     ],
     "album": "ואני קורא לך",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -20151,7 +20151,7 @@ SONGS = [
       "Yossi Shitrit"
     ],
     "album": "Shover Et Ha'gvulot",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -20162,7 +20162,7 @@ SONGS = [
       "Yossi Shitrit"
     ],
     "album": "Shover Et Ha'gvulot",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -20173,7 +20173,7 @@ SONGS = [
       "איב אנד ליר"
     ],
     "album": "סאלאם",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -20184,7 +20184,7 @@ SONGS = [
       "איב אנד ליר"
     ],
     "album": "בשכונה של איב אנד ליר",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -20195,7 +20195,7 @@ SONGS = [
       "ישי לוי"
     ],
     "album": "האחת שלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -20206,7 +20206,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "באהבה - אוסף שירי אהבה כפול",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -20217,7 +20217,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "זיקוקים",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -20228,7 +20228,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "בלעדייך",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -20239,7 +20239,7 @@ SONGS = [
       "ליאור נרקיס"
     ],
     "album": "עשינו היסטוריה",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -20250,7 +20250,7 @@ SONGS = [
       "ליאור נרקיס"
     ],
     "album": "אם תרצי",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -20261,7 +20261,7 @@ SONGS = [
       "ליאור נרקיס"
     ],
     "album": "ערב טוב",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20272,7 +20272,7 @@ SONGS = [
       "ליאור נרקיס"
     ],
     "album": "יהלום",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20283,7 +20283,7 @@ SONGS = [
       "ליאור נרקיס"
     ],
     "album": "זה מהלב",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -20294,7 +20294,7 @@ SONGS = [
       "מושיק עפיה"
     ],
     "album": "אין הגיון באהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -20305,7 +20305,7 @@ SONGS = [
       "קובי פרץ;מושיק עפיה"
     ],
     "album": "הלילות",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -20316,7 +20316,7 @@ SONGS = [
       "מושיק עפיה"
     ],
     "album": "Bishvili",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20327,7 +20327,7 @@ SONGS = [
       "מושיק עפיה"
     ],
     "album": "Bishvili",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20338,7 +20338,7 @@ SONGS = [
       "Ishtar;קובי פרץ"
     ],
     "album": "Yahad",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -20349,7 +20349,7 @@ SONGS = [
       "שרית חדד;אושר כהן"
     ],
     "album": "ככה בלי שלום (אקוסטי)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -20360,7 +20360,7 @@ SONGS = [
       "מאור אדרי"
     ],
     "album": "צלילים של תקווה",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -20371,7 +20371,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "בסוף כל יום",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20382,7 +20382,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הלב על השולחן",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -20393,7 +20393,7 @@ SONGS = [
       "איתי לוי"
     ],
     "album": "Ma Over Alaich",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20404,7 +20404,7 @@ SONGS = [
       "עדן בן זקן"
     ],
     "album": "מלכת השושנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20415,7 +20415,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "ימים יגידו",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20426,7 +20426,7 @@ SONGS = [
       "קובי פרץ"
     ],
     "album": "משוגע עלייך",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -20437,7 +20437,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "אלבום הבכורה",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -20448,7 +20448,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "מה נשים רוצות",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -20459,7 +20459,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "רחוק מכאן",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -20470,7 +20470,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "אלייך",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -20481,7 +20481,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "דרך לחיים",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20492,7 +20492,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "מהשמים",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20503,7 +20503,7 @@ SONGS = [
       "אתניקס"
     ],
     "album": "געגועים",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -20514,7 +20514,7 @@ SONGS = [
       "אייל גולן;טריפונס"
     ],
     "album": "הוזה אותך מולי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -20525,7 +20525,7 @@ SONGS = [
       "עידן יניב;ליאור דטאקר"
     ],
     "album": "חושב עליה",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -20536,7 +20536,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הפוך מהיקום - חלק ראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -20547,7 +20547,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "כוחה של אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20558,7 +20558,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "מה נשים רוצות",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -20569,7 +20569,7 @@ SONGS = [
       "אייל גולן;עידן רייכל"
     ],
     "album": "להיות מאושר",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -20580,7 +20580,7 @@ SONGS = [
       "חיים דדון;HAIM DADON;דקל וקנין"
     ],
     "album": "מי מצחיק אותך",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -20591,7 +20591,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "כוחה של אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20602,7 +20602,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "דרך לחיים",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20613,7 +20613,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "חייל של אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -20624,7 +20624,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "חייל של אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -20635,7 +20635,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הלב על השולחן",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -20646,7 +20646,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הסתכלי אלי",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -20657,7 +20657,7 @@ SONGS = [
       "אייל גולן;Nikos Vertis;שרית חדד"
     ],
     "album": "פעם בחיים - הופעה חיה באיצטדיון בלומפילד (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20668,7 +20668,7 @@ SONGS = [
       "אייל גולן;Nikos Vertis;שרית חדד"
     ],
     "album": "פעם בחיים - הופעה חיה באיצטדיון בלומפילד (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20679,7 +20679,7 @@ SONGS = [
       "אייל גולן;Nikos Vertis;שרית חדד"
     ],
     "album": "פעם בחיים - הופעה חיה באיצטדיון בלומפילד (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20690,7 +20690,7 @@ SONGS = [
       "אייל גולן;Nikos Vertis;שרית חדד"
     ],
     "album": "פעם בחיים - הופעה חיה באיצטדיון בלומפילד (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20701,7 +20701,7 @@ SONGS = [
       "אייל גולן;Nikos Vertis;שרית חדד"
     ],
     "album": "פעם בחיים - הופעה חיה באיצטדיון בלומפילד (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20712,7 +20712,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "גם אם העולם יתהפך",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20723,7 +20723,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מודה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20734,7 +20734,7 @@ SONGS = [
       "יעקב חתן"
     ],
     "album": "Hanichi Li",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -20745,7 +20745,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "חלומות",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -20756,7 +20756,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הפוך מהיקום - חלק ראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -20767,7 +20767,7 @@ SONGS = [
       "אייל גולן;עומר אדם"
     ],
     "album": "לא פשוט להיות פשוט",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -20778,7 +20778,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "לא פשוט להיות פשוט",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -20789,7 +20789,7 @@ SONGS = [
       "רינת בר"
     ],
     "album": "Hikiti Leha",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -20800,7 +20800,7 @@ SONGS = [
       "ישי לוי"
     ],
     "album": "להתחיל מבראשית",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -20811,7 +20811,7 @@ SONGS = [
       "ישי לוי"
     ],
     "album": "ריקוד רומנטי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -20822,7 +20822,7 @@ SONGS = [
       "שלומי סרנגה"
     ],
     "album": "מונו",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -20833,7 +20833,7 @@ SONGS = [
       "חיים משה"
     ],
     "album": "להיטי זהב - חלק ג'",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -20844,7 +20844,7 @@ SONGS = [
       "הפרויקט של רביבו"
     ],
     "album": "מחרוזת רונה",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -20855,7 +20855,7 @@ SONGS = [
       "מרגלית צנעני"
     ],
     "album": "חומות חימר",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -20866,7 +20866,7 @@ SONGS = [
       "הפרויקט של רביבו"
     ],
     "album": "זהר",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20877,7 +20877,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "דרך לחיים",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20888,7 +20888,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הלב על השולחן",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -20899,7 +20899,7 @@ SONGS = [
       "בן דרעי;דורון אזולאי"
     ],
     "album": "אחת למיליון",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -20910,7 +20910,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מודה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20921,7 +20921,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "חלק מחיי",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -20932,7 +20932,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "ואני קורא לך",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -20943,7 +20943,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "תמיד נשארת",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -20954,7 +20954,7 @@ SONGS = [
       "דודו אהרון"
     ],
     "album": "מילים פשוטות",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -20965,7 +20965,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "חגיגה",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -20976,7 +20976,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הפוך מהיקום - חלק ראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -20987,7 +20987,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מודה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -20998,7 +20998,7 @@ SONGS = [
       "דודו אהרון"
     ],
     "album": "אין כמו אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -21009,7 +21009,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "חלק מחיי",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -21020,7 +21020,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "חלק מחיי",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -21031,7 +21031,7 @@ SONGS = [
       "ליאור נרקיס"
     ],
     "album": "אוסף העשור",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -21042,7 +21042,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "חלק מחיי",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -21053,7 +21053,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "דרך לחיים",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -21064,7 +21064,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "נגעת לי בלב",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -21075,7 +21075,7 @@ SONGS = [
       "ליאור פרחי"
     ],
     "album": "חשמל באויר",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -21086,7 +21086,7 @@ SONGS = [
       "ליאור פרחי"
     ],
     "album": "חשמל באויר",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -21097,7 +21097,7 @@ SONGS = [
       "Nikos Vertis"
     ],
     "album": "Protaseis",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -21108,7 +21108,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "לא פשוט להיות פשוט",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21119,7 +21119,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "זה אני",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -21130,7 +21130,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הפוך מהיקום - חלק שני",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -21141,7 +21141,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "לא פשוט להיות פשוט",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21152,7 +21152,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "לא פשוט להיות פשוט",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21163,7 +21163,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "בזמן האחרון",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -21174,7 +21174,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "לא פשוט להיות פשוט",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21185,7 +21185,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "לא פשוט להיות פשוט",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21196,7 +21196,7 @@ SONGS = [
       "אבי פאנל;ZEHAVA"
     ],
     "album": "Mi Gna",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21207,7 +21207,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "פרק א' נגמר",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -21218,7 +21218,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "ערק",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -21229,7 +21229,7 @@ SONGS = [
       "קורל חצבני"
     ],
     "album": "טיפש או מאוהב",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -21240,7 +21240,7 @@ SONGS = [
       "פאר טסי;עדן בן זקן"
     ],
     "album": "כל העיר שלנו",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -21251,7 +21251,7 @@ SONGS = [
       "שיר לוי"
     ],
     "album": "שאריות מעצמי",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -21262,7 +21262,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "כוחה של אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21273,7 +21273,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "אחרי כל השנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21284,7 +21284,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "אולי הלילה",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21295,7 +21295,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "סימני הזמן",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21306,7 +21306,7 @@ SONGS = [
       "סטלוס ואורן חן"
     ],
     "album": "10",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -21317,7 +21317,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "בסוף כל יום",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21328,7 +21328,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "ילד טוב ילד רע",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -21339,7 +21339,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "מה נשים רוצות",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -21350,7 +21350,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "פרק א' נגמר",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -21361,7 +21361,7 @@ SONGS = [
       "פאר טסי;פבלו רוזנברג"
     ],
     "album": "הפוך לשנינו",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -21372,7 +21372,7 @@ SONGS = [
       "פאר טסי;טליסמאן"
     ],
     "album": "הפוך לשנינו",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -21383,7 +21383,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "בואי נעשה שלום",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -21394,7 +21394,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "חייל של אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -21405,7 +21405,7 @@ SONGS = [
       "קובי פרץ"
     ],
     "album": "כמה אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -21416,7 +21416,7 @@ SONGS = [
       "איתי לוי"
     ],
     "album": "Kol Hair Yodaat",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -21427,7 +21427,7 @@ SONGS = [
       "דודו אהרון"
     ],
     "album": "אין כמו אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -21438,7 +21438,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "סימני הזמן",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21449,7 +21449,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "ילד טוב ילד רע",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -21460,7 +21460,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "רק אהבה תביא אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -21471,7 +21471,7 @@ SONGS = [
       "עופר לוי"
     ],
     "album": "הקלפן",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -21482,7 +21482,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הלב על השולחן",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -21493,7 +21493,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "אשליות מתוקות",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -21504,7 +21504,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הלב על השולחן",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -21515,7 +21515,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הלב על השולחן",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -21526,7 +21526,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "הלב על השולחן",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -21537,7 +21537,7 @@ SONGS = [
       "דודו אהרון"
     ],
     "album": "מילים פשוטות",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -21548,7 +21548,7 @@ SONGS = [
       "איציק קלה"
     ],
     "album": "Look to My Eyes",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -21559,7 +21559,7 @@ SONGS = [
       "אבי פרץ"
     ],
     "album": "גלגל הזמן",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -21570,7 +21570,7 @@ SONGS = [
       "זהבה בן"
     ],
     "album": "הביתה לחזור",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -21581,7 +21581,7 @@ SONGS = [
       "עופר לוי"
     ],
     "album": "קיסריה - יולי 2011",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -21592,7 +21592,7 @@ SONGS = [
       "מרגלית צנעני"
     ],
     "album": "גלה לי",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -21603,7 +21603,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "מרוץ החיים",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -21614,7 +21614,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "בסוף כל יום",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21625,7 +21625,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "בסוף כל יום",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21636,7 +21636,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "בסוף כל יום",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21647,7 +21647,7 @@ SONGS = [
       "איתי לוי"
     ],
     "album": "שתישרף האהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -21658,7 +21658,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "שרית חדד בקיסריה - מרוץ החיים (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -21669,7 +21669,7 @@ SONGS = [
       "איציק קלה"
     ],
     "album": "מחפש את הדרך",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -21680,7 +21680,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "מה נשים רוצות",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -21691,7 +21691,7 @@ SONGS = [
       "אתניקס"
     ],
     "album": "ברוכים הבאים לישראל",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -21702,7 +21702,7 @@ SONGS = [
       "מושיק עפיה"
     ],
     "album": "האוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -21713,7 +21713,7 @@ SONGS = [
       "אושר כהן"
     ],
     "album": "נזכר בעיניה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21724,7 +21724,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "בשבילך נוצרתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -21735,7 +21735,7 @@ SONGS = [
       "זהבה בן"
     ],
     "album": "מלך אמיתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -21746,7 +21746,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "הפרויקט של עידן רייכל",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -21757,7 +21757,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "הפרויקט של עידן רייכל",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -21768,7 +21768,7 @@ SONGS = [
       "מארינה מקסימיליאן"
     ],
     "album": "Armonot Ashan",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -21779,7 +21779,7 @@ SONGS = [
       "נקמת הטרקטור"
     ],
     "album": "נקמת הטרקטור",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -21790,7 +21790,7 @@ SONGS = [
       "הדורבנים"
     ],
     "album": "קובי",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -21801,7 +21801,7 @@ SONGS = [
       "דן תורן"
     ],
     "album": "פרח פרי",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -21812,7 +21812,7 @@ SONGS = [
       "ג'ינג'יות"
     ],
     "album": "Gingiot",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -21823,7 +21823,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "מתי כספי (1974)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -21834,7 +21834,7 @@ SONGS = [
       "אהוד בנאי"
     ],
     "album": "ענה לי",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -21845,7 +21845,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "הופעה חיה בערד (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -21856,7 +21856,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "לשונות של אש",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21867,7 +21867,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "לשונות של אש",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -21878,7 +21878,7 @@ SONGS = [
       "אפרת גוש"
     ],
     "album": "אפרת גוש",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -21889,7 +21889,7 @@ SONGS = [
       "שלמה גרוניך;שלמה יידוב;אנסמבל שם-טוב לוי"
     ],
     "album": "קצת אחרת",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -21900,7 +21900,7 @@ SONGS = [
       "אריק איינשטיין;שלום חנוך;דפנה ארמוני"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21911,7 +21911,7 @@ SONGS = [
       "תמוז"
     ],
     "album": "סוף עונת התפוזים (מהדורת סימני דרך)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -21922,7 +21922,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "כוחה של אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -21933,7 +21933,7 @@ SONGS = [
       "הדג נחש"
     ],
     "album": "Chomer Mekomi (Local Material)",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -21944,7 +21944,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "רבע לשש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -21955,7 +21955,7 @@ SONGS = [
       "הדג נחש"
     ],
     "album": "Bezrat Ha'jam (With The Jam's Help)",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -21966,7 +21966,7 @@ SONGS = [
       "אריק איינשטיין"
     ],
     "album": "סע לאט",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -21977,7 +21977,7 @@ SONGS = [
       "מוש בן ארי"
     ],
     "album": "Masa Umatan",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -21988,7 +21988,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "רבע לשש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -21999,7 +21999,7 @@ SONGS = [
       "צחי הלוי"
     ],
     "album": "Holech Holech (Fauda)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -22010,7 +22010,7 @@ SONGS = [
       "עמיר לב"
     ],
     "album": "חמש שנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -22021,7 +22021,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "חמש שנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -22032,7 +22032,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "מתי כספי (1974)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -22043,7 +22043,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "כמו צמח בר",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -22054,7 +22054,7 @@ SONGS = [
       "מיכה שטרית"
     ],
     "album": "מסמרים ונוצות",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -22065,7 +22065,7 @@ SONGS = [
       "מיכה שטרית"
     ],
     "album": "מסמרים ונוצות",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -22076,7 +22076,7 @@ SONGS = [
       "מיכה שטרית"
     ],
     "album": "מסמרים ונוצות",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -22087,7 +22087,7 @@ SONGS = [
       "הבנות נחמה"
     ],
     "album": "הבנות נחמה",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -22098,7 +22098,7 @@ SONGS = [
       "עידן רייכל;Tamir Nachshon"
     ],
     "album": "Quarter to Six",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -22109,7 +22109,7 @@ SONGS = [
       "פורטיסחרוף;רמי פורטיס;ברי סחרוף"
     ],
     "album": "על המשמרת",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -22120,7 +22120,7 @@ SONGS = [
       "מטרופולין"
     ],
     "album": "הסליל",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -22131,7 +22131,7 @@ SONGS = [
       "באטרינג טריו"
     ],
     "album": "הימים הארוכים העצובים",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -22142,7 +22142,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "הופעה חיה בקיסריה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -22153,7 +22153,7 @@ SONGS = [
       "יזהר אשדות"
     ],
     "album": "Haleilot Shelanu - Ha'osef",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -22164,7 +22164,7 @@ SONGS = [
       "יזהר אשדות"
     ],
     "album": "Haleilot Shelanu - Ha'osef",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -22175,7 +22175,7 @@ SONGS = [
       "אבטיפוס"
     ],
     "album": "מה החזאי מבין",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -22186,7 +22186,7 @@ SONGS = [
       "תיסלם"
     ],
     "album": "רדיו חזק",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -22197,7 +22197,7 @@ SONGS = [
       "תיסלם"
     ],
     "album": "תיסלם והסימפונית (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -22208,7 +22208,7 @@ SONGS = [
       "דני בסן"
     ],
     "album": "דני בסן",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -22219,7 +22219,7 @@ SONGS = [
       "מירי מסיקה"
     ],
     "album": "הופעה אקוסטית בזאפה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -22230,7 +22230,7 @@ SONGS = [
       "מירי מסיקה"
     ],
     "album": "הופעה אקוסטית בזאפה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -22241,7 +22241,7 @@ SONGS = [
       "ערן צור"
     ],
     "album": "עיוור בלב ים",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -22252,7 +22252,7 @@ SONGS = [
       "ערן צור"
     ],
     "album": "עיוור בלב ים",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -22263,7 +22263,7 @@ SONGS = [
       "אריאל זילבר"
     ],
     "album": "רוצי שמוליק",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -22274,7 +22274,7 @@ SONGS = [
       "אריאל זילבר"
     ],
     "album": "רוצי שמוליק",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -22285,7 +22285,7 @@ SONGS = [
       "קורין אלאל"
     ],
     "album": "אנטארקטיקה",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -22296,7 +22296,7 @@ SONGS = [
       "קורין אלאל"
     ],
     "album": "אנטארקטיקה",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -22307,7 +22307,7 @@ SONGS = [
       "דויד ברוזה"
     ],
     "album": "אל תשאלי אם אני אוהב - אוסף שירי אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -22318,7 +22318,7 @@ SONGS = [
       "דויד ברוזה"
     ],
     "album": "אל תשאלי אם אני אוהב - אוסף שירי אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -22329,7 +22329,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "שירי חג ומועד ונופל",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -22340,7 +22340,7 @@ SONGS = [
       "רון שובל"
     ],
     "album": "מרגיש בדרך",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -22351,7 +22351,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -22362,7 +22362,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "ירח",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -22373,7 +22373,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -22384,7 +22384,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -22395,7 +22395,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -22406,7 +22406,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -22417,7 +22417,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -22428,7 +22428,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -22439,7 +22439,7 @@ SONGS = [
       "לירן דנינו"
     ],
     "album": "Liran Danino",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -22450,7 +22450,7 @@ SONGS = [
       "אריק איינשטיין;מיקי גבריאלוב"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -22461,7 +22461,7 @@ SONGS = [
       "אריק איינשטיין;אנסמבל שם-טוב לוי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -22472,7 +22472,7 @@ SONGS = [
       "החברים של נטאשה"
     ],
     "album": "שינויים בהרגלי הצריחה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -22483,7 +22483,7 @@ SONGS = [
       "החברים של נטאשה"
     ],
     "album": "שינויים בהרגלי הצריחה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -22494,7 +22494,7 @@ SONGS = [
       "החברים של נטאשה"
     ],
     "album": "החברים של נטאשה",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -22505,7 +22505,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "מחכים למשיח",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -22516,7 +22516,7 @@ SONGS = [
       "איפה הילד"
     ],
     "album": "איפה הילד",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -22527,7 +22527,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "אחרי לילה של רעש (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -22538,7 +22538,7 @@ SONGS = [
       "המכשפות"
     ],
     "album": "עד העונג הבא",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -22549,7 +22549,7 @@ SONGS = [
       "דני רובס"
     ],
     "album": "עשור או שאני יורה... אוסף שירים 1984-1994",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -22560,7 +22560,7 @@ SONGS = [
       "דני רובס"
     ],
     "album": "עשור או שאני יורה... אוסף שירים 1984-1994",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -22571,7 +22571,7 @@ SONGS = [
       "דני רובס"
     ],
     "album": "עשור או שאני יורה... אוסף שירים 1984-1994",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -22582,7 +22582,7 @@ SONGS = [
       "ג'יין בורדו"
     ],
     "album": "ג'יין בורדו",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -22593,7 +22593,7 @@ SONGS = [
       "ג'יין בורדו"
     ],
     "album": "ג'יין בורדו",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -22604,7 +22604,7 @@ SONGS = [
       "מתי כספי;שלמה גרוניך"
     ],
     "album": "מאחורי הצלילים",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -22615,7 +22615,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "הפרויקט של עידן רייכל",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -22626,7 +22626,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "ממעמקים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -22637,7 +22637,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "ממעמקים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -22648,7 +22648,7 @@ SONGS = [
       "אסף ארליך"
     ],
     "album": "Sheket Achshav (Silence Now)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -22659,7 +22659,7 @@ SONGS = [
       "אסף ארליך"
     ],
     "album": "חדשות מהמגירה",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -22670,7 +22670,7 @@ SONGS = [
       "אסף ארליך"
     ],
     "album": "חדשות מהמגירה",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -22681,7 +22681,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "בין קירות ביתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -22692,7 +22692,7 @@ SONGS = [
       "שולי רנד"
     ],
     "album": "נקודה טובה",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -22703,7 +22703,7 @@ SONGS = [
       "ברי סחרוף"
     ],
     "album": "אקוסטי (Acoustic Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -22714,7 +22714,7 @@ SONGS = [
       "Nosei Hamigbaat"
     ],
     "album": "מי רצח את אגנתה פאלסקוג",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -22725,7 +22725,7 @@ SONGS = [
       "אריק לביא"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -22736,7 +22736,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "ארבע תחנות",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -22747,7 +22747,7 @@ SONGS = [
       "אסף אמדורסקי"
     ],
     "album": "מנועים שקטים",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -22758,7 +22758,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "זרעי קיץ",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -22769,7 +22769,7 @@ SONGS = [
       "להקת פיקוד המרכז"
     ],
     "album": "להקת פיקוד המרכז 1957-1989",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -22780,7 +22780,7 @@ SONGS = [
       "מאיר בנאי"
     ],
     "album": "וביניהם",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -22791,7 +22791,7 @@ SONGS = [
       "מאיר בנאי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -22802,7 +22802,7 @@ SONGS = [
       "מאיר בנאי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -22813,7 +22813,7 @@ SONGS = [
       "מאיר בנאי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -22824,7 +22824,7 @@ SONGS = [
       "הדורבנים"
     ],
     "album": "לוי",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -22835,7 +22835,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "עץ על מים",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -22846,7 +22846,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "שלכת",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -22857,7 +22857,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "שלכת",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -22868,7 +22868,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "Hakol Ad Lekan",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -22879,7 +22879,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "Hakol Ad Lekan",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -22890,7 +22890,7 @@ SONGS = [
       "אושיק לוי"
     ],
     "album": "שירים מובחרים",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -22901,7 +22901,7 @@ SONGS = [
       "אושיק לוי"
     ],
     "album": "שירים מובחרים",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -22912,7 +22912,7 @@ SONGS = [
       "ארקדי דוכין"
     ],
     "album": "יותר ממני-אוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -22923,7 +22923,7 @@ SONGS = [
       "יהודית רביץ"
     ],
     "album": "עד לאן שהלב לוקח",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -22934,7 +22934,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "איגרת אל הילדים",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -22945,7 +22945,7 @@ SONGS = [
       "אסף שלם"
     ],
     "album": "התקופה הזו",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -22956,7 +22956,7 @@ SONGS = [
       "החצר האחורית;גדי רונן;יענקל'ה רוטבליט;איתמר ציגלר;תומר יוסף"
     ],
     "album": "החצר האחורית 2",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -22967,7 +22967,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "ירוקות",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -22978,7 +22978,7 @@ SONGS = [
       "נוער שוליים"
     ],
     "album": "ציירי לך שפם",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -22989,7 +22989,7 @@ SONGS = [
       "נוער שוליים"
     ],
     "album": "ציירי לך שפם",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -23000,7 +23000,7 @@ SONGS = [
       "נוער שוליים"
     ],
     "album": "ציירי לך שפם",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -23011,7 +23011,7 @@ SONGS = [
       "החצר האחורית;גדי רונן;יענקל'ה רוטבליט;איתמר ציגלר;תומר יוסף"
     ],
     "album": "האור החדש",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -23022,7 +23022,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "מבחר",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -23033,7 +23033,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "מבחר",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -23044,7 +23044,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "מבחר",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -23055,7 +23055,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "מבחר",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -23066,7 +23066,7 @@ SONGS = [
       "יובל דיין"
     ],
     "album": "Leesof",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -23077,7 +23077,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "החיטה צומחת שוב",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -23088,7 +23088,7 @@ SONGS = [
       "ברי סחרוף"
     ],
     "album": "סימנים של חולשה",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -23099,7 +23099,7 @@ SONGS = [
       "עילי בוטנר;אברהם אביב אלוש"
     ],
     "album": "הכי קרוב אלייך",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -23110,7 +23110,7 @@ SONGS = [
       "ברי סחרוף"
     ],
     "album": "חם על הירח",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -23121,7 +23121,7 @@ SONGS = [
       "ברי סחרוף"
     ],
     "album": "חם על הירח",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -23132,7 +23132,7 @@ SONGS = [
       "עילי בוטנר;רן דנקר"
     ],
     "album": "שווים",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -23143,7 +23143,7 @@ SONGS = [
       "עילי בוטנר;רן דנקר"
     ],
     "album": "שווים",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -23154,7 +23154,7 @@ SONGS = [
       "עילי בוטנר;רן דנקר"
     ],
     "album": "שווים",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -23165,7 +23165,7 @@ SONGS = [
       "עידן עמדי"
     ],
     "album": "Chelek Mehazman",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -23176,7 +23176,7 @@ SONGS = [
       "שלומי שבן"
     ],
     "album": "תרגיל בהתעוררות",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -23187,7 +23187,7 @@ SONGS = [
       "שלומי שבן"
     ],
     "album": "שלומי שבן",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -23198,7 +23198,7 @@ SONGS = [
       "אלון עדר"
     ],
     "album": "השמרנים שוב באופנה",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -23209,7 +23209,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "חתונה לבנה",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -23220,7 +23220,7 @@ SONGS = [
       "אהוד בנאי"
     ],
     "album": "אהוד בנאי והפליטים",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -23231,7 +23231,7 @@ SONGS = [
       "תיסלם"
     ],
     "album": "תיסלם והסימפונית (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23242,7 +23242,7 @@ SONGS = [
       "הדג נחש;Izhak Klepter"
     ],
     "album": "זמן להתעורר",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -23253,7 +23253,7 @@ SONGS = [
       "משינה"
     ],
     "album": "העמותה לחקר התמותה",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -23264,7 +23264,7 @@ SONGS = [
       "משינה"
     ],
     "album": "העמותה לחקר התמותה",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -23275,7 +23275,7 @@ SONGS = [
       "אריק איינשטיין;מיקי גבריאלוב"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23286,7 +23286,7 @@ SONGS = [
       "החברים של נטאשה"
     ],
     "album": "בהופעה חיה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23297,7 +23297,7 @@ SONGS = [
       "איפה הילד"
     ],
     "album": "שדים",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -23308,7 +23308,7 @@ SONGS = [
       "קורין אלאל"
     ],
     "album": "אנטארקטיקה",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -23319,7 +23319,7 @@ SONGS = [
       "כוורת"
     ],
     "album": "סיפורי פוגי",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -23330,7 +23330,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "רק את",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -23341,7 +23341,7 @@ SONGS = [
       "בית הבובות"
     ],
     "album": "מדפים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -23352,7 +23352,7 @@ SONGS = [
       "ג'ירפות"
     ],
     "album": "אין כניסה לפילים",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -23363,7 +23363,7 @@ SONGS = [
       "אריק איינשטיין;שלום חנוך"
     ],
     "album": "שבלול",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -23374,7 +23374,7 @@ SONGS = [
       "דיקלה"
     ],
     "album": "אהבה מוסיקה",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -23385,7 +23385,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "הופעה חיה בקיסריה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -23396,7 +23396,7 @@ SONGS = [
       "מתי כספי;שלמה גרוניך"
     ],
     "album": "מאחורי הצלילים",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -23407,7 +23407,7 @@ SONGS = [
       "אריק סיני"
     ],
     "album": "אריק סיני",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -23418,7 +23418,7 @@ SONGS = [
       "אריק סיני"
     ],
     "album": "המיטב 1977-2002",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -23429,7 +23429,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "רבע לשש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -23440,7 +23440,7 @@ SONGS = [
       "הנשמות הטהורות"
     ],
     "album": "הנשמות הטהורות",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -23451,7 +23451,7 @@ SONGS = [
       "אריק סיני"
     ],
     "album": "אריק סיני",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -23462,7 +23462,7 @@ SONGS = [
       "בנזין"
     ],
     "album": "עשרים וארבע שעות",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -23473,7 +23473,7 @@ SONGS = [
       "בנזין"
     ],
     "album": "עשרים וארבע שעות",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -23484,7 +23484,7 @@ SONGS = [
       "בנזין"
     ],
     "album": "עשרים וארבע שעות",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -23495,7 +23495,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "רבע לשש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -23506,7 +23506,7 @@ SONGS = [
       "שלמה יידוב"
     ],
     "album": "חולם בספרדית",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -23517,7 +23517,7 @@ SONGS = [
       "שלמה יידוב"
     ],
     "album": "ימים לבנים - האוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -23528,7 +23528,7 @@ SONGS = [
       "ריטה"
     ],
     "album": "ריטה אוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23539,7 +23539,7 @@ SONGS = [
       "איפה הילד"
     ],
     "album": "מסעותי עם עצמי",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -23550,7 +23550,7 @@ SONGS = [
       "יוסי בנאי"
     ],
     "album": "יוסי בנאי (1979)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -23561,7 +23561,7 @@ SONGS = [
       "יוסי בנאי"
     ],
     "album": "יוסי בנאי (1979)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -23572,7 +23572,7 @@ SONGS = [
       "יוסי בנאי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -23583,7 +23583,7 @@ SONGS = [
       "שלומי שבן"
     ],
     "album": "מגדל הפזמון",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23594,7 +23594,7 @@ SONGS = [
       "ריטה"
     ],
     "album": "ריטה אוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23605,7 +23605,7 @@ SONGS = [
       "ריטה;כנסיית השכל"
     ],
     "album": "ריטה אוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23616,7 +23616,7 @@ SONGS = [
       "הפיל הכחול"
     ],
     "album": "מעל המים",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -23627,7 +23627,7 @@ SONGS = [
       "יוני רכטר"
     ],
     "album": "התכוונות",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -23638,7 +23638,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "דרכים",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -23649,7 +23649,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "יפה כלבנה",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -23660,7 +23660,7 @@ SONGS = [
       "לירן דנינו"
     ],
     "album": "Liran Danino",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -23671,7 +23671,7 @@ SONGS = [
       "לירן דנינו"
     ],
     "album": "Liran Danino",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -23682,7 +23682,7 @@ SONGS = [
       "נתן גושן"
     ],
     "album": "Nathan Goshen",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -23693,7 +23693,7 @@ SONGS = [
       "נתן גושן"
     ],
     "album": "Nathan Goshen",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -23704,7 +23704,7 @@ SONGS = [
       "יצחק קלפטר"
     ],
     "album": "מחזיק מעמד",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -23715,7 +23715,7 @@ SONGS = [
       "אריק איינשטיין;שלום חנוך"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23726,7 +23726,7 @@ SONGS = [
       "מוניקה סקס"
     ],
     "album": "Mangina",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -23737,7 +23737,7 @@ SONGS = [
       "צליל מכוון"
     ],
     "album": "צליל מכוון",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -23748,7 +23748,7 @@ SONGS = [
       "מאיר בנאי"
     ],
     "album": "שמע קולי",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -23759,7 +23759,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "הפרויקט של עידן רייכל",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -23770,7 +23770,7 @@ SONGS = [
       "אריאל זילבר"
     ],
     "album": "רוצי שמוליק",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -23781,7 +23781,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "ארץ טרופית משגעת",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -23792,7 +23792,7 @@ SONGS = [
       "אביב גפן;אביתר בנאי"
     ],
     "album": "פסיפס",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -23803,7 +23803,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -23814,7 +23814,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -23825,7 +23825,7 @@ SONGS = [
       "כוורת"
     ],
     "album": "צפוף באוזן",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -23836,7 +23836,7 @@ SONGS = [
       "דויד ברוזה"
     ],
     "album": "המיטב (לעכשיו)",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -23847,7 +23847,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "הופעה אחרונה במועדון ברבי 1999",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -23858,7 +23858,7 @@ SONGS = [
       "דויד ברוזה;מאיר אריאל"
     ],
     "album": "נשיקה גנובה",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -23869,7 +23869,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "אביתר בנאי",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -23880,7 +23880,7 @@ SONGS = [
       "כוורת"
     ],
     "album": "פוגי בפיתה",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -23891,7 +23891,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "השירים 1",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -23902,7 +23902,7 @@ SONGS = [
       "קורין אלאל;ענבל פרלמוטר"
     ],
     "album": "כשזה עמוק",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -23913,7 +23913,7 @@ SONGS = [
       "The High Windows"
     ],
     "album": "החלונות הגבוהים",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -23924,7 +23924,7 @@ SONGS = [
       "תמוז"
     ],
     "album": "סוף עונת התפוזים (מהדורת סימני דרך)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -23935,7 +23935,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "אדם בתוך עצמו",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -23946,7 +23946,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -23957,7 +23957,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -23968,7 +23968,7 @@ SONGS = [
       "קורין אלאל"
     ],
     "album": "Hameitav",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -23979,7 +23979,7 @@ SONGS = [
       "תמונת אשה;שר ניב;רות דנון;מירב הלינגר;רוני וגנר"
     ],
     "album": "ושום סלע",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -23990,7 +23990,7 @@ SONGS = [
       "יוסי בנאי"
     ],
     "album": "יוסי בנאי (1979)",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -24001,7 +24001,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "בסוף מתרגלים להכל",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -24012,7 +24012,7 @@ SONGS = [
       "אריק איינשטיין;שלום חנוך"
     ],
     "album": "שבלול",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -24023,7 +24023,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "מתי כספי (1974)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -24034,7 +24034,7 @@ SONGS = [
       "אריק איינשטיין;יצחק קלפטר"
     ],
     "album": "שביר",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -24045,7 +24045,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -24056,7 +24056,7 @@ SONGS = [
       "ארקדי דוכין"
     ],
     "album": "ארקדי דוכין",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -24067,7 +24067,7 @@ SONGS = [
       "בעז שרעבי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -24078,7 +24078,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "ארץ טרופית משגעת",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -24089,7 +24089,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -24100,7 +24100,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -24111,7 +24111,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -24122,7 +24122,7 @@ SONGS = [
       "עידן רייכל;ברי סחרוף"
     ],
     "album": "למה זה מגיע לנו",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -24133,7 +24133,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "פריד",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -24144,7 +24144,7 @@ SONGS = [
       "Bebes"
     ],
     "album": "תחתונים וגופיות - אין לך מה לדאוג",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -24155,7 +24155,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תרקוד",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -24166,7 +24166,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "חצות",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -24177,7 +24177,7 @@ SONGS = [
       "שלמה ארצי;אסתר שמיר"
     ],
     "album": "מקום",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -24188,7 +24188,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "חום יולי אוגוסט",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -24199,7 +24199,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "חצות",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -24210,7 +24210,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תרקוד",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -24221,7 +24221,7 @@ SONGS = [
       "מופע הארנבות של ד\"ר קספר"
     ],
     "album": "מופע הארנבות של ד\"ר קספר (1993)",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -24232,7 +24232,7 @@ SONGS = [
       "דני ליטני"
     ],
     "album": "יחס חם (Reissue)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -24243,7 +24243,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "ממעמקים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -24254,7 +24254,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "ממעמקים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -24265,7 +24265,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "ממעמקים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -24276,7 +24276,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "ממעמקים",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -24287,7 +24287,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "בין קירות ביתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24298,7 +24298,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "בין קירות ביתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24309,7 +24309,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "בין קירות ביתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24320,7 +24320,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "בין קירות ביתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24331,7 +24331,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "בין קירות ביתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24342,7 +24342,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "עץ על מים",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -24353,7 +24353,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "עץ על מים",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -24364,7 +24364,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "שלכת",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -24375,7 +24375,7 @@ SONGS = [
       "אסף אמדורסקי"
     ],
     "album": "אסף אמדורסקי",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -24386,7 +24386,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "הופעה אחרונה במועדון ברבי 1999",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -24397,7 +24397,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "הופעה אחרונה במועדון ברבי 1999",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -24408,7 +24408,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "שירי חג ומועד ונופל",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -24419,7 +24419,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "שירי חג ומועד ונופל",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -24430,7 +24430,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "שירי חג ומועד ונופל",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -24441,7 +24441,7 @@ SONGS = [
       "אביב גפן;עידן רייכל"
     ],
     "album": "פסיפס",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -24452,7 +24452,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "האוסף השקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24463,7 +24463,7 @@ SONGS = [
       "גבריאל בלחסן"
     ],
     "album": "גם כשעיניי פקוחות",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -24474,7 +24474,7 @@ SONGS = [
       "עידן עמדי"
     ],
     "album": "עכשיו כולם רוקדים",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -24485,7 +24485,7 @@ SONGS = [
       "שירי מימון;שמעון בוסקילה"
     ],
     "album": "המופע המשותף",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -24496,7 +24496,7 @@ SONGS = [
       "שלמה ארצי;שמעון בוסקילה"
     ],
     "album": "אהבתיהם",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -24507,7 +24507,7 @@ SONGS = [
       "קרולינה"
     ],
     "album": "זוהר מהדורה מיוחדת",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -24518,7 +24518,7 @@ SONGS = [
       "הדס קליינמן;אביב בכר"
     ],
     "album": "מעט פשטות",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -24529,7 +24529,7 @@ SONGS = [
       "יובל דיין"
     ],
     "album": "ליבי ער",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -24540,7 +24540,7 @@ SONGS = [
       "אריק איינשטיין;מיקי גבריאלוב"
     ],
     "album": "אוהב להיות בבית",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -24551,7 +24551,7 @@ SONGS = [
       "ג'ירפות"
     ],
     "album": "מי שלא חולם, כועס",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -24562,7 +24562,7 @@ SONGS = [
       "עברי לידר"
     ],
     "album": "יותר טוב כלום מכמעט",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -24573,7 +24573,7 @@ SONGS = [
       "עברי לידר"
     ],
     "album": "יותר טוב כלום מכמעט",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -24584,7 +24584,7 @@ SONGS = [
       "יזהר אשדות"
     ],
     "album": "יזהר אשדות (1992)",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -24595,7 +24595,7 @@ SONGS = [
       "אפרים שמיר;אסתר שמיר"
     ],
     "album": "אפרים ואסתר שמיר",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -24606,7 +24606,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "האוסף השקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24617,7 +24617,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "האוסף השקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24628,7 +24628,7 @@ SONGS = [
       "אריאל זילבר"
     ],
     "album": "אריאל זילבר",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -24639,7 +24639,7 @@ SONGS = [
       "אריק איינשטיין;יוני רכטר"
     ],
     "album": "הייתי פעם ילד",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -24650,7 +24650,7 @@ SONGS = [
       "דויד ברוזה"
     ],
     "album": "המיטב (לעכשיו)",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -24661,7 +24661,7 @@ SONGS = [
       "יהודית רביץ"
     ],
     "album": "געגוע",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -24672,7 +24672,7 @@ SONGS = [
       "בעז שרעבי"
     ],
     "album": "בועז שרעבי (הוצאה מיוחדת)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -24683,7 +24683,7 @@ SONGS = [
       "גיא מזיג"
     ],
     "album": "השחור החדש",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -24694,7 +24694,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "שלכת",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -24705,7 +24705,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "ואיך אצלך",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -24716,7 +24716,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "ואיך אצלך",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -24727,7 +24727,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "התקליטונים",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -24738,7 +24738,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "התקליטונים",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -24749,7 +24749,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "התקליטונים",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -24760,7 +24760,7 @@ SONGS = [
       "ג'ימבו ג'יי"
     ],
     "album": "בואו לפני",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -24771,7 +24771,7 @@ SONGS = [
       "נרקיס"
     ],
     "album": "Bo Nedaber Emet",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -24782,7 +24782,7 @@ SONGS = [
       "עילי בוטנר;קובי אפללו"
     ],
     "album": "עילי בוטנר",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -24793,7 +24793,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "לולה",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -24804,7 +24804,7 @@ SONGS = [
       "אריק איינשטיין;שלום חנוך"
     ],
     "album": "בהופעה משותפת (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -24815,7 +24815,7 @@ SONGS = [
       "איה זהבי פייגלין"
     ],
     "album": "שבעה שירים",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -24826,7 +24826,7 @@ SONGS = [
       "דויד ברוזה"
     ],
     "album": "הכבש השישה עשר",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -24837,7 +24837,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "דרכים",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -24848,7 +24848,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "פחות אבל כואב",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -24859,7 +24859,7 @@ SONGS = [
       "אושיק לוי"
     ],
     "album": "האלבומים המקוריים",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -24870,7 +24870,7 @@ SONGS = [
       "אריק איינשטיין;אבנר קנר"
     ],
     "album": "ארץ ישראל הישנה והטובה חלק 3",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -24881,7 +24881,7 @@ SONGS = [
       "אריאל זילבר"
     ],
     "album": "רוצי שמוליק",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -24892,7 +24892,7 @@ SONGS = [
       "אהוד בנאי"
     ],
     "album": "ממשיך לנסוע (הופעה חיה)",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -24903,7 +24903,7 @@ SONGS = [
       "מרגלית צנעני"
     ],
     "album": "נערי שובה אלי",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -24914,7 +24914,7 @@ SONGS = [
       "קרולינה"
     ],
     "album": "מה אעשה עכשיו",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -24925,7 +24925,7 @@ SONGS = [
       "אפרת גוש"
     ],
     "album": "אה אה אה אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -24936,7 +24936,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "אפר ואבק",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -24947,7 +24947,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "לונדון",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -24958,7 +24958,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "אדבר איתך",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -24969,7 +24969,7 @@ SONGS = [
       "רונה קינן"
     ],
     "album": "הזמן הזה",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -24980,7 +24980,7 @@ SONGS = [
       "זוהר ארגוב"
     ],
     "album": "המשולש-נכון להיום",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -24991,7 +24991,7 @@ SONGS = [
       "נורית גלרון"
     ],
     "album": "המקום ההוא",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -25002,7 +25002,7 @@ SONGS = [
       "יובל בנאי;שלומי ברכה"
     ],
     "album": "אהבה בסוף הקיץ",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25013,7 +25013,7 @@ SONGS = [
       "אריק ברמן"
     ],
     "album": "הראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -25024,7 +25024,7 @@ SONGS = [
       "משינה"
     ],
     "album": "משינה",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -25035,7 +25035,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "תתארו לכם - אוסף משולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -25046,7 +25046,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "סחרחורת",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -25057,7 +25057,7 @@ SONGS = [
       "איתי פרל;תמר אייזנמן"
     ],
     "album": "איך כש...",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25068,7 +25068,7 @@ SONGS = [
       "מאיר בנאי"
     ],
     "album": "וביניהם",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -25079,7 +25079,7 @@ SONGS = [
       "תערובת אסקוט"
     ],
     "album": "תערובת אסקוט",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -25090,7 +25090,7 @@ SONGS = [
       "פורטיסחרוף;רמי פורטיס;ברי סחרוף"
     ],
     "album": "1900?",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -25101,7 +25101,7 @@ SONGS = [
       "יהונתן גפן;יוני רכטר;גידי גוב;יהודית רביץ;דויד ברוזה"
     ],
     "album": "הכבש השישה עשר",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -25112,7 +25112,7 @@ SONGS = [
       "שם-טוב לוי;שלמה גרוניך"
     ],
     "album": "אלבום משפחתי",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -25123,7 +25123,7 @@ SONGS = [
       "ריח מטאל;מרגלית צנעני"
     ],
     "album": "ריח מטאל",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -25134,7 +25134,7 @@ SONGS = [
       "דני סנדרסון;מזי כהן"
     ],
     "album": "קופץ לשניה",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -25145,7 +25145,7 @@ SONGS = [
       "דויד ברוזה"
     ],
     "album": "טבעת הזהב",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25156,7 +25156,7 @@ SONGS = [
       "רונה קינן"
     ],
     "album": "מות התפוז",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25167,7 +25167,7 @@ SONGS = [
       "ברי סחרוף"
     ],
     "album": "חם על הירח",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -25178,7 +25178,7 @@ SONGS = [
       "נועם בנאי"
     ],
     "album": "רעידת אדמה",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25189,7 +25189,7 @@ SONGS = [
       "רוקפור"
     ],
     "album": "רשת פרפרים",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -25200,7 +25200,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "משירי ארץ אהבתי",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -25211,7 +25211,7 @@ SONGS = [
       "שבק ס'"
     ],
     "album": "כנען 2000",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -25222,7 +25222,7 @@ SONGS = [
       "יגאל בשן"
     ],
     "album": "יגאל בשן בהופעה חיה בזאפה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -25233,7 +25233,7 @@ SONGS = [
       "תומר יוסף"
     ],
     "album": "צוחקים מתחת לאדמה",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -25244,7 +25244,7 @@ SONGS = [
       "סמיר שוקרי"
     ],
     "album": "להיטי זהב א",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -25255,7 +25255,7 @@ SONGS = [
       "דין דין אביב"
     ],
     "album": "סודותיי",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -25266,7 +25266,7 @@ SONGS = [
       "איפה הילד"
     ],
     "album": "שדים",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -25277,7 +25277,7 @@ SONGS = [
       "תומר ישעיהו"
     ],
     "album": "Tripoli",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -25288,7 +25288,7 @@ SONGS = [
       "קרן פלס;רון בוחניק"
     ],
     "album": "שקופים",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25299,7 +25299,7 @@ SONGS = [
       "עדן חסון"
     ],
     "album": "אני מבולבל",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25310,7 +25310,7 @@ SONGS = [
       "האחים והאחיות"
     ],
     "album": "המבחר",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -25321,7 +25321,7 @@ SONGS = [
       "אלון אולארצ'יק"
     ],
     "album": "בואי נגיד שאני שלך",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -25332,7 +25332,7 @@ SONGS = [
       "עבודות עפר"
     ],
     "album": "מעל עמק הזוהר",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25343,7 +25343,7 @@ SONGS = [
       "שי גבסו"
     ],
     "album": "ארים ראשי",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -25354,7 +25354,7 @@ SONGS = [
       "קורין אלאל;סילאן אבישר"
     ],
     "album": "ארנבות משוקולד",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -25365,7 +25365,7 @@ SONGS = [
       "דניאלה ספקטור"
     ],
     "album": "Kol HaDvarim HaYafim BeEmet",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -25376,7 +25376,7 @@ SONGS = [
       "שימי רון"
     ],
     "album": "אהבה ים תיכונית",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -25387,7 +25387,7 @@ SONGS = [
       "אריק איינשטיין"
     ],
     "album": "Mazal Gdi",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -25398,7 +25398,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "מתי כספי (1974)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -25409,7 +25409,7 @@ SONGS = [
       "אורן ברזילי"
     ],
     "album": "בתפילות שלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25420,7 +25420,7 @@ SONGS = [
       "אביב גפן;אריק איינשטיין"
     ],
     "album": "יומן מסע",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -25431,7 +25431,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "אביתר בנאי",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -25442,7 +25442,7 @@ SONGS = [
       "אתי אנקרי"
     ],
     "album": "רואה לך בעיניים",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -25453,7 +25453,7 @@ SONGS = [
       "טונה"
     ],
     "album": "גם זה יעבור",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -25464,7 +25464,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "הופעה חיה בקיסריה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -25475,7 +25475,7 @@ SONGS = [
       "הגשש החיוור"
     ],
     "album": "כל הכבוד - השירים היפים של הקולנוע הישראלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -25486,7 +25486,7 @@ SONGS = [
       "הגשש החיוור"
     ],
     "album": "מס. 9",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -25497,7 +25497,7 @@ SONGS = [
       "כנסיית השכל"
     ],
     "album": "אוטוביוגרפיה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -25508,7 +25508,7 @@ SONGS = [
       "בית הבובות"
     ],
     "album": "רני",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -25519,7 +25519,7 @@ SONGS = [
       "רמי פורטיס;ברי סחרוף;פורטיסחרוף"
     ],
     "album": "סיפורים מהקופסא",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -25530,7 +25530,7 @@ SONGS = [
       "שי צברי"
     ],
     "album": "שחרית",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -25541,7 +25541,7 @@ SONGS = [
       "יהודית רביץ"
     ],
     "album": "יהודית רביץ",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -25552,7 +25552,7 @@ SONGS = [
       "כוורת"
     ],
     "album": "סיפורי פוגי",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -25563,7 +25563,7 @@ SONGS = [
       "ארקדי דוכין"
     ],
     "album": "להרגיש",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -25574,7 +25574,7 @@ SONGS = [
       "יזהר אשדות"
     ],
     "album": "במרחק נגיעה מכאן",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -25585,7 +25585,7 @@ SONGS = [
       "אריק לביא"
     ],
     "album": "עמוד האש",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -25596,7 +25596,7 @@ SONGS = [
       "אלישע בנאי"
     ],
     "album": "מהירות האור",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -25607,7 +25607,7 @@ SONGS = [
       "אריאל זילבר"
     ],
     "album": "אריאל זילבר",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -25618,7 +25618,7 @@ SONGS = [
       "שמעון בוסקילה"
     ],
     "album": "אומרים ייאוש",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -25629,7 +25629,7 @@ SONGS = [
       "יהושע לימוני"
     ],
     "album": "מתפוצץ",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25640,7 +25640,7 @@ SONGS = [
       "הגשש החיוור"
     ],
     "album": "מס. 16",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -25651,7 +25651,7 @@ SONGS = [
       "גלי עטרי"
     ],
     "album": "צעד אחד לפני הנהר",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -25662,7 +25662,7 @@ SONGS = [
       "בעז שרעבי"
     ],
     "album": "משאלה",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -25673,7 +25673,7 @@ SONGS = [
       "מיטל טרבלסי"
     ],
     "album": "נשאר לי שיר",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -25684,7 +25684,7 @@ SONGS = [
       "צביקה פיק"
     ],
     "album": "מוסיקה",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -25695,7 +25695,7 @@ SONGS = [
       "Yael Levi"
     ],
     "album": "יעל לוי",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -25706,7 +25706,7 @@ SONGS = [
       "צביקה פיק"
     ],
     "album": "מוסיקה",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -25717,7 +25717,7 @@ SONGS = [
       "רוקפור"
     ],
     "album": "האיש שראה הכל",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -25728,7 +25728,7 @@ SONGS = [
       "הראל סקעת"
     ],
     "album": "(כוכב נולד, עונה 2 (הרגעים הגדולים",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -25739,7 +25739,7 @@ SONGS = [
       "הראל סקעת"
     ],
     "album": "(כוכב נולד, עונה 2 (הרגעים הגדולים",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -25750,7 +25750,7 @@ SONGS = [
       "הראל סקעת"
     ],
     "album": "(כוכב נולד, עונה 2 (הרגעים הגדולים",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -25761,7 +25761,7 @@ SONGS = [
       "החצר האחורית;גדי רונן;יענקל'ה רוטבליט;איתמר ציגלר;תומר יוסף"
     ],
     "album": "החצר האחורית 2",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -25772,7 +25772,7 @@ SONGS = [
       "פורטיסחרוף;רמי פורטיס;ברי סחרוף"
     ],
     "album": "1900?",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -25783,7 +25783,7 @@ SONGS = [
       "אברהם טל"
     ],
     "album": "את במרחבים",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -25794,7 +25794,7 @@ SONGS = [
       "שמוליק קראוס"
     ],
     "album": "אחרי עשרים שנה",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -25805,7 +25805,7 @@ SONGS = [
       "דניאל סלומון;דנה עדיני"
     ],
     "album": "אהובי",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -25816,7 +25816,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "אתמול היה טוב",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25827,7 +25827,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "פילוג",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25838,7 +25838,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "כל דבר מזכיר לי",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -25849,7 +25849,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "מתי כספי (1976)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -25860,7 +25860,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "עולם אחר",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -25871,7 +25871,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "א-לי-מות",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -25882,7 +25882,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "מתי כספי (1976)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -25893,7 +25893,7 @@ SONGS = [
       "ריקי גל"
     ],
     "album": "חפש בי",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -25904,7 +25904,7 @@ SONGS = [
       "נקמת הטרקטור;ברי סחרוף"
     ],
     "album": "תיבת נח",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25915,7 +25915,7 @@ SONGS = [
       "קורין אלאל"
     ],
     "album": "האוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -25926,7 +25926,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "יציאה",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -25937,7 +25937,7 @@ SONGS = [
       "חמי רודנר;רונה קינן"
     ],
     "album": "יהומה",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25948,7 +25948,7 @@ SONGS = [
       "חמי רודנר;בנג'י"
     ],
     "album": "יהומה",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25959,7 +25959,7 @@ SONGS = [
       "חמי רודנר;הדס קליינמן;אביב בכר"
     ],
     "album": "יהומה",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25970,7 +25970,7 @@ SONGS = [
       "חמי רודנר;ג'יין בורדו"
     ],
     "album": "יהומה",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25981,7 +25981,7 @@ SONGS = [
       "חמי רודנר;יאיר הררי"
     ],
     "album": "יהומה",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -25992,7 +25992,7 @@ SONGS = [
       "חמי רודנר"
     ],
     "album": "מלנכוליה אהובתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -26003,7 +26003,7 @@ SONGS = [
       "עילי בוטנר;רן דנקר;סיון טלמור"
     ],
     "album": "שווים",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -26014,7 +26014,7 @@ SONGS = [
       "עילי בוטנר;Yaldei Hachutz"
     ],
     "album": "אוסף - מילים, לחן, גיטרות",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -26025,7 +26025,7 @@ SONGS = [
       "רמי פורטיס;ברי סחרוף;פורטיסחרוף"
     ],
     "album": "סיפורים מהקופסא (2015 Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -26036,7 +26036,7 @@ SONGS = [
       "כרמלה גרוס ואגנר;ערן צור"
     ],
     "album": "פרח שחור",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -26047,7 +26047,7 @@ SONGS = [
       "בית הבובות"
     ],
     "album": "שוב החיוך",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -26058,7 +26058,7 @@ SONGS = [
       "אופק אדנק"
     ],
     "album": "המצב של היום",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -26069,7 +26069,7 @@ SONGS = [
       "ברי סחרוף"
     ],
     "album": "נגיעות",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -26080,7 +26080,7 @@ SONGS = [
       "רמי פורטיס"
     ],
     "album": "שוטר פושע והענק הלוחש",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -26091,7 +26091,7 @@ SONGS = [
       "אהוד בנאי"
     ],
     "album": "אהוד בנאי והפליטים",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -26102,7 +26102,7 @@ SONGS = [
       "אריק לביא"
     ],
     "album": "קרוב לפנות בוקר",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -26113,7 +26113,7 @@ SONGS = [
       "שולי רנד"
     ],
     "album": "נקודה טובה",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -26124,7 +26124,7 @@ SONGS = [
       "חנן יובל"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -26135,7 +26135,7 @@ SONGS = [
       "יהודית רביץ"
     ],
     "album": "גלוי ונעלם",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -26146,7 +26146,7 @@ SONGS = [
       "אריק סיני"
     ],
     "album": "שירים חוזרים א' ו-ב'",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -26157,7 +26157,7 @@ SONGS = [
       "יזהר אשדות"
     ],
     "album": "יזהר אשדות (1994)",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -26168,7 +26168,7 @@ SONGS = [
       "נתן גושן"
     ],
     "album": "חזרי אלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -26179,7 +26179,7 @@ SONGS = [
       "אמיר דדון"
     ],
     "album": "לבחור נכון",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -26190,7 +26190,7 @@ SONGS = [
       "יזהר אשדות;אמיר דדון"
     ],
     "album": "עניין של הרגל",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -26201,7 +26201,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -26212,7 +26212,7 @@ SONGS = [
       "ברי סחרוף"
     ],
     "album": "נגיעות",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -26223,7 +26223,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "הופעה אחרונה במועדון ברבי 1999",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -26234,7 +26234,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "Mechakim Lamashiach",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -26245,7 +26245,7 @@ SONGS = [
       "דיקלה"
     ],
     "album": "סיפור אופטימי",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -26256,7 +26256,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "יציאה",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -26267,7 +26267,7 @@ SONGS = [
       "אריק ברמן"
     ],
     "album": "השני",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -26278,7 +26278,7 @@ SONGS = [
       "בעז שרעבי;שושנה דמארי"
     ],
     "album": "משאלה",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -26289,7 +26289,7 @@ SONGS = [
       "רונה קינן;יוני רכטר;אסתר רדא"
     ],
     "album": "קילפתי תפוז (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -26300,7 +26300,7 @@ SONGS = [
       "אסף אמדורסקי"
     ],
     "album": "שיר ללא שם",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -26311,7 +26311,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "מתי כספי (1976)",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -26322,7 +26322,7 @@ SONGS = [
       "אריק איינשטיין"
     ],
     "album": "שיר שחלמתי",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -26333,7 +26333,7 @@ SONGS = [
       "גידי גוב"
     ],
     "album": "התקליט הראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -26344,7 +26344,7 @@ SONGS = [
       "שלמה ארצי;עומר אדם"
     ],
     "album": "לא הפסקתי לחפש אותך",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -26355,7 +26355,7 @@ SONGS = [
       "נינט טייב"
     ],
     "album": "יחפה",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -26366,7 +26366,7 @@ SONGS = [
       "משינה"
     ],
     "album": "עסקי הרוקנרול- אוסף כפול",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -26377,7 +26377,7 @@ SONGS = [
       "ירמי קפלן"
     ],
     "album": "ירמי קפלן והפרחים",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -26388,7 +26388,7 @@ SONGS = [
       "הנשמות הטהורות"
     ],
     "album": "הנשמות הטהורות",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -26399,7 +26399,7 @@ SONGS = [
       "ג'ימבו ג'יי"
     ],
     "album": "מה ראפרים רוצים",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -26410,7 +26410,7 @@ SONGS = [
       "רמי פורטיס;ברי סחרוף;פורטיסחרוף"
     ],
     "album": "סיפורים מהקופסא",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -26421,7 +26421,7 @@ SONGS = [
       "ישי לוי"
     ],
     "album": "הנה בא היום",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -26432,7 +26432,7 @@ SONGS = [
       "קורין אלאל"
     ],
     "album": "אנטארקטיקה",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -26443,7 +26443,7 @@ SONGS = [
       "רוקפור"
     ],
     "album": "ובינתיים בעיר",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26454,7 +26454,7 @@ SONGS = [
       "צליל מכוון"
     ],
     "album": "צליל מכוון",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -26465,7 +26465,7 @@ SONGS = [
       "אושיק לוי"
     ],
     "album": "האלבומים המקוריים",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -26476,7 +26476,7 @@ SONGS = [
       "נורית גלרון"
     ],
     "album": "בתוך הסערות",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -26487,7 +26487,7 @@ SONGS = [
       "שלמה יידוב"
     ],
     "album": "הפעם הראשונה",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -26498,7 +26498,7 @@ SONGS = [
       "יהודה פוליקר"
     ],
     "album": "הופעה חיה בקיסריה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -26509,7 +26509,7 @@ SONGS = [
       "מרסדס בנד"
     ],
     "album": "זהות",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -26520,7 +26520,7 @@ SONGS = [
       "שלמה ארצי;דיקלה"
     ],
     "album": "פעם תורי פעם תורך - הדואטים",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -26531,7 +26531,7 @@ SONGS = [
       "ששי קשת;Avirama Golan"
     ],
     "album": "ששי קשת (1971)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -26542,7 +26542,7 @@ SONGS = [
       "רבקה זוהר"
     ],
     "album": "רבקה זוהר",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -26553,7 +26553,7 @@ SONGS = [
       "אריק לביא"
     ],
     "album": "דיוקן",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -26564,7 +26564,7 @@ SONGS = [
       "סטלה מאריס"
     ],
     "album": "השער נפתח",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -26575,7 +26575,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "בדיוק בזמן",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -26586,7 +26586,7 @@ SONGS = [
       "שם-טוב לוי"
     ],
     "album": "התעוררות",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -26597,7 +26597,7 @@ SONGS = [
       "הדג נחש;שי צברי"
     ],
     "album": "שותפים בעם",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -26608,7 +26608,7 @@ SONGS = [
       "רוני דלומי"
     ],
     "album": "קצת אחרת",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -26619,7 +26619,7 @@ SONGS = [
       "עובדיה חממה"
     ],
     "album": "שמים וארץ",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -26630,7 +26630,7 @@ SONGS = [
       "עומר אדם;דודו טסה"
     ],
     "album": "לולה",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -26641,7 +26641,7 @@ SONGS = [
       "נערי רפול"
     ],
     "album": "אהבה כתומה",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -26652,7 +26652,7 @@ SONGS = [
       "אריק איינשטיין"
     ],
     "album": "משירי סשה ארגוב",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -26663,7 +26663,7 @@ SONGS = [
       "שלמה גרוניך"
     ],
     "album": "נטו Live",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -26674,7 +26674,7 @@ SONGS = [
       "אושיק לוי"
     ],
     "album": "שירים מובחרים",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -26685,7 +26685,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "מי תרצי (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26696,7 +26696,7 @@ SONGS = [
       "יהורם גאון"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -26707,7 +26707,7 @@ SONGS = [
       "נורית גלרון"
     ],
     "album": "אני ראיתי יופי",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -26718,7 +26718,7 @@ SONGS = [
       "ריקי גל"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -26729,7 +26729,7 @@ SONGS = [
       "תומר יוסף"
     ],
     "album": "כמה נורמלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26740,7 +26740,7 @@ SONGS = [
       "תומר יוסף"
     ],
     "album": "כמה נורמלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26751,7 +26751,7 @@ SONGS = [
       "תומר יוסף"
     ],
     "album": "כמה נורמלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26762,7 +26762,7 @@ SONGS = [
       "תומר יוסף"
     ],
     "album": "כמה נורמלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26773,7 +26773,7 @@ SONGS = [
       "תומר יוסף;בן הנדלר"
     ],
     "album": "הטרמפולינה",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -26784,7 +26784,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "תפילה",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26795,7 +26795,7 @@ SONGS = [
       "שרית חדד"
     ],
     "album": "חגיגה",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -26806,7 +26806,7 @@ SONGS = [
       "טליסמאן"
     ],
     "album": "בית שנשבר",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26817,7 +26817,7 @@ SONGS = [
       "תומר יוסף"
     ],
     "album": "השחר 35",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -26828,7 +26828,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "צד א' צד ב'",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -26839,7 +26839,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "נתכונן",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26850,7 +26850,7 @@ SONGS = [
       "עברי לידר"
     ],
     "album": "המזרח התיכון",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26861,7 +26861,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "תביאי איתך יין",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26872,7 +26872,7 @@ SONGS = [
       "דוד לביא;תמר פילוסוף"
     ],
     "album": "החולמים אחר השמש",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -26883,7 +26883,7 @@ SONGS = [
       "מאיר בנאי"
     ],
     "album": "מנגינת הנדודים",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -26894,7 +26894,7 @@ SONGS = [
       "יובל דיין"
     ],
     "album": "לאסוף",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -26905,7 +26905,7 @@ SONGS = [
       "יציאת חירום"
     ],
     "album": "יציאת חירום",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -26916,7 +26916,7 @@ SONGS = [
       "הפרברים"
     ],
     "album": "החולמים אחר השמש",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -26927,7 +26927,7 @@ SONGS = [
       "The High Windows"
     ],
     "album": "החלונות הגבוהים",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -26938,7 +26938,7 @@ SONGS = [
       "שמוליק קראוס"
     ],
     "album": "גלגל מסתובב",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -26949,7 +26949,7 @@ SONGS = [
       "שבק ס'"
     ],
     "album": "בעטיפה של ממתק",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -26960,7 +26960,7 @@ SONGS = [
       "אריאל זילבר"
     ],
     "album": "רוצי שמוליק",
-    "album_image": null,
+    "album_image": None,
     "year": "1976"
   },
   {
@@ -26971,7 +26971,7 @@ SONGS = [
       "בעז שרעבי"
     ],
     "album": "הופעה חיה בקיסריה",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -26982,7 +26982,7 @@ SONGS = [
       "דודו טסה;רוני אלטר"
     ],
     "album": "לולה",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -26993,7 +26993,7 @@ SONGS = [
       "שלום חנוך"
     ],
     "album": "בהופעה חיה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -27004,7 +27004,7 @@ SONGS = [
       "רביב כנר"
     ],
     "album": "רסיסים",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27015,7 +27015,7 @@ SONGS = [
       "Tomorrow's Rain;מיכה שטרית;שלומי ברכה"
     ],
     "album": "עצים",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27026,7 +27026,7 @@ SONGS = [
       "אריק סיני"
     ],
     "album": "צל כבד",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -27037,7 +27037,7 @@ SONGS = [
       "אהוד בנאי"
     ],
     "album": "השלישי",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -27048,7 +27048,7 @@ SONGS = [
       "דניאלה ספקטור"
     ],
     "album": "בהתחלה",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -27059,7 +27059,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "עבודה עברית - מחווה ל-50 שנות יצירה מקורית",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -27070,7 +27070,7 @@ SONGS = [
       "בני אמדורסקי"
     ],
     "album": "במצב של לתת",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -27081,7 +27081,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "לא הפסקתי לחפש אותך (גרסת הלבד)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27092,7 +27092,7 @@ SONGS = [
       "נורית גלרון"
     ],
     "album": "עומד בשער",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27103,7 +27103,7 @@ SONGS = [
       "גידי גוב"
     ],
     "album": "התקליט הראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -27114,7 +27114,7 @@ SONGS = [
       "השרוף"
     ],
     "album": "הדמעות של היום הן הדבש של מחר",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -27125,7 +27125,7 @@ SONGS = [
       "אמני ארומה;שלומי שבת;עידן עמדי;יובל דיין;לירן דנינו;גיא ויהל;עדן אלנה;ספיר סבן;אודיה"
     ],
     "album": "אני ואתה",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27136,7 +27136,7 @@ SONGS = [
       "מאיר אריאל"
     ],
     "album": "רישומי פחם",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -27147,7 +27147,7 @@ SONGS = [
       "החברים של נטאשה"
     ],
     "album": "החברים של נטאשה",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -27158,7 +27158,7 @@ SONGS = [
       "אביתר בנאי;אפרת בן צור"
     ],
     "album": "אביתר בנאי",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -27169,7 +27169,7 @@ SONGS = [
       "החברים של נטאשה"
     ],
     "album": "החברים של נטאשה",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -27180,7 +27180,7 @@ SONGS = [
       "משינה"
     ],
     "album": "גבירותי ורבותי",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -27191,7 +27191,7 @@ SONGS = [
       "יזהר אשדות"
     ],
     "album": "הופעה חיה בהארד רוק קפה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -27202,7 +27202,7 @@ SONGS = [
       "ירדנה ארזי"
     ],
     "album": "יש ונדמה - האוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -27213,7 +27213,7 @@ SONGS = [
       "Lola"
     ],
     "album": "ימים של שקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -27224,7 +27224,7 @@ SONGS = [
       "היהודים"
     ],
     "album": "מציאות נפרדת",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -27235,7 +27235,7 @@ SONGS = [
       "יוני רכטר;Eli Mohar"
     ],
     "album": "בגובה העיניים",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -27246,7 +27246,7 @@ SONGS = [
       "שולי רנד;כנסיית השכל"
     ],
     "album": "שער הרחמים",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27257,7 +27257,7 @@ SONGS = [
       "בעז בנאי"
     ],
     "album": "אין אף אחד בבית",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -27268,7 +27268,7 @@ SONGS = [
       "חנן יובל"
     ],
     "album": "אתם זוכרים את השירים",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -27279,7 +27279,7 @@ SONGS = [
       "דויד ברוזה"
     ],
     "album": "דויד ברוזה",
-    "album_image": null,
+    "album_image": None,
     "year": "1980"
   },
   {
@@ -27290,7 +27290,7 @@ SONGS = [
       "ליילי;גל תורן;גיא לוי"
     ],
     "album": "ליילי",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -27301,7 +27301,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "חלומות שמורים",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -27312,7 +27312,7 @@ SONGS = [
       "זקני צפת"
     ],
     "album": "זקני צפת 2",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -27323,7 +27323,7 @@ SONGS = [
       "החברים של נטאשה"
     ],
     "album": "רדיו בלה בלה",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -27334,7 +27334,7 @@ SONGS = [
       "נסרין קדרי;עמיר בניון;ישראל בידור;שלומי שבת"
     ],
     "album": "תנו לגדול בשקט (ישראל בידור)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27345,7 +27345,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "גבר הולך לאיבוד",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -27356,7 +27356,7 @@ SONGS = [
       "נרקיס"
     ],
     "album": "עץ עירום",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27367,7 +27367,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "שירי ארץ אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -27378,7 +27378,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "שלכת",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -27389,7 +27389,7 @@ SONGS = [
       "גידי גוב"
     ],
     "album": "התקליט הראשון (סימני דרך)",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -27400,7 +27400,7 @@ SONGS = [
       "בר צברי"
     ],
     "album": "ג'וני",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27411,7 +27411,7 @@ SONGS = [
       "רביד פלוטניק"
     ],
     "album": "שפל וגאות",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -27422,7 +27422,7 @@ SONGS = [
       "רבע לאפריקה;אסתר רדא"
     ],
     "album": "צו השעה - צו שני",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27433,7 +27433,7 @@ SONGS = [
       "ג'ירפות"
     ],
     "album": "משוחח עם כיסא",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -27444,7 +27444,7 @@ SONGS = [
       "אושיק לוי"
     ],
     "album": "שירים מובחרים",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -27455,7 +27455,7 @@ SONGS = [
       "מתי כספי;בעז שרעבי"
     ],
     "album": "עוד תראה עוד תראה - אוסף שמח משירי אהוד מנור",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -27466,7 +27466,7 @@ SONGS = [
       "עמיר בניון;ארקדי דוכין"
     ],
     "album": "יש בי אהבה",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27477,7 +27477,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "שלמה אינטימי בצוותא 2019 חלק ב",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27488,7 +27488,7 @@ SONGS = [
       "אתי אנקרי;מעיין ליניק"
     ],
     "album": "צו השעה - צו ראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27499,7 +27499,7 @@ SONGS = [
       "דני רובס"
     ],
     "album": "נוסע על כביש מהיר (הופעה חיה)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -27510,7 +27510,7 @@ SONGS = [
       "עברי לידר"
     ],
     "album": "האהבה הזאת שלנו",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -27521,7 +27521,7 @@ SONGS = [
       "אהוד בנאי"
     ],
     "album": "עוד מעט",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -27532,7 +27532,7 @@ SONGS = [
       "רמי פורטיס"
     ],
     "album": "צו השעה - צו שלישי",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27543,7 +27543,7 @@ SONGS = [
       "ברי סחרוף;דודו טסה"
     ],
     "album": "בדל של אור",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27554,7 +27554,7 @@ SONGS = [
       "ברי סחרוף;דודו טסה"
     ],
     "album": "בדל של אור",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27565,7 +27565,7 @@ SONGS = [
       "גידי גוב;חווה אלברשטיין"
     ],
     "album": "שירים מלילה גוב (אוסף בונוס)",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -27576,7 +27576,7 @@ SONGS = [
       "גידי גוב;יהודה פוליקר"
     ],
     "album": "שירים מלילה גוב (אוסף בונוס)",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -27587,7 +27587,7 @@ SONGS = [
       "גידי גוב;תמר גלעדי"
     ],
     "album": "שירים מלילה גוב (אוסף בונוס)",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -27598,7 +27598,7 @@ SONGS = [
       "התקווה 6"
     ],
     "album": "הכי ישראלי",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -27609,7 +27609,7 @@ SONGS = [
       "מכלוף"
     ],
     "album": "אל תבואי אליי",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27620,7 +27620,7 @@ SONGS = [
       "תומר ישעיהו;דניאלה ספקטור"
     ],
     "album": "Manuella",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27631,7 +27631,7 @@ SONGS = [
       "ג'יין בורדו;אלון עדר"
     ],
     "album": "שירים עם אחרים (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27642,7 +27642,7 @@ SONGS = [
       "רוני ידידיה;ארקדי דוכין"
     ],
     "album": "אולי יתרחש פה דבר",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27653,7 +27653,7 @@ SONGS = [
       "נורית גלרון"
     ],
     "album": "כשאלוהים אמר בפעם הראשונה",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27664,7 +27664,7 @@ SONGS = [
       "גוסטו;חווה אלברשטיין"
     ],
     "album": "לא צריך הרבה (אמא נאנחת)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27675,7 +27675,7 @@ SONGS = [
       "יהורם גאון"
     ],
     "album": "בתכנית יחיד",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -27686,7 +27686,7 @@ SONGS = [
       "מתי כספי"
     ],
     "album": "לצאת לאור",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -27697,7 +27697,7 @@ SONGS = [
       "יהודית רביץ"
     ],
     "album": "מיטב השירים",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -27708,7 +27708,7 @@ SONGS = [
       "בניה ברבי;דניאל זמיר"
     ],
     "album": "צו השעה - צו שלישי",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27719,7 +27719,7 @@ SONGS = [
       "ג'יין בורדו;איה זהבי פייגלין"
     ],
     "album": "צו השעה - צו ראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27730,7 +27730,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "קולות",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -27741,7 +27741,7 @@ SONGS = [
       "קצה השדה"
     ],
     "album": "קצה השדה",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -27752,7 +27752,7 @@ SONGS = [
       "משה פרץ"
     ],
     "album": "צו השעה - צו שלישי",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27763,7 +27763,7 @@ SONGS = [
       "מרסדס בנד"
     ],
     "album": "צו השעה - צו שני",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27774,7 +27774,7 @@ SONGS = [
       "מאור אדרי"
     ],
     "album": "צו השעה - צו שני",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27785,7 +27785,7 @@ SONGS = [
       "ישי לוי;רבקה זוהר"
     ],
     "album": "צו השעה - צו שני",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -27796,7 +27796,7 @@ SONGS = [
       "גיל ויין;רון בוחניק"
     ],
     "album": "צבעים",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -27807,7 +27807,7 @@ SONGS = [
       "ג'ימבו ג'יי;רביד פלוטניק"
     ],
     "album": "חתולים",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -27818,7 +27818,7 @@ SONGS = [
       "בועז מעודה"
     ],
     "album": "(כוכב נולד, עונה 5 (הרגעים הגדולים",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -27829,7 +27829,7 @@ SONGS = [
       "מארינה מקסימיליאן בלומין"
     ],
     "album": "(כוכב נולד, עונה 5 (הרגעים הגדולים",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -27840,7 +27840,7 @@ SONGS = [
       "יהודה סעדו"
     ],
     "album": "(כוכב נולד, אלבום העשור (הרגעים הגדולים",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -27851,7 +27851,7 @@ SONGS = [
       "חנן יובל;ירדנה ארזי;אפרים שמיר"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -27862,7 +27862,7 @@ SONGS = [
       "איה כורם"
     ],
     "album": "הכוכבת של נצרת עילית",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -27873,7 +27873,7 @@ SONGS = [
       "נורית גלרון"
     ],
     "album": "בשירים ופזמונים של נתן זך - שירים באמצע הלילה (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -27884,7 +27884,7 @@ SONGS = [
       "חנן יובל"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -27895,7 +27895,7 @@ SONGS = [
       "Mike Burstyn"
     ],
     "album": "להיטי זהב",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -27906,7 +27906,7 @@ SONGS = [
       "אמיר דדון"
     ],
     "album": "יש אין סוף",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -27917,7 +27917,7 @@ SONGS = [
       "ג'יין בורדו;ECHO"
     ],
     "album": "אישה קשה",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -27928,7 +27928,7 @@ SONGS = [
       "תמיר בר;ארץ נהדרת"
     ],
     "album": "סבא אורי - לא היה גייז",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -27939,7 +27939,7 @@ SONGS = [
       "חווה אלברשטיין"
     ],
     "album": "נמל בית",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -27950,7 +27950,7 @@ SONGS = [
       "שי צברי"
     ],
     "album": "שחרית",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -27961,7 +27961,7 @@ SONGS = [
       "אורי בנאי"
     ],
     "album": "פרפרים",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -27972,7 +27972,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "מתוך בחירה",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -27983,7 +27983,7 @@ SONGS = [
       "ריקי גל"
     ],
     "album": "המיטב",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -27994,7 +27994,7 @@ SONGS = [
       "סימה נון"
     ],
     "album": "תדברי כבר",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -28005,7 +28005,7 @@ SONGS = [
       "אסף אמדורסקי"
     ],
     "album": "הרי את",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -28016,7 +28016,7 @@ SONGS = [
       "ישי ריבו;אמיר דדון"
     ],
     "album": "במה קהל אהבה (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -28027,7 +28027,7 @@ SONGS = [
       "שלמה ארצי;גרי אקשטיין"
     ],
     "album": "דרכים",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -28038,7 +28038,7 @@ SONGS = [
       "שלום גד"
     ],
     "album": "סוף המדבר",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -28049,7 +28049,7 @@ SONGS = [
       "אסף אמדורסקי;קרני פוסטל"
     ],
     "album": "אסף אמדורסקי וקרני פוסטל בהופעה",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -28060,7 +28060,7 @@ SONGS = [
       "איגי וקסמן"
     ],
     "album": "אדום",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -28071,7 +28071,7 @@ SONGS = [
       "יובל דיין"
     ],
     "album": "אחכה לך",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28082,7 +28082,7 @@ SONGS = [
       "עדן חסון;יסמין מועלם;ישראל בידור"
     ],
     "album": "שושנים עצובות (ישראל בידור)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28093,7 +28093,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "שעה של אור",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -28104,7 +28104,7 @@ SONGS = [
       "להקת פיקוד המרכז"
     ],
     "album": "להקת פיקוד המרכז 1957-1989",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -28115,7 +28115,7 @@ SONGS = [
       "שמעון בוסקילה"
     ],
     "album": "למה לי",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -28126,7 +28126,7 @@ SONGS = [
       "ארקדי דוכין"
     ],
     "album": "רוצה ויהיה",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -28137,7 +28137,7 @@ SONGS = [
       "נעם רותם"
     ],
     "album": "עזרה בדרך",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -28148,7 +28148,7 @@ SONGS = [
       "קורין אלאל;אביתר בנאי"
     ],
     "album": "חברים שרים קורין",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -28159,7 +28159,7 @@ SONGS = [
       "יצחק קלפטר"
     ],
     "album": "יצחק",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -28170,7 +28170,7 @@ SONGS = [
       "בעז שרעבי"
     ],
     "album": "כשאת נוגעת בי",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -28181,7 +28181,7 @@ SONGS = [
       "דני ליטני"
     ],
     "album": "בלוז 1",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -28192,7 +28192,7 @@ SONGS = [
       "צוות הווי חטיבת הצנחנים"
     ],
     "album": "אחרי לצנחנים",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -28203,7 +28203,7 @@ SONGS = [
       "Participants of 'The Troup'"
     ],
     "album": "הלהקה - פסקול הסרט",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -28214,7 +28214,7 @@ SONGS = [
       "שבע"
     ],
     "album": "יומם ולילה",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -28225,7 +28225,7 @@ SONGS = [
       "היהודים"
     ],
     "album": "מציאות נפרדת",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -28236,7 +28236,7 @@ SONGS = [
       "רות דולורס וייס"
     ],
     "album": "בעברית",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -28247,7 +28247,7 @@ SONGS = [
       "מוניקה סקס"
     ],
     "album": "פצעים ונשיקות",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -28258,7 +28258,7 @@ SONGS = [
       "הגשש החיוור"
     ],
     "album": "מס. 6",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -28269,7 +28269,7 @@ SONGS = [
       "אילנית"
     ],
     "album": "ארבע אחרי הצהריים (חלק ב׳)",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -28280,7 +28280,7 @@ SONGS = [
       "יונתן רזאל;צאן ברזל מוזיקה"
     ],
     "album": "חלקת אלוהים (מתוך פרויקט \"יעלה ויבוא\")",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28291,7 +28291,7 @@ SONGS = [
       "לירון עמרם;צאן ברזל מוזיקה"
     ],
     "album": "יעלה ויבוא – פרויקט המחווה לשירי יורם טהרלב – חלק א'",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28302,7 +28302,7 @@ SONGS = [
       "עמיר לב;ברי סחרוף"
     ],
     "album": "בזאפה (הופעה חיה)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -28313,7 +28313,7 @@ SONGS = [
       "רעש"
     ],
     "album": "רעש רק רעש. ק.",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -28324,7 +28324,7 @@ SONGS = [
       "רועי דורון;ג'ימבו ג'יי"
     ],
     "album": "מקום שני",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28335,7 +28335,7 @@ SONGS = [
       "שלמה ארצי"
     ],
     "album": "קצפת",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -28346,7 +28346,7 @@ SONGS = [
       "אהוד בנאי"
     ],
     "album": "קרוב",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -28357,7 +28357,7 @@ SONGS = [
       "עברי לידר"
     ],
     "album": "מלטף ומשקר",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -28368,7 +28368,7 @@ SONGS = [
       "פבלו רוזנברג;רותם כהן"
     ],
     "album": "פבלו, אוכל וחברים - הדואטים",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -28379,7 +28379,7 @@ SONGS = [
       "דני רובס"
     ],
     "album": "בגוף ראשון",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -28390,7 +28390,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "אחרי כל השנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -28401,7 +28401,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "החיים מתחילים לנגן",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28412,7 +28412,7 @@ SONGS = [
       "אהוד בנאי"
     ],
     "album": "הולך ומתקרב",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -28423,7 +28423,7 @@ SONGS = [
       "רן דנקר"
     ],
     "album": "בית משוגעים",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28434,7 +28434,7 @@ SONGS = [
       "החצר האחורית;תומר יוסף;איתמר ציגלר;גדי רונן;יענקל'ה רוטבליט"
     ],
     "album": "החצר האחורית",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -28445,7 +28445,7 @@ SONGS = [
       "ליאור ייני"
     ],
     "album": "חדש וישן",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -28456,7 +28456,7 @@ SONGS = [
       "איה כורם"
     ],
     "album": "הכוכבת של נצרת עילית",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28467,7 +28467,7 @@ SONGS = [
       "ג'יין בורדו;ישראל גוריון"
     ],
     "album": "ערב של שושנים",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -28478,7 +28478,7 @@ SONGS = [
       "יובל דיין"
     ],
     "album": "יד ביד",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28489,7 +28489,7 @@ SONGS = [
       "Gideon Kapan"
     ],
     "album": "קצת אחר 3",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -28500,7 +28500,7 @@ SONGS = [
       "לירן דנינו"
     ],
     "album": "שמלה כחולה",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -28511,7 +28511,7 @@ SONGS = [
       "שבק ס'"
     ],
     "album": "בעטיפה של ממתק",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -28522,7 +28522,7 @@ SONGS = [
       "רביב כנר"
     ],
     "album": "רוצה שלום",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -28533,7 +28533,7 @@ SONGS = [
       "יאיא"
     ],
     "album": "נדנדה",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28544,7 +28544,7 @@ SONGS = [
       "כוורת"
     ],
     "album": "סיפורי פוגי",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -28555,7 +28555,7 @@ SONGS = [
       "תומר יוסף"
     ],
     "album": "צוחקים מתחת לאדמה",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -28566,7 +28566,7 @@ SONGS = [
       "בניה ברבי"
     ],
     "album": "אבסורד (מתוך המצעד הישראלי השנתי תשע״ט)",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -28577,7 +28577,7 @@ SONGS = [
       "יושי"
     ],
     "album": "זרים מכירים",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28588,7 +28588,7 @@ SONGS = [
       "ECHO"
     ],
     "album": "שניה",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28599,7 +28599,7 @@ SONGS = [
       "דני בסן"
     ],
     "album": "הילד שבי",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -28610,7 +28610,7 @@ SONGS = [
       "זוהר ארגוב"
     ],
     "album": "פסקול הסרט",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -28621,7 +28621,7 @@ SONGS = [
       "ריקי גל"
     ],
     "album": "ריקי גל",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -28632,7 +28632,7 @@ SONGS = [
       "כנסיית השכל"
     ],
     "album": "ידיים למעלה",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -28643,7 +28643,7 @@ SONGS = [
       "יוסי אזולאי"
     ],
     "album": "Prayers, Vol. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -28654,7 +28654,7 @@ SONGS = [
       "יהוא ירון"
     ],
     "album": "יהוא ירון נגד השטן: כך בעולם / כך בארץ הזו",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -28665,7 +28665,7 @@ SONGS = [
       "יהוא ירון"
     ],
     "album": "יהוא ירון נגד השטן: כך בעולם / כך בארץ הזו",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -28676,7 +28676,7 @@ SONGS = [
       "שמעון בוסקילה"
     ],
     "album": "הלילה שלך",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28687,7 +28687,7 @@ SONGS = [
       "ארז הלוי"
     ],
     "album": "הלילה",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -28698,7 +28698,7 @@ SONGS = [
       "אייל אבן צור"
     ],
     "album": "בדרך לחירות",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -28709,7 +28709,7 @@ SONGS = [
       "אריק איינשטיין;מיקי גבריאלוב"
     ],
     "album": "אוהב להיות בבית",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -28720,7 +28720,7 @@ SONGS = [
       "שולי רנד"
     ],
     "album": "עוקר הרים",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28731,7 +28731,7 @@ SONGS = [
       "נרקיס"
     ],
     "album": "עולם חדש",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -28742,7 +28742,7 @@ SONGS = [
       "ברי סחרוף;דודו טסה"
     ],
     "album": "בדל של אור",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -28753,7 +28753,7 @@ SONGS = [
       "טונה"
     ],
     "album": "טונהפארק",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -28764,7 +28764,7 @@ SONGS = [
       "שלומי שבן"
     ],
     "album": "מאני טיים",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -28775,7 +28775,7 @@ SONGS = [
       "יושי"
     ],
     "album": "זרים מכירים",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28786,7 +28786,7 @@ SONGS = [
       "Full Trunk;ג'ימבו ג'יי"
     ],
     "album": "ממותה",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -28797,7 +28797,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "לבד על המיטה",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -28808,7 +28808,7 @@ SONGS = [
       "עומר אדם"
     ],
     "album": "מוזיקה ושקט",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -28819,7 +28819,7 @@ SONGS = [
       "טונה;מיקי גבריאלוב"
     ],
     "album": "טונהפארק",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -28830,7 +28830,7 @@ SONGS = [
       "מופע הארנבות של ד\"ר קספר"
     ],
     "album": "מנגינות",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -28841,7 +28841,7 @@ SONGS = [
       "נינט טייב"
     ],
     "album": "גיבור",
-    "album_image": null,
+    "album_image": None,
     "year": "2018"
   },
   {
@@ -28852,7 +28852,7 @@ SONGS = [
       "משינה"
     ],
     "album": "משינה בהופעה - 2003 (Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -28863,7 +28863,7 @@ SONGS = [
       "יזהר אשדות"
     ],
     "album": "יזהר אשדות",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -28874,7 +28874,7 @@ SONGS = [
       "טונה"
     ],
     "album": "מזרח פרוע",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28885,7 +28885,7 @@ SONGS = [
       "טליסמאן"
     ],
     "album": "בית שנשבר",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -28896,7 +28896,7 @@ SONGS = [
       "אורי הרפז"
     ],
     "album": "אהבה של אתמול ומחר",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -28907,7 +28907,7 @@ SONGS = [
       "אביב גפן"
     ],
     "album": "ירח מלא - האוסף",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -28918,7 +28918,7 @@ SONGS = [
       "מירי אלוני"
     ],
     "album": "חדוה ושלומיק - שירים ומוסיקה מתוך סדרת הטלוויזיה",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -28929,7 +28929,7 @@ SONGS = [
       "שלומי שבן;רביד פלוטניק;שולי רנד"
     ],
     "album": "בית פתוח חלק א'",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -28940,7 +28940,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "מחשבות אל מול ירח",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -28951,7 +28951,7 @@ SONGS = [
       "החצר האחורית"
     ],
     "album": "הכל פה משובש",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -28962,7 +28962,7 @@ SONGS = [
       "אלון אולארצ'יק;גיא מזיג;ג'יין בורדו;יושי;רונה קינן;שלומי שבן"
     ],
     "album": "בחור אנלוגי בעולם דיגיטלי (גרסת 2023)",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -28973,7 +28973,7 @@ SONGS = [
       "טונה;Noga Erez;ROUSSO"
     ],
     "album": "עומס לב & Views",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -28984,7 +28984,7 @@ SONGS = [
       "עמיר בניון"
     ],
     "album": "תמיד אותו דבר",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -28995,7 +28995,7 @@ SONGS = [
       "שלומי שבן;מירי מסיקה"
     ],
     "album": "בית פתוח חלק א'",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29006,7 +29006,7 @@ SONGS = [
       "שלומי שבן;Neta Elkayam"
     ],
     "album": "בית פתוח חלק א'",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29017,7 +29017,7 @@ SONGS = [
       "הדג נחש"
     ],
     "album": "עיר האלוהים",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -29028,7 +29028,7 @@ SONGS = [
       "יובל אילוז;Hasan MC"
     ],
     "album": "גן עדן جنّة",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29039,7 +29039,7 @@ SONGS = [
       "Full Trunk"
     ],
     "album": "ממותה",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -29050,7 +29050,7 @@ SONGS = [
       "יסמין מועלם"
     ],
     "album": "יחפים",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -29061,7 +29061,7 @@ SONGS = [
       "מרגלית צנעני"
     ],
     "album": "דווקא היום",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -29072,7 +29072,7 @@ SONGS = [
       "אריק איינשטיין"
     ],
     "album": "Lifamim",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -29083,7 +29083,7 @@ SONGS = [
       "חיים משה"
     ],
     "album": "Remastered התמונות שבאלבום-גרסת המשולש",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -29094,7 +29094,7 @@ SONGS = [
       "שם-טוב לוי"
     ],
     "album": "התעוררות",
-    "album_image": null,
+    "album_image": None,
     "year": "1981"
   },
   {
@@ -29105,7 +29105,7 @@ SONGS = [
       "רביד פלוטניק;טל הפטר"
     ],
     "album": "שפל וגאות",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -29116,7 +29116,7 @@ SONGS = [
       "זהו זה;דודו טסה;גידי גוב;אבי קושניר;מוני מושונוב;שלמה בראבא;Doval'e Glickman"
     ],
     "album": "קחי אותי לטייל (LIVE)",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29127,7 +29127,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "לולה",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -29138,7 +29138,7 @@ SONGS = [
       "אבי סינואני"
     ],
     "album": "אילו הייתי איתך",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29149,7 +29149,7 @@ SONGS = [
       "אופק נחמן"
     ],
     "album": "ציפור בלי שמיים",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29160,7 +29160,7 @@ SONGS = [
       "מ'"
     ],
     "album": "יחפים",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29171,7 +29171,7 @@ SONGS = [
       "עומר אדם;דויד ברוזה"
     ],
     "album": "סוף העולם",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29182,7 +29182,7 @@ SONGS = [
       "שלומי שבן"
     ],
     "album": "בית פתוח חלק ב'",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29193,7 +29193,7 @@ SONGS = [
       "עומר אדם;יסמין מועלם"
     ],
     "album": "יהיה טוב & מים שקופים",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29204,7 +29204,7 @@ SONGS = [
       "עומר אדם;עידן רייכל"
     ],
     "album": "מדברים בשקט (מתוך חזרות למופע NEXT)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -29215,7 +29215,7 @@ SONGS = [
       "אושר כהן"
     ],
     "album": "Part II",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29226,7 +29226,7 @@ SONGS = [
       "עידן רייכל"
     ],
     "album": "היד החמה",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -29237,7 +29237,7 @@ SONGS = [
       "ברי סחרוף;איתמר דוארי;עומרי מור;גלעד אברו"
     ],
     "album": "בואי הביתה (אקוסטי)",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -29248,7 +29248,7 @@ SONGS = [
       "אלון אולארצ'יק"
     ],
     "album": "הכי",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29259,7 +29259,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "רדיו שטח 2",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29270,7 +29270,7 @@ SONGS = [
       "עלמה זהר;דודו טסה"
     ],
     "album": "כחולת עיניים",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -29281,7 +29281,7 @@ SONGS = [
       "שיר לוי"
     ],
     "album": "להשתגע",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -29292,7 +29292,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "רדיו שטח 2",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29303,7 +29303,7 @@ SONGS = [
       "צילה דגן;Participants of \"eretz Tropit Yafa\""
     ],
     "album": "ארץ טרופית יפה",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -29314,7 +29314,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "שלושת הקופים",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29325,7 +29325,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "שיחות שלום",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29336,7 +29336,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "עוגן במים",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29347,7 +29347,7 @@ SONGS = [
       "אביתר בנאי"
     ],
     "album": "עוגן במים",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29358,7 +29358,7 @@ SONGS = [
       "עידן עמדי"
     ],
     "album": "זוכר כמעט הכל (לייב מופע העשור)",
-    "album_image": null,
+    "album_image": None,
     "year": "2022"
   },
   {
@@ -29369,7 +29369,7 @@ SONGS = [
       "יהודית רביץ;Danny Litai"
     ],
     "album": "מיטב השירים 2",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -29380,7 +29380,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "בהופעה",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -29391,7 +29391,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "שירים מדלת אל דלת (בארבי Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29402,7 +29402,7 @@ SONGS = [
       "דודו טסה"
     ],
     "album": "שירים מדלת אל דלת (בארבי Live)",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29413,7 +29413,7 @@ SONGS = [
       "רוקפור"
     ],
     "album": "ארץ עיר",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -29424,7 +29424,7 @@ SONGS = [
       "מארינה מקסימיליאן;Guy Mentesh"
     ],
     "album": "ביחד",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -29435,7 +29435,7 @@ SONGS = [
       "ארץ נהדרת"
     ],
     "album": "יהודה חן - גחלת נעורים",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29446,7 +29446,7 @@ SONGS = [
       "עברי לידר;מיכה שטרית"
     ],
     "album": "חלק לא נפרד מאחרים",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -29457,7 +29457,7 @@ SONGS = [
       "ספוטניק היי פיי"
     ],
     "album": "Sputnik Hi Fi",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -29468,7 +29468,7 @@ SONGS = [
       "ספוטניק היי פיי"
     ],
     "album": "ההר הגדול",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -29479,7 +29479,7 @@ SONGS = [
       "איתי לוי"
     ],
     "album": "אין לי מקום אחר",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29490,7 +29490,7 @@ SONGS = [
       "אייל גולן"
     ],
     "album": "2023",
-    "album_image": null,
+    "album_image": None,
     "year": "2023"
   },
   {
@@ -29501,7 +29501,7 @@ SONGS = [
       "חנן יובל"
     ],
     "album": "דור",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -29512,7 +29512,7 @@ SONGS = [
       "רינת בר"
     ],
     "album": "תסריטים",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -29523,7 +29523,7 @@ SONGS = [
       "בוגי בלאגן"
     ],
     "album": "Mashiah (Ima Dimaa)",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -29534,7 +29534,7 @@ SONGS = [
       "יזהר כהן"
     ],
     "album": "כמו ציפור מטורפת - אוסף השירים היפים",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -29545,7 +29545,7 @@ SONGS = [
       "יזהר כהן"
     ],
     "album": "אגדה ישראלית חלק א'",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -29556,7 +29556,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "רדיו שטח 3",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -29567,7 +29567,7 @@ SONGS = [
       "בני אמדורסקי"
     ],
     "album": "אני גיטרה - השירים היפים",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -29578,7 +29578,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "רדיו שטח 3",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -29589,7 +29589,7 @@ SONGS = [
       "פאר טסי"
     ],
     "album": "רדיו שטח 3",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -29600,7 +29600,7 @@ SONGS = [
       "רון פרץ;ג'ני פנקין"
     ],
     "album": "סלאמת",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -29611,7 +29611,7 @@ SONGS = [
       "James Ray"
     ],
     "album": "Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -29622,7 +29622,7 @@ SONGS = [
       "The Righteous Brothers"
     ],
     "album": "Just Once In My Life",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -29633,7 +29633,7 @@ SONGS = [
       "The Platters"
     ],
     "album": "The Platters Golden Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -29644,7 +29644,7 @@ SONGS = [
       "Percy Sledge"
     ],
     "album": "When a Man Loves a Woman",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -29655,7 +29655,7 @@ SONGS = [
       "Frankie Valli"
     ],
     "album": "Solo",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -29666,7 +29666,7 @@ SONGS = [
       "Louis Armstrong"
     ],
     "album": "C'est Si Bon",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -29677,7 +29677,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "My Way (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -29688,7 +29688,7 @@ SONGS = [
       "Sam Cooke"
     ],
     "album": "The Wonderful World Of Sam Cooke",
-    "album_image": null,
+    "album_image": None,
     "year": "1960"
   },
   {
@@ -29699,7 +29699,7 @@ SONGS = [
       "The Archies"
     ],
     "album": "Everything's Archie",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -29710,7 +29710,7 @@ SONGS = [
       "Aretha Franklin"
     ],
     "album": "Aretha Now",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -29721,7 +29721,7 @@ SONGS = [
       "Nat King Cole"
     ],
     "album": "L-O-V-E",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -29732,7 +29732,7 @@ SONGS = [
       "The Supremes"
     ],
     "album": "The Supremes A' Go-Go (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -29743,7 +29743,7 @@ SONGS = [
       "Ritchie Valens"
     ],
     "album": "Ritchie Valens",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -29754,7 +29754,7 @@ SONGS = [
       "The Ronettes"
     ],
     "album": "Be My Baby: The Very Best of The Ronettes",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -29765,7 +29765,7 @@ SONGS = [
       "Frankie Valli & The Four Seasons"
     ],
     "album": "Sherry and 11 Other Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -29776,7 +29776,7 @@ SONGS = [
       "The Contours"
     ],
     "album": "Hitsville USA - The Motown Singles Collection 1959-1971",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -29787,7 +29787,7 @@ SONGS = [
       "Otis Redding"
     ],
     "album": "Love Man",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -29798,7 +29798,7 @@ SONGS = [
       "Mickey & Sylvia"
     ],
     "album": "Love Is Strange",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -29809,7 +29809,7 @@ SONGS = [
       "Otis Redding"
     ],
     "album": "Pain in My Heart",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -29820,7 +29820,7 @@ SONGS = [
       "Bruce Channel"
     ],
     "album": "Hey Baby (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -29831,7 +29831,7 @@ SONGS = [
       "Solomon Burke"
     ],
     "album": "Solomon Burke's Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -29842,7 +29842,7 @@ SONGS = [
       "The Shirelles"
     ],
     "album": "Tonight's The Night",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -29853,7 +29853,7 @@ SONGS = [
       "The Five Satins"
     ],
     "album": "For Collectors Only",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -29864,7 +29864,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "50 Big Ones: Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -29875,7 +29875,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "50 Big Ones: Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -29886,7 +29886,7 @@ SONGS = [
       "The Monkees"
     ],
     "album": "The Best of The Monkees",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -29897,7 +29897,7 @@ SONGS = [
       "Chubby Checker"
     ],
     "album": "It's Pony Time/Let's Twist Again",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -29908,7 +29908,7 @@ SONGS = [
       "James Brown;James Brown & The Famous Flames"
     ],
     "album": "The 50th Anniversary Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -29919,7 +29919,7 @@ SONGS = [
       "Shocking Blue"
     ],
     "album": "At Home",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -29930,7 +29930,7 @@ SONGS = [
       "The Edwin Hawkins Singers"
     ],
     "album": "Oh Happy Day: The Best Of The Edwin Hawkins Singers",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -29941,7 +29941,7 @@ SONGS = [
       "Frank Sinatra;Nancy Sinatra"
     ],
     "album": "The World We Knew",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -29952,7 +29952,7 @@ SONGS = [
       "Harry Belafonte"
     ],
     "album": "Banana Boat Song",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -29963,7 +29963,7 @@ SONGS = [
       "The Tokens"
     ],
     "album": "Wimoweh!!! - The Best Of The Tokens",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -29974,7 +29974,7 @@ SONGS = [
       "The Marvelettes"
     ],
     "album": "Please Mr. Postman",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -29985,7 +29985,7 @@ SONGS = [
       "Dion & The Belmonts"
     ],
     "album": "Presenting Dion And The Belmonts",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -29996,7 +29996,7 @@ SONGS = [
       "Bobby Vee"
     ],
     "album": "Take Good Care Of My Baby",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -30007,7 +30007,7 @@ SONGS = [
       "Four Tops"
     ],
     "album": "Four Tops - Second Album",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -30018,7 +30018,7 @@ SONGS = [
       "The Del-Vikings"
     ],
     "album": "Come Go With Me: The Best Of The Del-Vikings",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -30029,7 +30029,7 @@ SONGS = [
       "The Supremes"
     ],
     "album": "Where Did Our Love Go",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30040,7 +30040,7 @@ SONGS = [
       "Simon & Garfunkel"
     ],
     "album": "Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -30051,7 +30051,7 @@ SONGS = [
       "The Penguins"
     ],
     "album": "Earth Angel - 1954-1960",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -30062,7 +30062,7 @@ SONGS = [
       "Bobby Vinton"
     ],
     "album": "The Best Of Bobby Vinton",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -30073,7 +30073,7 @@ SONGS = [
       "Bobby Darin"
     ],
     "album": "The Ultimate Bobby Darin",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -30084,7 +30084,7 @@ SONGS = [
       "Ritchie Valens"
     ],
     "album": "Pure Rock & Roll",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -30095,7 +30095,7 @@ SONGS = [
       "Jerry Lee Lewis"
     ],
     "album": "Great Balls Of Fire",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -30106,7 +30106,7 @@ SONGS = [
       "Bill Haley"
     ],
     "album": "La discothèque idéale / Nos années 60 !: Vol. 3 \"Les rockers\", Pt. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -30117,7 +30117,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "Berry Is On Top",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -30128,7 +30128,7 @@ SONGS = [
       "The Marcels"
     ],
     "album": "The Best Of The Marcels",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -30139,7 +30139,7 @@ SONGS = [
       "The Supremes"
     ],
     "album": "Love and Life: The Very Best of Diana Ross",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -30150,7 +30150,7 @@ SONGS = [
       "Peggy March"
     ],
     "album": "I Will Follow Him",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -30161,7 +30161,7 @@ SONGS = [
       "The Isley Brothers"
     ],
     "album": "Pure... '50s",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -30172,7 +30172,7 @@ SONGS = [
       "Danny & The Juniors"
     ],
     "album": "Rockin' With Danny And The Juniors (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -30183,7 +30183,7 @@ SONGS = [
       "Little Richard"
     ],
     "album": "Here's Little Richard (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1957"
   },
   {
@@ -30194,7 +30194,7 @@ SONGS = [
       "Little Richard"
     ],
     "album": "Rock 'N' Roll Legends",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -30205,7 +30205,7 @@ SONGS = [
       "The Edsels"
     ],
     "album": "The Rama Lama Ding Dong EP",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -30216,7 +30216,7 @@ SONGS = [
       "Bill Haley & His Comets"
     ],
     "album": "Rockin' The Joint",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -30227,7 +30227,7 @@ SONGS = [
       "Danny & The Juniors"
     ],
     "album": "At the Hop / Rock and Roll Is Here to Stay (Rerecorded Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -30238,7 +30238,7 @@ SONGS = [
       "Little Anthony;Little Anthony & The Imperials"
     ],
     "album": "Tears on My Pillow (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -30249,7 +30249,7 @@ SONGS = [
       "The Chiffons"
     ],
     "album": "The Best Of The Chiffons",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -30260,7 +30260,7 @@ SONGS = [
       "The Supremes"
     ],
     "album": "Where Did Our Love Go",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30271,7 +30271,7 @@ SONGS = [
       "The Kingsmen"
     ],
     "album": "The Best of The Kingsmen",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -30282,7 +30282,7 @@ SONGS = [
       "Eddie Floyd"
     ],
     "album": "Knock On Wood",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -30293,7 +30293,7 @@ SONGS = [
       "Aretha Franklin"
     ],
     "album": "Lady Soul (With Bonus Selections)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -30304,7 +30304,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "The Essential Elvis Presley",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -30315,7 +30315,7 @@ SONGS = [
       "Martha Reeves & The Vandellas"
     ],
     "album": "Dance Party",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -30326,7 +30326,7 @@ SONGS = [
       "Otis Redding"
     ],
     "album": "Soul Manifesto: 1964-1970",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -30337,7 +30337,7 @@ SONGS = [
       "Del Shannon"
     ],
     "album": "Runaway with Del Shannon",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -30348,7 +30348,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis Presley",
-    "album_image": null,
+    "album_image": None,
     "year": "1956"
   },
   {
@@ -30359,7 +30359,7 @@ SONGS = [
       "Thurston Harris"
     ],
     "album": "Little Bitty Pretty One",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -30370,7 +30370,7 @@ SONGS = [
       "Harry Belafonte"
     ],
     "album": "Jump Up Calypso",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -30381,7 +30381,7 @@ SONGS = [
       "Maurice Williams & The Zodiacs"
     ],
     "album": "Maurice Williams and The Zodiacs",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -30392,7 +30392,7 @@ SONGS = [
       "Betty Everett"
     ],
     "album": "No Place To Hide",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -30403,7 +30403,7 @@ SONGS = [
       "James Brown"
     ],
     "album": "The Singles Vol. 10 1975-1979",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -30414,7 +30414,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "Strangers In The Night (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -30425,7 +30425,7 @@ SONGS = [
       "Los Bravos"
     ],
     "album": "Black Is Black",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -30436,7 +30436,7 @@ SONGS = [
       "Peggy Lee"
     ],
     "album": "The Best Of Peggy Lee",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -30447,7 +30447,7 @@ SONGS = [
       "Love Affair"
     ],
     "album": "The Everlasting Love Affair",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -30458,7 +30458,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "50 Big Ones: Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -30469,7 +30469,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "Endless Summer",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -30480,7 +30480,7 @@ SONGS = [
       "Paul Anka"
     ],
     "album": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -30491,7 +30491,7 @@ SONGS = [
       "The Chordettes"
     ],
     "album": "Mr Sandman",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -30502,7 +30502,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "Ultimate Sinatra",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -30513,7 +30513,7 @@ SONGS = [
       "Nina Simone"
     ],
     "album": "I Put A Spell On You",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -30524,7 +30524,7 @@ SONGS = [
       "Tom Jones"
     ],
     "album": "Along Came Jones",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -30535,7 +30535,7 @@ SONGS = [
       "Louis Armstrong"
     ],
     "album": "The Very Best Of Louis Armstrong",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -30546,7 +30546,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Yellow Submarine Songtrack",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -30557,7 +30557,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -30568,7 +30568,7 @@ SONGS = [
       "Ricky Nelson"
     ],
     "album": "Greatest Love Songs",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -30579,7 +30579,7 @@ SONGS = [
       "Etta James"
     ],
     "album": "The Genuine Article: The Best Of Etta James",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -30590,7 +30590,7 @@ SONGS = [
       "Sonny & Cher"
     ],
     "album": "Look At Us",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -30601,7 +30601,7 @@ SONGS = [
       "Little Eva"
     ],
     "album": "Llllloco-Motion",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -30612,7 +30612,7 @@ SONGS = [
       "Chubby Checker"
     ],
     "album": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -30623,7 +30623,7 @@ SONGS = [
       "The Foundations"
     ],
     "album": "The Foundations",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -30634,7 +30634,7 @@ SONGS = [
       "Manfred Mann"
     ],
     "album": "Down the Road Apiece - the Recordings 1963-1966",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -30645,7 +30645,7 @@ SONGS = [
       "Canned Heat"
     ],
     "album": "Canned Heat",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -30656,7 +30656,7 @@ SONGS = [
       "James Brown"
     ],
     "album": "James Brown Hit Pac - 5 Series",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -30667,7 +30667,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "Spirit Of America",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -30678,7 +30678,7 @@ SONGS = [
       "The Isley Brothers"
     ],
     "album": "Twist & Shout",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -30689,7 +30689,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "From Elvis in Memphis",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -30700,7 +30700,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "The Essential Elvis Presley",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -30711,7 +30711,7 @@ SONGS = [
       "Jerry Lee Lewis"
     ],
     "album": "The Golden Rock Hits Of Jerry Lee Lewis",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30722,7 +30722,7 @@ SONGS = [
       "Fontella Bass"
     ],
     "album": "The New Look",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -30733,7 +30733,7 @@ SONGS = [
       "Mary Wells"
     ],
     "album": "Mary Wells Sings My Guy",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30744,7 +30744,7 @@ SONGS = [
       "Dee Dee Sharp"
     ],
     "album": "The Best Of Dee Dee Sharp 1962-1966",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -30755,7 +30755,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "St. Louis To Liverpool",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30766,7 +30766,7 @@ SONGS = [
       "The Drifters"
     ],
     "album": "Save the Last Dance for Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -30777,7 +30777,7 @@ SONGS = [
       "The Dixie Cups"
     ],
     "album": "Chapel of Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30788,7 +30788,7 @@ SONGS = [
       "Eddie Cochran"
     ],
     "album": "12 Of His Biggest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1960"
   },
   {
@@ -30799,7 +30799,7 @@ SONGS = [
       "Bobby Darin"
     ],
     "album": "That's All",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -30810,7 +30810,7 @@ SONGS = [
       "Bobby Darin"
     ],
     "album": "That's All",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -30821,7 +30821,7 @@ SONGS = [
       "Dusty Springfield"
     ],
     "album": "Stay Awhile / I Only Want To Be With You (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30832,7 +30832,7 @@ SONGS = [
       "Buddy Holly;The Crickets"
     ],
     "album": "Buddy Holly",
-    "album_image": null,
+    "album_image": None,
     "year": "1958"
   },
   {
@@ -30843,7 +30843,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis' Gold Records, Vol. 4",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -30854,7 +30854,7 @@ SONGS = [
       "Dusty Springfield"
     ],
     "album": "Dusty In Memphis",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -30865,7 +30865,7 @@ SONGS = [
       "Nancy Sinatra"
     ],
     "album": "How Does That Grab You?",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -30876,7 +30876,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "Nothing But The Best (2008 Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -30887,7 +30887,7 @@ SONGS = [
       "Wilson Pickett"
     ],
     "album": "The Definitive Wilson Pickett",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -30898,7 +30898,7 @@ SONGS = [
       "Buddy Holly;The Crickets"
     ],
     "album": "The Very Best of Buddy Holly & The Crickets",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -30909,7 +30909,7 @@ SONGS = [
       "Harry Nilsson"
     ],
     "album": "Aerial Ballet",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -30920,7 +30920,7 @@ SONGS = [
       "Fats Domino"
     ],
     "album": "Fats Domino Swings",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -30931,7 +30931,7 @@ SONGS = [
       "The 5th Dimension"
     ],
     "album": "The Age Of Aquarius",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -30942,7 +30942,7 @@ SONGS = [
       "Clarence \"Frogman\" Henry"
     ],
     "album": "Ain't Got No Home: The Best Of Clarence \"Frogman\" Henry (Reissue)",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -30953,7 +30953,7 @@ SONGS = [
       "The Everly Brothers"
     ],
     "album": "The Very Best of The Everly Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30964,7 +30964,7 @@ SONGS = [
       "The Everly Brothers"
     ],
     "album": "The Very Best of The Everly Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -30975,7 +30975,7 @@ SONGS = [
       "The Supremes"
     ],
     "album": "More Hits By The Supremes",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -30986,7 +30986,7 @@ SONGS = [
       "Lesley Gore"
     ],
     "album": "I'll Cry If I Want To",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -30997,7 +30997,7 @@ SONGS = [
       "The Lovin' Spoonful"
     ],
     "album": "Do you Believe In Magic",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -31008,7 +31008,7 @@ SONGS = [
       "The Spencer Davis Group"
     ],
     "album": "Gimme Some Lovin' / Blues In F",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -31019,7 +31019,7 @@ SONGS = [
       "Neil Sedaka"
     ],
     "album": "Circulate (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1960"
   },
   {
@@ -31030,7 +31030,7 @@ SONGS = [
       "Sam Cooke"
     ],
     "album": "Twistin' the Night Away",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -31041,7 +31041,7 @@ SONGS = [
       "Doris Day;Frank DeVol & His Orchestra"
     ],
     "album": "With A Smile And A Song",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -31052,7 +31052,7 @@ SONGS = [
       "Dean Martin"
     ],
     "album": "Everybody Loves Somebody",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -31063,7 +31063,7 @@ SONGS = [
       "Tom Jones"
     ],
     "album": "Delilah",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -31074,7 +31074,7 @@ SONGS = [
       "The Troggs"
     ],
     "album": "From Nowhere",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -31085,7 +31085,7 @@ SONGS = [
       "Wilson Pickett"
     ],
     "album": "The Exciting Wilson Pickett",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -31096,7 +31096,7 @@ SONGS = [
       "Scott McKenzie"
     ],
     "album": "San Francisco",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -31107,7 +31107,7 @@ SONGS = [
       "Little Richard"
     ],
     "album": "Here's Little Richard (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1957"
   },
   {
@@ -31118,7 +31118,7 @@ SONGS = [
       "Neil Diamond"
     ],
     "album": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -31129,7 +31129,7 @@ SONGS = [
       "Ben E. King"
     ],
     "album": "Spanish Harlem",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -31140,7 +31140,7 @@ SONGS = [
       "The Chiffons"
     ],
     "album": "The Chiffons Absolutely The Best!",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -31151,7 +31151,7 @@ SONGS = [
       "Aretha Franklin"
     ],
     "album": "Aretha Now",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -31162,7 +31162,7 @@ SONGS = [
       "The Surfaris"
     ],
     "album": "Surf Party: Best Of The Surfaris - Live!",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -31173,7 +31173,7 @@ SONGS = [
       "The Strangeloves"
     ],
     "album": "I Want Candy: The Best Of The Strangeloves",
-    "album_image": null,
+    "album_image": None,
     "year": "1995"
   },
   {
@@ -31184,7 +31184,7 @@ SONGS = [
       "The Ventures"
     ],
     "album": "Hawaii Five-O",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -31195,7 +31195,7 @@ SONGS = [
       "Ray Charles"
     ],
     "album": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -31206,7 +31206,7 @@ SONGS = [
       "The Drifters"
     ],
     "album": "Under the Boardwalk",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -31217,7 +31217,7 @@ SONGS = [
       "Tommy James & The Shondells"
     ],
     "album": "Hanky Panky",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -31228,7 +31228,7 @@ SONGS = [
       "Tommy James & The Shondells"
     ],
     "album": "Mony Mony",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -31239,7 +31239,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "Shut Down, Vol. 2 (Mono & Stereo)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -31250,7 +31250,7 @@ SONGS = [
       "Barry Mann"
     ],
     "album": "Las 66 Favoritas de Jose María Íñigo y José Ramón Pardo. Vol. 1 (1958-1961) [Remastered]]",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -31261,7 +31261,7 @@ SONGS = [
       "Joe Cocker"
     ],
     "album": "With A Little Help From My Friends",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -31272,7 +31272,7 @@ SONGS = [
       "The Platters"
     ],
     "album": "The Platters Golden Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -31283,7 +31283,7 @@ SONGS = [
       "Jackie Wilson"
     ],
     "album": "Higher And Higher",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -31294,7 +31294,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Platinum - A Life In Music",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -31305,7 +31305,7 @@ SONGS = [
       "Ike & Tina Turner"
     ],
     "album": "River Deep-Mountain High",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -31316,7 +31316,7 @@ SONGS = [
       "Aretha Franklin"
     ],
     "album": "Lady Soul (With Bonus Selections)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -31327,7 +31327,7 @@ SONGS = [
       "Wayne Newton"
     ],
     "album": "Danke Schoen",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -31338,7 +31338,7 @@ SONGS = [
       "B.J. Thomas"
     ],
     "album": "Raindrops Keep Fallin' On My Head",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -31349,7 +31349,7 @@ SONGS = [
       "Betty Everett"
     ],
     "album": "It Hurts to Be in Love - The Very Best of Betty Everett",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -31360,7 +31360,7 @@ SONGS = [
       "The Exciters"
     ],
     "album": "Tell Him",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -31371,7 +31371,7 @@ SONGS = [
       "The Crystals"
     ],
     "album": "The Crystals",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -31382,7 +31382,7 @@ SONGS = [
       "The Young Rascals"
     ],
     "album": "The Young Rascals",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -31393,7 +31393,7 @@ SONGS = [
       "Johnny Burnette"
     ],
     "album": "Johnny Burnette's Hits And Other Favorites",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -31404,7 +31404,7 @@ SONGS = [
       "Wilson Pickett"
     ],
     "album": "In the Midnight Hour",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -31415,7 +31415,7 @@ SONGS = [
       "Ray Charles & Friends"
     ],
     "album": "What'd I Say",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -31426,7 +31426,7 @@ SONGS = [
       "The Lovin' Spoonful"
     ],
     "album": "Hums Of The Lovin' Spoonful",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -31437,7 +31437,7 @@ SONGS = [
       "Barry Ryan"
     ],
     "album": "The Very Best Of Barry Ryan",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -31448,7 +31448,7 @@ SONGS = [
       "Engelbert Humperdinck"
     ],
     "album": "A Man Without Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -31459,7 +31459,7 @@ SONGS = [
       "The Drifters"
     ],
     "album": "Save the Last Dance for Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -31470,7 +31470,7 @@ SONGS = [
       "Nina Simone"
     ],
     "album": "Little Girl Blue (2013 Remastered Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1958"
   },
   {
@@ -31481,7 +31481,7 @@ SONGS = [
       "Domenico Modugno"
     ],
     "album": "Nel Blu Dipinto Di Blu",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -31492,7 +31492,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "Rock 'N' Roll Rarities",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -31503,7 +31503,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "Essential Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -31514,7 +31514,7 @@ SONGS = [
       "Neil Sedaka"
     ],
     "album": "Collections",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -31525,7 +31525,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis 30 #1 Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -31536,7 +31536,7 @@ SONGS = [
       "Glenn Miller"
     ],
     "album": "The Very Best Of",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -31547,7 +31547,7 @@ SONGS = [
       "Édith Piaf"
     ],
     "album": "Les génies de la chanson, vol. 3 : Edith Piaf",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -31558,7 +31558,7 @@ SONGS = [
       "The Chordettes"
     ],
     "album": "The Chordettes",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -31569,7 +31569,7 @@ SONGS = [
       "Fred Astaire"
     ],
     "album": "The Early Years at RKO",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -31580,7 +31580,7 @@ SONGS = [
       "Nat King Cole"
     ],
     "album": "The Nat King Cole Story",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -31591,7 +31591,7 @@ SONGS = [
       "Nina Simone"
     ],
     "album": "I Put A Spell On You",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -31602,7 +31602,7 @@ SONGS = [
       "Doris Day"
     ],
     "album": "With A Smile And A Song",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -31613,7 +31613,7 @@ SONGS = [
       "Ray Charles"
     ],
     "album": "Georgia On My Mind",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -31624,7 +31624,7 @@ SONGS = [
       "Perez Prado & Rosemary Clooney"
     ],
     "album": "Essential - Easy Listening",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -31635,7 +31635,7 @@ SONGS = [
       "Perry Como"
     ],
     "album": "Pure Gold",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -31646,7 +31646,7 @@ SONGS = [
       "Patsy Cline;The Jordanaires"
     ],
     "album": "Showcase",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -31657,7 +31657,7 @@ SONGS = [
       "The Platters"
     ],
     "album": "The Magic Touch: An Anthology",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -31668,7 +31668,7 @@ SONGS = [
       "Johnny Mathis"
     ],
     "album": "Johnny Mathis Gold: A 50th Anniversary Celebration",
-    "album_image": null,
+    "album_image": None,
     "year": "1956"
   },
   {
@@ -31679,7 +31679,7 @@ SONGS = [
       "Glenn Miller"
     ],
     "album": "The Essential Glenn Miller",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -31690,7 +31690,7 @@ SONGS = [
       "Glenn Miller"
     ],
     "album": "Ultimate Big Band Collection: Glenn Miller",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -31701,7 +31701,7 @@ SONGS = [
       "Cliff Edwards;Disney Studio Chorus"
     ],
     "album": "Pinocchio",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -31712,7 +31712,7 @@ SONGS = [
       "Percy Faith & His Orchestra"
     ],
     "album": "Summer Place",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -31723,7 +31723,7 @@ SONGS = [
       "Gene Kelly"
     ],
     "album": "Singin' in the Rain - An American in Paris (Two Original Motion Picture Soundtracks Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -31734,7 +31734,7 @@ SONGS = [
       "Judy Garland"
     ],
     "album": "Greatest Performances Original Recordings",
-    "album_image": null,
+    "album_image": None,
     "year": "1954"
   },
   {
@@ -31745,7 +31745,7 @@ SONGS = [
       "Dooley Wilson"
     ],
     "album": "Casablanca (1942 Film Score)",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -31756,7 +31756,7 @@ SONGS = [
       "Henry Mancini"
     ],
     "album": "Breakfast At Tiffany's (50th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -31767,7 +31767,7 @@ SONGS = [
       "Peggy Wood"
     ],
     "album": "The Sound of Music - Original Soundtrack Recording",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -31778,7 +31778,7 @@ SONGS = [
       "Eleanor Farjeon"
     ],
     "album": "Rise up and Sing 3rd Edition, Vol. 5",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -31789,7 +31789,7 @@ SONGS = [
       "Stan Getz;João Gilberto;Astrud Gilberto;Antônio Carlos Jobim"
     ],
     "album": "Getz/Gilberto (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -31800,7 +31800,7 @@ SONGS = [
       "Loulie Jean Norman"
     ],
     "album": "100 Original Soundtracks, Hollywood Vol 1",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -31811,7 +31811,7 @@ SONGS = [
       "Shirley Bassey"
     ],
     "album": "Diamonds: The Best of Shirley Bassey",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -31822,7 +31822,7 @@ SONGS = [
       "Eartha Kitt;Henri René and His Orchestra"
     ],
     "album": "Heavenly Eartha",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -31833,7 +31833,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "White Christmas and Many More Famous Christmas Songs",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -31844,7 +31844,7 @@ SONGS = [
       "Brenda Lee"
     ],
     "album": "Merry Christmas From Brenda Lee",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -31855,7 +31855,7 @@ SONGS = [
       "Bobby Helms"
     ],
     "album": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-    "album_image": null,
+    "album_image": None,
     "year": "1957"
   },
   {
@@ -31866,7 +31866,7 @@ SONGS = [
       "Perry Como;The Fontane Sisters;Mitchell Ayres & His Orchestra"
     ],
     "album": "Greatest Christmas Songs",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -31877,7 +31877,7 @@ SONGS = [
       "Louis Armstrong"
     ],
     "album": "Hello, Dolly! (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -31888,7 +31888,7 @@ SONGS = [
       "Louis Armstrong"
     ],
     "album": "Satchmo Plays King Oliver",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -31899,7 +31899,7 @@ SONGS = [
       "Al Martino"
     ],
     "album": "My Cherie",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -31910,7 +31910,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis 30 #1 Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -31921,7 +31921,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Elvis' Gold Records, Vol. 4",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -31932,7 +31932,7 @@ SONGS = [
       "Johnny Cash"
     ],
     "album": "Classic Country Gold",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -31943,7 +31943,7 @@ SONGS = [
       "The Champs"
     ],
     "album": "Tequila",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -31954,7 +31954,7 @@ SONGS = [
       "Gloria Jones"
     ],
     "album": "Rockin' Originals: Original Versions Of Famous Songs",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -31965,7 +31965,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Abbey Road (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -31976,7 +31976,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -31987,7 +31987,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -31998,7 +31998,7 @@ SONGS = [
       "The Beatles;Billy Preston"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -32009,7 +32009,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -32020,7 +32020,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Let It Be (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -32031,7 +32031,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -32042,7 +32042,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -32053,7 +32053,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -32064,7 +32064,7 @@ SONGS = [
       "Tito Puente"
     ],
     "album": "El Rey Bravo",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -32075,7 +32075,7 @@ SONGS = [
       "Four Tops"
     ],
     "album": "Reach Out",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -32086,7 +32086,7 @@ SONGS = [
       "Fleetwood Mac"
     ],
     "album": "The Best of Peter Green's Fleetwood Mac",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -32097,7 +32097,7 @@ SONGS = [
       "B.J. Thomas"
     ],
     "album": "20 Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -32108,7 +32108,7 @@ SONGS = [
       "Robert Knight"
     ],
     "album": "Everlasting Love / Love On A Mountain Top",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -32119,7 +32119,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "20/20 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -32130,7 +32130,7 @@ SONGS = [
       "Barbra Streisand"
     ],
     "album": "People",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -32141,7 +32141,7 @@ SONGS = [
       "Perry Como"
     ],
     "album": "Pure Gold",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -32152,7 +32152,7 @@ SONGS = [
       "Trini Lopez"
     ],
     "album": "Rhino Hi-Five: Trini Lopez",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -32163,7 +32163,7 @@ SONGS = [
       "Sonny & Cher"
     ],
     "album": "In Case You're In Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -32174,7 +32174,7 @@ SONGS = [
       "Sandie Shaw"
     ],
     "album": "Love Me, Please Love Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -32185,7 +32185,7 @@ SONGS = [
       "Cliff Richard"
     ],
     "album": "40 Golden Greats",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -32196,7 +32196,7 @@ SONGS = [
       "Petula Clark"
     ],
     "album": "The Ultimate Petula Clark",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -32207,7 +32207,7 @@ SONGS = [
       "The Skyliners"
     ],
     "album": "Since I Don't Have You (50th Anniversary Golden Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -32218,7 +32218,7 @@ SONGS = [
       "The Platters"
     ],
     "album": "Remember When?",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -32229,7 +32229,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Yellow Submarine Songtrack",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -32240,7 +32240,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "1 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -32251,7 +32251,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles 1967 - 1970 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -32262,7 +32262,7 @@ SONGS = [
       "The Zombies"
     ],
     "album": "Begin Here",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -32273,7 +32273,7 @@ SONGS = [
       "The Zombies"
     ],
     "album": "Odessey and Oracle",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -32284,7 +32284,7 @@ SONGS = [
       "Barrett Strong"
     ],
     "album": "Money",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -32295,7 +32295,7 @@ SONGS = [
       "Louis Prima;Keely Smith;Sam Butera & The Witnesses"
     ],
     "album": "The Wildest! (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1956"
   },
   {
@@ -32306,7 +32306,7 @@ SONGS = [
       "The Isley Brothers"
     ],
     "album": "This Old Heart Of Mine",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -32317,7 +32317,7 @@ SONGS = [
       "The Isley Brothers"
     ],
     "album": "It's Our Thing (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -32328,7 +32328,7 @@ SONGS = [
       "James Brown & The Famous Flames"
     ],
     "album": "Papa's Got A Brand New Bag",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -32339,7 +32339,7 @@ SONGS = [
       "Leapy Lee"
     ],
     "album": "K-tel's I Love Pop Music",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -32350,7 +32350,7 @@ SONGS = [
       "The Ad Libs"
     ],
     "album": "The Complete Blue Cat Years",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -32361,7 +32361,7 @@ SONGS = [
       "Perry Como"
     ],
     "album": "Today & Yesterday",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -32372,7 +32372,7 @@ SONGS = [
       "The Searchers"
     ],
     "album": "Meet The Searchers",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -32383,7 +32383,7 @@ SONGS = [
       "Frankie Valli & The Four Seasons"
     ],
     "album": "The Very Best of Frankie Valli & The 4 Seasons",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -32394,7 +32394,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "The Ultimate Chuck Berry",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -32405,7 +32405,7 @@ SONGS = [
       "Little Richard"
     ],
     "album": "The Essential Little Richard (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -32416,7 +32416,7 @@ SONGS = [
       "Buddy Holly"
     ],
     "album": "The Very Best Of Buddy Holly",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -32427,7 +32427,7 @@ SONGS = [
       "Ritchie Valens"
     ],
     "album": "The Best of Ritchie Valens",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -32438,7 +32438,7 @@ SONGS = [
       "Wilbert Harrison"
     ],
     "album": "An Introduction to Wilbert Harrison",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -32449,7 +32449,7 @@ SONGS = [
       "The Monkees"
     ],
     "album": "The Monkees (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -32460,7 +32460,7 @@ SONGS = [
       "Roy Orbison"
     ],
     "album": "Sings Lonely and Blue",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -32471,7 +32471,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Idea (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -32482,7 +32482,7 @@ SONGS = [
       "Ray Charles"
     ],
     "album": "Ray Charles (aka: Hallelujah, I Love Her So)",
-    "album_image": null,
+    "album_image": None,
     "year": "1957"
   },
   {
@@ -32493,7 +32493,7 @@ SONGS = [
       "Nina Simone"
     ],
     "album": "Silk & Soul (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -32504,7 +32504,7 @@ SONGS = [
       "Lou Christie"
     ],
     "album": "I'm Gonna Make You Mine",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -32515,7 +32515,7 @@ SONGS = [
       "Tom Jones"
     ],
     "album": "The Love Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -32526,7 +32526,7 @@ SONGS = [
       "The Hollies"
     ],
     "album": "Confessions of the Mind (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -32537,7 +32537,7 @@ SONGS = [
       "The Drifters"
     ],
     "album": "Definitive Soul: The Drifters",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -32548,7 +32548,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Pot Luck",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -32559,7 +32559,7 @@ SONGS = [
       "The Doors"
     ],
     "album": "Light My Fire",
-    "album_image": null,
+    "album_image": None,
     "year": "2017"
   },
   {
@@ -32570,7 +32570,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles 1967 - 1970 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -32581,7 +32581,7 @@ SONGS = [
       "Nina Simone"
     ],
     "album": "'Nuff Said (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -32592,7 +32592,7 @@ SONGS = [
       "Jackie DeShannon"
     ],
     "album": "This Is Jackie DeShannon",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -32603,7 +32603,7 @@ SONGS = [
       "Brenda Lee"
     ],
     "album": "Brenda Lee",
-    "album_image": null,
+    "album_image": None,
     "year": "1960"
   },
   {
@@ -32614,7 +32614,7 @@ SONGS = [
       "Sam Cooke"
     ],
     "album": "The Man Who Invented Soul",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -32625,7 +32625,7 @@ SONGS = [
       "Paul Anka"
     ],
     "album": "Sings His Favorites",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -32636,7 +32636,7 @@ SONGS = [
       "Randy & The Rainbows"
     ],
     "album": "Lost Hits Of The 60's (All Original Artists & Versions)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -32647,7 +32647,7 @@ SONGS = [
       "The Crew Cuts"
     ],
     "album": "In The Beginning...",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -32658,7 +32658,7 @@ SONGS = [
       "The Equals"
     ],
     "album": "All the Hits Plus More",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -32669,7 +32669,7 @@ SONGS = [
       "The Human Beinz"
     ],
     "album": "Nobody But Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -32680,7 +32680,7 @@ SONGS = [
       "Wilson Pickett"
     ],
     "album": "The Definitive Wilson Pickett",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -32691,7 +32691,7 @@ SONGS = [
       "Dionne Warwick"
     ],
     "album": "The Windows of the World",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -32702,7 +32702,7 @@ SONGS = [
       "The Mamas & The Papas"
     ],
     "album": "The Papas & The Mamas",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -32713,7 +32713,7 @@ SONGS = [
       "The Spencer Davis Group"
     ],
     "album": "The Second Album",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -32724,7 +32724,7 @@ SONGS = [
       "The Wrens"
     ],
     "album": "Hits of the 50's & 60's",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -32735,7 +32735,7 @@ SONGS = [
       "Frankie Valli & The Four Seasons"
     ],
     "album": "The Very Best of Frankie Valli & The 4 Seasons",
-    "album_image": null,
+    "album_image": None,
     "year": "2003"
   },
   {
@@ -32746,7 +32746,7 @@ SONGS = [
       "Paul Anka"
     ],
     "album": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -32757,7 +32757,7 @@ SONGS = [
       "Jimmy Soul"
     ],
     "album": "Frank Guida Presents: Jimmy Soul \"If You Wanna Be Happy\"",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -32768,7 +32768,7 @@ SONGS = [
       "Etta James"
     ],
     "album": "Heart & Soul: A Retrospective",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -32779,7 +32779,7 @@ SONGS = [
       "Dick Dale & His Del-Tones"
     ],
     "album": "Surfer's Choice",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -32790,7 +32790,7 @@ SONGS = [
       "Dean Martin"
     ],
     "album": "Hey, Brother Pour The Wine",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -32801,7 +32801,7 @@ SONGS = [
       "Marilyn Monroe"
     ],
     "album": "Marilyn Monroe 50th Anniversary Album",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -32812,7 +32812,7 @@ SONGS = [
       "Marilyn Monroe"
     ],
     "album": "Diamonds Are a Girl's Best Friend",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -32823,7 +32823,7 @@ SONGS = [
       "Nat King Cole"
     ],
     "album": "Unforgettable",
-    "album_image": null,
+    "album_image": None,
     "year": "1954"
   },
   {
@@ -32834,7 +32834,7 @@ SONGS = [
       "Sam Cooke"
     ],
     "album": "The Best of Sam Cooke",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -32845,7 +32845,7 @@ SONGS = [
       "Johnny Cash"
     ],
     "album": "The Essential Johnny Cash",
-    "album_image": null,
+    "album_image": None,
     "year": "2002"
   },
   {
@@ -32856,7 +32856,7 @@ SONGS = [
       "The Drifters"
     ],
     "album": "Under the Boardwalk",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -32867,7 +32867,7 @@ SONGS = [
       "Sergio Mendes & Brasil '66"
     ],
     "album": "Mas Que Nada",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -32878,7 +32878,7 @@ SONGS = [
       "Pete Rodriguez"
     ],
     "album": "I Like it Like That",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -32889,7 +32889,7 @@ SONGS = [
       "Pérez Prado"
     ],
     "album": "Mambo No 5",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -32900,7 +32900,7 @@ SONGS = [
       "Bobby Hebb"
     ],
     "album": "100 Essential Hits - 60s",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -32911,7 +32911,7 @@ SONGS = [
       "Them;Van Morrison"
     ],
     "album": "The \"Angry\" Young Them! (feat. Van Morrison)",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -32922,7 +32922,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Creedence Clearwater / Rock Legends (International Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -32933,7 +32933,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "More Creedence Gold",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -32944,7 +32944,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "The Rolling Stones In Mono (Remastered 2016)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -32955,7 +32955,7 @@ SONGS = [
       "The Rolling Stones"
     ],
     "album": "Honky Tonk Women / You Can't Always Get What You Want",
-    "album_image": null,
+    "album_image": None,
     "year": "2019"
   },
   {
@@ -32966,7 +32966,7 @@ SONGS = [
       "Big Brother & The Holding Company;Janis Joplin"
     ],
     "album": "Cheap Thrills",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -32977,7 +32977,7 @@ SONGS = [
       "Johnny Kidd & The Pirates"
     ],
     "album": "The Complete Johnny Kidd Vol 1 & 2",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -32988,7 +32988,7 @@ SONGS = [
       "Johnny Rivers"
     ],
     "album": "Bowfinger (Music From The Motion Picture)",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -32999,7 +32999,7 @@ SONGS = [
       "The Hollies"
     ],
     "album": "Midas Touch - The Very Best of the Hollies",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -33010,7 +33010,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "Concepts",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -33021,7 +33021,7 @@ SONGS = [
       "Dean Martin"
     ],
     "album": "Dino: The Essential Dean Martin",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -33032,7 +33032,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "I Got Lucky",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -33043,7 +33043,7 @@ SONGS = [
       "Ricky Nelson"
     ],
     "album": "Ricky Sings Again (Expanded Edition / Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -33054,7 +33054,7 @@ SONGS = [
       "Bobby Vinton"
     ],
     "album": "The Best Of Bobby Vinton",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -33065,7 +33065,7 @@ SONGS = [
       "Lesley Gore"
     ],
     "album": "Lesley Gore Sings Of Mixed-Up Hearts",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -33076,7 +33076,7 @@ SONGS = [
       "Bill Haley & His Comets"
     ],
     "album": "Rockin' The Joint",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -33087,7 +33087,7 @@ SONGS = [
       "Bill Haley & His Comets"
     ],
     "album": "Rock Around The Clock",
-    "album_image": null,
+    "album_image": None,
     "year": "1955"
   },
   {
@@ -33098,7 +33098,7 @@ SONGS = [
       "Little Richard"
     ],
     "album": "The Essential Little Richard (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -33109,7 +33109,7 @@ SONGS = [
       "Frankie Ford"
     ],
     "album": "Pop & Oldies One Hit Wonders",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -33120,7 +33120,7 @@ SONGS = [
       "Jackie Wilson"
     ],
     "album": "Reet Petite",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -33131,7 +33131,7 @@ SONGS = [
       "Richard Berry"
     ],
     "album": "Louie, Louie",
-    "album_image": null,
+    "album_image": None,
     "year": "2015"
   },
   {
@@ -33142,7 +33142,7 @@ SONGS = [
       "The Coasters"
     ],
     "album": "Rhino Hi-Five: The Coasters",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -33153,7 +33153,7 @@ SONGS = [
       "Roger Miller"
     ],
     "album": "Golden Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -33164,7 +33164,7 @@ SONGS = [
       "The Chords"
     ],
     "album": "Sh-Boom (Life Could Be a Dream)",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -33175,7 +33175,7 @@ SONGS = [
       "James Brown & The Famous Flames"
     ],
     "album": "Try Me (Early Singles Vol. 2)",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -33186,7 +33186,7 @@ SONGS = [
       "Sam & Dave"
     ],
     "album": "Definitive Soul: Sam & Dave",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -33197,7 +33197,7 @@ SONGS = [
       "The Temptations"
     ],
     "album": "Gettin' Ready (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -33208,7 +33208,7 @@ SONGS = [
       "Frankie Valli & The Four Seasons"
     ],
     "album": "Anthology",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -33219,7 +33219,7 @@ SONGS = [
       "Eddie Floyd"
     ],
     "album": "Rare Stamps",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -33230,7 +33230,7 @@ SONGS = [
       "Neil Sedaka"
     ],
     "album": "The Collection 1957-1962",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -33241,7 +33241,7 @@ SONGS = [
       "Herman's Hermits"
     ],
     "album": "A's, B's & EP's",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -33252,7 +33252,7 @@ SONGS = [
       "Lesley Gore"
     ],
     "album": "Lesley Gore Sings Of Mixed-Up Hearts",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -33263,7 +33263,7 @@ SONGS = [
       "Henry Mancini"
     ],
     "album": "Music From Peter Gunn",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -33274,7 +33274,7 @@ SONGS = [
       "The Shadows"
     ],
     "album": "Another String of Hot Hits (And More!)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -33285,7 +33285,7 @@ SONGS = [
       "Al Caiola"
     ],
     "album": "Al Caiola",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -33296,7 +33296,7 @@ SONGS = [
       "Ennio Morricone"
     ],
     "album": "The Good, The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered & Expanded)]",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -33307,7 +33307,7 @@ SONGS = [
       "The Moody Blues"
     ],
     "album": "Days Of Future Passed (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -33318,7 +33318,7 @@ SONGS = [
       "Spiral Starecase"
     ],
     "album": "Pop Classics Of The 60's",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -33329,7 +33329,7 @@ SONGS = [
       "Dionne Warwick"
     ],
     "album": "Dionne",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -33340,7 +33340,7 @@ SONGS = [
       "Barbra Streisand"
     ],
     "album": "Funny Girl - Original Soundtrack Recording",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -33351,7 +33351,7 @@ SONGS = [
       "Etta James"
     ],
     "album": "At Last The Very Best Of",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -33362,7 +33362,7 @@ SONGS = [
       "Bee Gees"
     ],
     "album": "Bee Gees' 1st",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -33373,7 +33373,7 @@ SONGS = [
       "The Supremes"
     ],
     "album": "I Hear A Symphony",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -33384,7 +33384,7 @@ SONGS = [
       "The Foundations"
     ],
     "album": "The Foundations",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -33395,7 +33395,7 @@ SONGS = [
       "The Young Rascals"
     ],
     "album": "Groovin' (Mono)",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -33406,7 +33406,7 @@ SONGS = [
       "The Cascades"
     ],
     "album": "Rhythm Of The Rain",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -33417,7 +33417,7 @@ SONGS = [
       "Harpers Bizarre"
     ],
     "album": "Feelin' Groovy",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -33428,7 +33428,7 @@ SONGS = [
       "The Crystals"
     ],
     "album": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -33439,7 +33439,7 @@ SONGS = [
       "The Housemartins"
     ],
     "album": "Now That's What I Call Quite Good",
-    "album_image": null,
+    "album_image": None,
     "year": "1988"
   },
   {
@@ -33450,7 +33450,7 @@ SONGS = [
       "Neil Sedaka"
     ],
     "album": "All Time Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -33461,7 +33461,7 @@ SONGS = [
       "Johnny Tillotson"
     ],
     "album": "The EP Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -33472,7 +33472,7 @@ SONGS = [
       "Frankie Valli & The Four Seasons"
     ],
     "album": "Jersey's Best",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -33483,7 +33483,7 @@ SONGS = [
       "Gerry & The Pacemakers"
     ],
     "album": "At Abbey Road",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -33494,7 +33494,7 @@ SONGS = [
       "Laurie London"
     ],
     "album": "Lost Hits Of The 50's",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -33505,7 +33505,7 @@ SONGS = [
       "The Drifters"
     ],
     "album": "Definitive Soul: The Drifters",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -33516,7 +33516,7 @@ SONGS = [
       "The Duprees"
     ],
     "album": "For Collectors Only",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -33527,7 +33527,7 @@ SONGS = [
       "Connie Francis"
     ],
     "album": "20th Century Masters: The Millennium Collection: Best of Connie Francis",
-    "album_image": null,
+    "album_image": None,
     "year": "1999"
   },
   {
@@ -33538,7 +33538,7 @@ SONGS = [
       "Della Reese"
     ],
     "album": "A Bronx Tale - Music From The Motion Picture",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -33549,7 +33549,7 @@ SONGS = [
       "Len Barry"
     ],
     "album": "Len Barry Meets Johnny Caswell",
-    "album_image": null,
+    "album_image": None,
     "year": "2016"
   },
   {
@@ -33560,7 +33560,7 @@ SONGS = [
       "Bobby Freeman"
     ],
     "album": "Do You Wanna Dance?",
-    "album_image": null,
+    "album_image": None,
     "year": "1958"
   },
   {
@@ -33571,7 +33571,7 @@ SONGS = [
       "Eddie Cochran"
     ],
     "album": "12 Of His Biggest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "1960"
   },
   {
@@ -33582,7 +33582,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "Pet Sounds (Original Mono & Stereo Mix)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -33593,7 +33593,7 @@ SONGS = [
       "The Guess Who"
     ],
     "album": "Wheatfield Soul",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -33604,7 +33604,7 @@ SONGS = [
       "The Box Tops"
     ],
     "album": "The Letter/Neon Rainbow",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -33615,7 +33615,7 @@ SONGS = [
       "The Rooftop Singers"
     ],
     "album": "Vanguard Visionaries",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -33626,7 +33626,7 @@ SONGS = [
       "Ricky Nelson"
     ],
     "album": "Rick Is 21",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -33637,7 +33637,7 @@ SONGS = [
       "Brian Hyland"
     ],
     "album": "The Collection 1960-1962",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -33648,7 +33648,7 @@ SONGS = [
       "The Drifters"
     ],
     "album": "Up on the Roof: The Best of the Drifters",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -33659,7 +33659,7 @@ SONGS = [
       "The Chantels"
     ],
     "album": "\"Maybe\" - Their Greatest Recordings - Including Their Two Original Albums Plus Bonus Tacks",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -33670,7 +33670,7 @@ SONGS = [
       "The Paris Sisters"
     ],
     "album": "Pop, Rock & Doo Wop - Sounds from the Golden Age Vol. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "2014"
   },
   {
@@ -33681,7 +33681,7 @@ SONGS = [
       "The Righteous Brothers"
     ],
     "album": "The Very Best Of The Righteous Brothers - Unchained Melody",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -33692,7 +33692,7 @@ SONGS = [
       "Sam Cooke"
     ],
     "album": "Swing Low",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -33703,7 +33703,7 @@ SONGS = [
       "Jay & The Americans"
     ],
     "album": "Blockbusters",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -33714,7 +33714,7 @@ SONGS = [
       "Roy Orbison"
     ],
     "album": "Crying",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -33725,7 +33725,7 @@ SONGS = [
       "Roy Orbison"
     ],
     "album": "In Dreams",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -33736,7 +33736,7 @@ SONGS = [
       "Johnny Mathis"
     ],
     "album": "The Essential Johnny Mathis",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -33747,7 +33747,7 @@ SONGS = [
       "Johnny Mathis;Ray Conniff"
     ],
     "album": "The Essential Johnny Mathis 3.0",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -33758,7 +33758,7 @@ SONGS = [
       "Engelbert Humperdinck"
     ],
     "album": "Live In Concert / All of Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -33769,7 +33769,7 @@ SONGS = [
       "Frank Sinatra"
     ],
     "album": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -33780,7 +33780,7 @@ SONGS = [
       "Ann-Margret;Elvis Presley"
     ],
     "album": "Let Me Entertain You",
-    "album_image": null,
+    "album_image": None,
     "year": "1996"
   },
   {
@@ -33791,7 +33791,7 @@ SONGS = [
       "The Everly Brothers"
     ],
     "album": "The Golden Hits of The Everly Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -33802,7 +33802,7 @@ SONGS = [
       "Herman's Hermits"
     ],
     "album": "A's, B's & EP's",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -33813,7 +33813,7 @@ SONGS = [
       "Creedence Clearwater Revival"
     ],
     "album": "Creedence Clearwater Revival - Best Of",
-    "album_image": null,
+    "album_image": None,
     "year": "2008"
   },
   {
@@ -33824,7 +33824,7 @@ SONGS = [
       "The Byrds"
     ],
     "album": "Turn! Turn! Turn!",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -33835,7 +33835,7 @@ SONGS = [
       "The Hollies"
     ],
     "album": "20 Golden Greats",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -33846,7 +33846,7 @@ SONGS = [
       "The Supremes"
     ],
     "album": "The Supremes Sing Holland, Dozier, Holland",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -33857,7 +33857,7 @@ SONGS = [
       "Martha Reeves & The Vandellas"
     ],
     "album": "Heat Wave",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -33868,7 +33868,7 @@ SONGS = [
       "Martha Reeves & The Vandellas"
     ],
     "album": "Dance Party",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -33879,7 +33879,7 @@ SONGS = [
       "Sly & The Family Stone"
     ],
     "album": "Dance To The Music",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -33890,7 +33890,7 @@ SONGS = [
       "The Turtles"
     ],
     "album": "The Turtles Present The Battle of the Bands",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -33901,7 +33901,7 @@ SONGS = [
       "Andy Williams"
     ],
     "album": "Born Free",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -33912,7 +33912,7 @@ SONGS = [
       "Marvin Gaye;Kim Weston"
     ],
     "album": "Take Two",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -33923,7 +33923,7 @@ SONGS = [
       "Freddie Scott"
     ],
     "album": "Cry To Me-The Best Of Freddie Scott",
-    "album_image": null,
+    "album_image": None,
     "year": "1998"
   },
   {
@@ -33934,7 +33934,7 @@ SONGS = [
       "The Band"
     ],
     "album": "Music From Big Pink (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -33945,7 +33945,7 @@ SONGS = [
       "Merrilee Rush & The Turnabouts"
     ],
     "album": "Angel Of The Morning",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -33956,7 +33956,7 @@ SONGS = [
       "Simon & Garfunkel"
     ],
     "album": "Bridge Over Troubled Water",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -33967,7 +33967,7 @@ SONGS = [
       "Stan Jones"
     ],
     "album": "Ghost Riders in the Sky",
-    "album_image": null,
+    "album_image": None,
     "year": "1958"
   },
   {
@@ -33978,7 +33978,7 @@ SONGS = [
       "The Coasters"
     ],
     "album": "Rhino Hi-Five: The Coasters",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -33989,7 +33989,7 @@ SONGS = [
       "Tommy James & The Shondells"
     ],
     "album": "Anthology",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -34000,7 +34000,7 @@ SONGS = [
       "Skeeter Davis"
     ],
     "album": "The Country Queen",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -34011,7 +34011,7 @@ SONGS = [
       "The Young Rascals"
     ],
     "album": "Collections",
-    "album_image": null,
+    "album_image": None,
     "year": "2005"
   },
   {
@@ -34022,7 +34022,7 @@ SONGS = [
       "Chubby Checker"
     ],
     "album": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -34033,7 +34033,7 @@ SONGS = [
       "Johnny Otis"
     ],
     "album": "The Classic Collection",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -34044,7 +34044,7 @@ SONGS = [
       "Jack Scott"
     ],
     "album": "The Rockabilly Collection 1957-1962",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -34055,7 +34055,7 @@ SONGS = [
       "Vanity Fare"
     ],
     "album": "Hitchin' a Ride",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -34066,7 +34066,7 @@ SONGS = [
       "The Everly Brothers"
     ],
     "album": "The Golden Hits of The Everly Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -34077,7 +34077,7 @@ SONGS = [
       "Gerry & The Pacemakers"
     ],
     "album": "The Very Best Of Gerry & The Pacemakers",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -34088,7 +34088,7 @@ SONGS = [
       "Dinah Washington"
     ],
     "album": "What A Diff'rence A Day Makes! (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -34099,7 +34099,7 @@ SONGS = [
       "Mary Hopkin"
     ],
     "album": "30 Éxitos Ingleses Vol. 1",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -34110,7 +34110,7 @@ SONGS = [
       "The McCoys"
     ],
     "album": "Hang on Sloopy",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -34121,7 +34121,7 @@ SONGS = [
       "Julie Andrews;Dick Van Dyke;The Pearlie Chorus"
     ],
     "album": "Mary Poppins",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -34132,7 +34132,7 @@ SONGS = [
       "Julie Andrews"
     ],
     "album": "Sherman Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -34143,7 +34143,7 @@ SONGS = [
       "Dick Van Dyke;Julie Andrews;Karen Dotrice;Matthew Garber"
     ],
     "album": "Sherman Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -34154,7 +34154,7 @@ SONGS = [
       "The Supremes"
     ],
     "album": "The Supremes A' Go-Go (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1966"
   },
   {
@@ -34165,7 +34165,7 @@ SONGS = [
       "Bobby Day"
     ],
     "album": "The Rockin' Adventures of Bobby Day",
-    "album_image": null,
+    "album_image": None,
     "year": "1959"
   },
   {
@@ -34176,7 +34176,7 @@ SONGS = [
       "Sam The Sham & The Pharaohs"
     ],
     "album": "Wooly Bully",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -34187,7 +34187,7 @@ SONGS = [
       "Mitch Ryder and The Detroit Wheels"
     ],
     "album": "Rev Up Best Of Mitch Ryder & Detroit Wheels",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -34198,7 +34198,7 @@ SONGS = [
       "The American Breed"
     ],
     "album": "60's Gold",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -34209,7 +34209,7 @@ SONGS = [
       "Marvin Gaye"
     ],
     "album": "In The Groove",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -34220,7 +34220,7 @@ SONGS = [
       "Andy Williams"
     ],
     "album": "The Andy Williams Christmas Album",
-    "album_image": null,
+    "album_image": None,
     "year": "1963"
   },
   {
@@ -34231,7 +34231,7 @@ SONGS = [
       "Nancy Sinatra"
     ],
     "album": "Start Walkin' 1965-1976",
-    "album_image": null,
+    "album_image": None,
     "year": "2021"
   },
   {
@@ -34242,7 +34242,7 @@ SONGS = [
       "Ray Charles"
     ],
     "album": "Ray Charles (aka: Hallelujah, I Love Her So)",
-    "album_image": null,
+    "album_image": None,
     "year": "1957"
   },
   {
@@ -34253,7 +34253,7 @@ SONGS = [
       "Quincy Jones"
     ],
     "album": "Big Band Bossa Nova",
-    "album_image": null,
+    "album_image": None,
     "year": "1962"
   },
   {
@@ -34264,7 +34264,7 @@ SONGS = [
       "Paul Anka"
     ],
     "album": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-    "album_image": null,
+    "album_image": None,
     "year": "2000"
   },
   {
@@ -34275,7 +34275,7 @@ SONGS = [
       "Dale and Grace"
     ],
     "album": "I'm Leaving It All Up To You",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -34286,7 +34286,7 @@ SONGS = [
       "Irma Thomas"
     ],
     "album": "Wish Someone Would Care",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -34297,7 +34297,7 @@ SONGS = [
       "Nancy Sinatra;Lee Hazlewood"
     ],
     "album": "Nancy In London",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -34308,7 +34308,7 @@ SONGS = [
       "Betty Everett"
     ],
     "album": "Hot to Hold",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -34319,7 +34319,7 @@ SONGS = [
       "Betty Everett"
     ],
     "album": "Hot to Hold",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -34330,7 +34330,7 @@ SONGS = [
       "The Beach Boys"
     ],
     "album": "50 Big Ones: Greatest Hits",
-    "album_image": null,
+    "album_image": None,
     "year": "2012"
   },
   {
@@ -34341,7 +34341,7 @@ SONGS = [
       "Jerry Lee Lewis"
     ],
     "album": "Original Golden Hits - Volume 1 (Vol. 1)",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -34352,7 +34352,7 @@ SONGS = [
       "Dion"
     ],
     "album": "The Best Of Dion",
-    "album_image": null,
+    "album_image": None,
     "year": "2001"
   },
   {
@@ -34363,7 +34363,7 @@ SONGS = [
       "Dion"
     ],
     "album": "Runaround Sue",
-    "album_image": null,
+    "album_image": None,
     "year": "1961"
   },
   {
@@ -34374,7 +34374,7 @@ SONGS = [
       "Chuck Berry"
     ],
     "album": "One Dozen Berry's",
-    "album_image": null,
+    "album_image": None,
     "year": "1958"
   },
   {
@@ -34385,7 +34385,7 @@ SONGS = [
       "Osibisa"
     ],
     "album": "Welcome Home",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -34396,7 +34396,7 @@ SONGS = [
       "Elvis Presley"
     ],
     "album": "Platinum - A Life In Music",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -34407,7 +34407,7 @@ SONGS = [
       "The Everly Brothers"
     ],
     "album": "A Date with The Everly Brothers",
-    "album_image": null,
+    "album_image": None,
     "year": "1960"
   },
   {
@@ -34418,7 +34418,7 @@ SONGS = [
       "Phil Phillips"
     ],
     "album": "The Love Melody",
-    "album_image": null,
+    "album_image": None,
     "year": "1957"
   },
   {
@@ -34429,7 +34429,7 @@ SONGS = [
       "Engelbert Humperdinck"
     ],
     "album": "The Last Waltz",
-    "album_image": null,
+    "album_image": None,
     "year": "1967"
   },
   {
@@ -34440,7 +34440,7 @@ SONGS = [
       "The Delfonics"
     ],
     "album": "The Sound Of Sexy Soul",
-    "album_image": null,
+    "album_image": None,
     "year": "1969"
   },
   {
@@ -34451,7 +34451,7 @@ SONGS = [
       "The Troggs"
     ],
     "album": "Hit Single Anthology",
-    "album_image": null,
+    "album_image": None,
     "year": "1991"
   },
   {
@@ -34462,7 +34462,7 @@ SONGS = [
       "The Righteous Brothers"
     ],
     "album": "You've Lost That Lovin' Feelin'",
-    "album_image": null,
+    "album_image": None,
     "year": "1965"
   },
   {
@@ -34473,7 +34473,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -34484,7 +34484,7 @@ SONGS = [
       "Frankie Lymon & The Teenagers"
     ],
     "album": "Let's Fall in Love",
-    "album_image": null,
+    "album_image": None,
     "year": "1957"
   },
   {
@@ -34495,7 +34495,7 @@ SONGS = [
       "Erma Franklin"
     ],
     "album": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-    "album_image": null,
+    "album_image": None,
     "year": "2009"
   },
   {
@@ -34506,7 +34506,7 @@ SONGS = [
       "The Spencer Davis Group"
     ],
     "album": "Revolutions: The Very Best Of Steve Winwood (Deluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2010"
   },
   {
@@ -34517,7 +34517,7 @@ SONGS = [
       "Dolly Parton"
     ],
     "album": "Jolene (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1974"
   },
   {
@@ -34528,7 +34528,7 @@ SONGS = [
       "Crowded House"
     ],
     "album": "Crowded House",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -34539,7 +34539,7 @@ SONGS = [
       "Neil Young"
     ],
     "album": "Harvest (50th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -34550,7 +34550,7 @@ SONGS = [
       "Simon & Garfunkel"
     ],
     "album": "Bridge Over Troubled Water",
-    "album_image": null,
+    "album_image": None,
     "year": "1970"
   },
   {
@@ -34561,7 +34561,7 @@ SONGS = [
       "John Lennon"
     ],
     "album": "Imagine",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -34572,7 +34572,7 @@ SONGS = [
       "Neil Young"
     ],
     "album": "Harvest (50th Anniversary Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -34583,7 +34583,7 @@ SONGS = [
       "Neil Young;Crazy Horse"
     ],
     "album": "Rust Never Sleeps",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -34594,7 +34594,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Communiqué",
-    "album_image": null,
+    "album_image": None,
     "year": "1979"
   },
   {
@@ -34605,7 +34605,7 @@ SONGS = [
       "Pet Shop Boys"
     ],
     "album": "90s Pride",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -34616,7 +34616,7 @@ SONGS = [
       "Scorpions"
     ],
     "album": "Crazy World",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -34627,7 +34627,7 @@ SONGS = [
       "Lynyrd Skynyrd"
     ],
     "album": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -34638,7 +34638,7 @@ SONGS = [
       "Mike Oldfield"
     ],
     "album": "Crises",
-    "album_image": null,
+    "album_image": None,
     "year": "2013"
   },
   {
@@ -34649,7 +34649,7 @@ SONGS = [
       "Pet Shop Boys"
     ],
     "album": "Actually: Further Listening 1987 - 1988 (2018 Remaster)",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -34660,7 +34660,7 @@ SONGS = [
       "Laura Branigan"
     ],
     "album": "Self Control",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -34671,7 +34671,7 @@ SONGS = [
       "Nik Kershaw"
     ],
     "album": "The Riddle (Expanded Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1984"
   },
   {
@@ -34682,7 +34682,7 @@ SONGS = [
       "Haddaway"
     ],
     "album": "The Album",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -34693,7 +34693,7 @@ SONGS = [
       "Noah Beatz"
     ],
     "album": "Comfortably Swing",
-    "album_image": null,
+    "album_image": None,
     "year": "2024"
   },
   {
@@ -34704,7 +34704,7 @@ SONGS = [
       "Ten Years After"
     ],
     "album": "A Space in Time (Deluxe Version)",
-    "album_image": null,
+    "album_image": None,
     "year": "1971"
   },
   {
@@ -34715,7 +34715,7 @@ SONGS = [
       "Bob Marley & The Wailers"
     ],
     "album": "Exodus",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -34726,7 +34726,7 @@ SONGS = [
       "Neil Young"
     ],
     "album": "Harvest Moon",
-    "album_image": null,
+    "album_image": None,
     "year": "1992"
   },
   {
@@ -34737,7 +34737,7 @@ SONGS = [
       "John Denver"
     ],
     "album": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
-    "album_image": null,
+    "album_image": None,
     "year": "1997"
   },
   {
@@ -34748,7 +34748,7 @@ SONGS = [
       "Amy Macdonald"
     ],
     "album": "This Is The Life (eDeluxe)",
-    "album_image": null,
+    "album_image": None,
     "year": "2007"
   },
   {
@@ -34759,7 +34759,7 @@ SONGS = [
       "Gunter Kallmann Choir"
     ],
     "album": "Daydream - Best Of The Gunter Kallmann Choir",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -34770,7 +34770,7 @@ SONGS = [
       "The Cranberries"
     ],
     "album": "Everybody Else Is Doing It, So Why Can't We?",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -34781,7 +34781,7 @@ SONGS = [
       "The Cranberries"
     ],
     "album": "No Need To Argue (2025 Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -34792,7 +34792,7 @@ SONGS = [
       "Scorpions"
     ],
     "album": "Crazy World",
-    "album_image": null,
+    "album_image": None,
     "year": "1990"
   },
   {
@@ -34803,7 +34803,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Thriller",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -34814,7 +34814,7 @@ SONGS = [
       "Michael Jackson"
     ],
     "album": "Thriller",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -34825,7 +34825,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "Love",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   },
   {
@@ -34836,7 +34836,7 @@ SONGS = [
       "Gilbert O'Sullivan"
     ],
     "album": "Back to Front (Deluxe Edition)",
-    "album_image": null,
+    "album_image": None,
     "year": "1972"
   },
   {
@@ -34847,7 +34847,7 @@ SONGS = [
       "The Ronettes"
     ],
     "album": "Presenting the Fabulous Ronettes Featuring Veronica",
-    "album_image": null,
+    "album_image": None,
     "year": "1964"
   },
   {
@@ -34858,7 +34858,7 @@ SONGS = [
       "Simon & Garfunkel"
     ],
     "album": "Bookends",
-    "album_image": null,
+    "album_image": None,
     "year": "1968"
   },
   {
@@ -34870,7 +34870,7 @@ SONGS = [
       "Wind & Fire"
     ],
     "album": "September (sped up + slowed)",
-    "album_image": null,
+    "album_image": None,
     "year": "1978"
   },
   {
@@ -34881,7 +34881,7 @@ SONGS = [
       "Sinéad O'Connor"
     ],
     "album": "Thank You for Hearing Me",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -34892,7 +34892,7 @@ SONGS = [
       "Aerosmith"
     ],
     "album": "Get A Grip",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -34903,7 +34903,7 @@ SONGS = [
       "Rufus;Chaka Khan"
     ],
     "album": "Stompin' At The Savoy",
-    "album_image": null,
+    "album_image": None,
     "year": "1983"
   },
   {
@@ -34914,7 +34914,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Brothers In Arms (Remastered 1996)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -34925,7 +34925,7 @@ SONGS = [
       "The Cranberries"
     ],
     "album": "Everybody Else Is Doing It, So Why Can't We?",
-    "album_image": null,
+    "album_image": None,
     "year": "1993"
   },
   {
@@ -34936,7 +34936,7 @@ SONGS = [
       "Dire Straits"
     ],
     "album": "Brothers In Arms (Remastered 1996)",
-    "album_image": null,
+    "album_image": None,
     "year": "1985"
   },
   {
@@ -34947,7 +34947,7 @@ SONGS = [
       "George Harrison"
     ],
     "album": "Cloud Nine",
-    "album_image": null,
+    "album_image": None,
     "year": "1987"
   },
   {
@@ -34958,7 +34958,7 @@ SONGS = [
       "The Cranberries"
     ],
     "album": "No Need To Argue (2025 Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1994"
   },
   {
@@ -34969,7 +34969,7 @@ SONGS = [
       "Madonna"
     ],
     "album": "Like a Prayer",
-    "album_image": null,
+    "album_image": None,
     "year": "1989"
   },
   {
@@ -34980,7 +34980,7 @@ SONGS = [
       "Berlin"
     ],
     "album": "TOP GUN/SOUNDTRACK",
-    "album_image": null,
+    "album_image": None,
     "year": "1986"
   },
   {
@@ -34991,7 +34991,7 @@ SONGS = [
       "The Beatles"
     ],
     "album": "The Beatles 1962 - 1966 (Remastered)",
-    "album_image": null,
+    "album_image": None,
     "year": "1973"
   },
   {
@@ -35002,7 +35002,7 @@ SONGS = [
       "Dexys Midnight Runners"
     ],
     "album": "Too Rye Ay",
-    "album_image": null,
+    "album_image": None,
     "year": "1982"
   },
   {
@@ -35013,7 +35013,7 @@ SONGS = [
       "Michael Sembello"
     ],
     "album": "ドライブが楽しくなる洋楽ヒッツ！80年代 DANCE",
-    "album_image": null,
+    "album_image": None,
     "year": "2025"
   },
   {
@@ -35024,7 +35024,7 @@ SONGS = [
       "Lipps Inc."
     ],
     "album": "Shrek 2 (Original Motion Picture Soundtrack)",
-    "album_image": null,
+    "album_image": None,
     "year": "2004"
   },
   {
@@ -35035,7 +35035,7 @@ SONGS = [
       "Scorpions"
     ],
     "album": "Comeblack",
-    "album_image": null,
+    "album_image": None,
     "year": "2011"
   },
   {
@@ -35046,7 +35046,7 @@ SONGS = [
       "Ozzy Osbourne;Elton John"
     ],
     "album": "Ordinary Man (feat. Elton John)",
-    "album_image": null,
+    "album_image": None,
     "year": "2020"
   },
   {
@@ -35057,7 +35057,7 @@ SONGS = [
       "ABBA"
     ],
     "album": "The Album",
-    "album_image": null,
+    "album_image": None,
     "year": "1977"
   },
   {
@@ -35068,7 +35068,7 @@ SONGS = [
       "ABBA"
     ],
     "album": "Mamma Mia",
-    "album_image": null,
+    "album_image": None,
     "year": "1975"
   },
   {
@@ -35079,7 +35079,7 @@ SONGS = [
       "Gustavo Santaolalla"
     ],
     "album": "Brokeback Mountain Soundtrack",
-    "album_image": null,
+    "album_image": None,
     "year": "2006"
   }
 ]
