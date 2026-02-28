@@ -3,29 +3,27 @@ import random
 import requests
 from flask import Flask, redirect, request, session, jsonify, render_template
 from urllib.parse import urlencode
+from songs import SONGS
 
 app = Flask(__name__)
-# Use a stable secret key from env so sessions survive Render restarts.
-# Falls back to random only in local dev.
-app.secret_key = os.environ.get("SECRET_KEY", os.urandom(24))
+app.secret_key = os.environ.get("SECRET_KEY", "dev-secret-change-in-production")
 
-# Spotify config from environment variables (set in Render)
-SPOTIFY_CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
+SPOTIFY_CLIENT_ID     = os.environ.get("SPOTIFY_CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
-REDIRECT_URI = os.environ.get("REDIRECT_URI")
-PLAYLIST_ID = os.environ.get("PLAYLIST_ID")
+REDIRECT_URI          = os.environ.get("REDIRECT_URI")
 
-SPOTIFY_AUTH_URL = "https://accounts.spotify.com/authorize"
+SPOTIFY_AUTH_URL  = "https://accounts.spotify.com/authorize"
 SPOTIFY_TOKEN_URL = "https://accounts.spotify.com/api/token"
-SPOTIFY_API_BASE = "https://api.spotify.com/v1"
+SPOTIFY_API_BASE  = "https://api.spotify.com/v1"
 
-SCOPES = "user-read-playback-state user-modify-playback-state playlist-read-private playlist-read-collaborative streaming"
+SCOPES = "user-read-playback-state user-modify-playback-state"
 
+
+# ── Auth routes ────────────────────────────────────────────────────────────────
 
 @app.route("/")
 def index():
-    logged_in = "access_token" in session
-    return render_template("index.html", logged_in=logged_in)
+    return render_template("index.html")
 
 
 @app.route("/login")
@@ -42,33 +40,29 @@ def login():
 
 @app.route("/callback")
 def callback():
-    code = request.args.get("code")
+    code  = request.args.get("code")
     error = request.args.get("error")
 
-    if error:
+    if error or not code:
         return redirect("/?error=access_denied")
 
-    if not code:
-        return redirect("/?error=no_code")
-
-    # Exchange code for tokens
-    response = requests.post(
+    resp = requests.post(
         SPOTIFY_TOKEN_URL,
         data={
-            "grant_type": "authorization_code",
-            "code": code,
-            "redirect_uri": REDIRECT_URI,
-            "client_id": SPOTIFY_CLIENT_ID,
+            "grant_type":    "authorization_code",
+            "code":          code,
+            "redirect_uri":  REDIRECT_URI,
+            "client_id":     SPOTIFY_CLIENT_ID,
             "client_secret": SPOTIFY_CLIENT_SECRET,
         },
         headers={"Content-Type": "application/x-www-form-urlencoded"},
     )
 
-    if response.status_code != 200:
+    if resp.status_code != 200:
         return redirect("/?error=token_exchange_failed")
 
-    tokens = response.json()
-    session["access_token"] = tokens["access_token"]
+    tokens = resp.json()
+    session["access_token"]  = tokens["access_token"]
     session["refresh_token"] = tokens.get("refresh_token")
     return redirect("/")
 
@@ -79,25 +73,24 @@ def logout():
     return redirect("/")
 
 
-def refresh_token_if_needed():
-    """Refresh the access token using the refresh token."""
+# ── Helpers ────────────────────────────────────────────────────────────────────
+
+def refresh_access_token():
     refresh_token = session.get("refresh_token")
     if not refresh_token:
         return False
-
-    response = requests.post(
+    resp = requests.post(
         SPOTIFY_TOKEN_URL,
         data={
-            "grant_type": "refresh_token",
+            "grant_type":    "refresh_token",
             "refresh_token": refresh_token,
-            "client_id": SPOTIFY_CLIENT_ID,
+            "client_id":     SPOTIFY_CLIENT_ID,
             "client_secret": SPOTIFY_CLIENT_SECRET,
         },
         headers={"Content-Type": "application/x-www-form-urlencoded"},
     )
-
-    if response.status_code == 200:
-        tokens = response.json()
+    if resp.status_code == 200:
+        tokens = resp.json()
         session["access_token"] = tokens["access_token"]
         if "refresh_token" in tokens:
             session["refresh_token"] = tokens["refresh_token"]
@@ -105,55 +98,43 @@ def refresh_token_if_needed():
     return False
 
 
-def spotify_get(endpoint, params=None):
-    """Make authenticated GET request to Spotify API, refreshing token if needed."""
-    access_token = session.get("access_token")
-    if not access_token:
-        return None, 401
-
-    headers = {"Authorization": f"Bearer {access_token}"}
-    response = requests.get(f"{SPOTIFY_API_BASE}{endpoint}", headers=headers, params=params)
-
-    if response.status_code == 401:
-        if refresh_token_if_needed():
-            headers["Authorization"] = f"Bearer {session['access_token']}"
-            response = requests.get(f"{SPOTIFY_API_BASE}{endpoint}", headers=headers, params=params)
-        else:
-            return None, 401
-
-    return response.json() if response.status_code == 200 else None, response.status_code
+def auth_headers():
+    return {"Authorization": f"Bearer {session['access_token']}"}
 
 
-def spotify_put(endpoint, json_data=None):
-    """Make authenticated PUT request to Spotify API."""
-    access_token = session.get("access_token")
-    if not access_token:
-        return 401
+def spotify_get(endpoint):
+    resp = requests.get(f"{SPOTIFY_API_BASE}{endpoint}", headers=auth_headers())
+    if resp.status_code == 401 and refresh_access_token():
+        resp = requests.get(f"{SPOTIFY_API_BASE}{endpoint}", headers=auth_headers())
+    return resp
 
-    headers = {
-        "Authorization": f"Bearer {access_token}",
-        "Content-Type": "application/json",
-    }
-    response = requests.put(f"{SPOTIFY_API_BASE}{endpoint}", headers=headers, json=json_data)
 
-    if response.status_code == 401:
-        if refresh_token_if_needed():
-            headers["Authorization"] = f"Bearer {session['access_token']}"
-            response = requests.put(f"{SPOTIFY_API_BASE}{endpoint}", headers=headers, json=json_data)
+def spotify_put(endpoint, body=None):
+    resp = requests.put(
+        f"{SPOTIFY_API_BASE}{endpoint}",
+        headers={**auth_headers(), "Content-Type": "application/json"},
+        json=body,
+    )
+    if resp.status_code == 401 and refresh_access_token():
+        resp = requests.put(
+            f"{SPOTIFY_API_BASE}{endpoint}",
+            headers={**auth_headers(), "Content-Type": "application/json"},
+            json=body,
+        )
+    return resp
 
-    return response.status_code
 
+# ── API routes ─────────────────────────────────────────────────────────────────
 
 @app.route("/api/status")
 def status():
     if "access_token" not in session:
         return jsonify({"logged_in": False})
-
-    data, code = spotify_get("/me")
-    if code == 401 or data is None:
+    resp = spotify_get("/me")
+    if resp.status_code != 200:
         session.clear()
         return jsonify({"logged_in": False})
-
+    data = resp.json()
     return jsonify({"logged_in": True, "display_name": data.get("display_name", "")})
 
 
@@ -162,84 +143,35 @@ def play_random():
     if "access_token" not in session:
         return jsonify({"error": "Not logged in"}), 401
 
-    access_token = session.get("access_token")
-    app.logger.info(f"play_random called. PLAYLIST_ID={PLAYLIST_ID!r} token_present={bool(access_token)}")
+    # Pick a random song, avoiding the last one played
+    last_id = session.get("last_track_id")
+    pool    = [s for s in SONGS if s["id"] != last_id] if len(SONGS) > 1 else SONGS
+    song    = random.choice(pool)
+    session["last_track_id"] = song["id"]
 
-    # Get all tracks from the playlist (handle pagination)
-    tracks = []
-    next_url = f"{SPOTIFY_API_BASE}/playlists/{PLAYLIST_ID}/tracks"
-    params = {"limit": 100}
+    # Get user's available devices
+    resp = spotify_get("/me/player/devices")
+    if resp.status_code != 200:
+        return jsonify({"error": "Could not reach Spotify. Try logging out and back in."}), 500
 
-    while next_url:
-        access_token = session.get("access_token")
-        headers = {"Authorization": f"Bearer {access_token}"}
-        resp = requests.get(next_url, headers=headers, params=params)
-
-        if resp.status_code == 401:
-            if refresh_token_if_needed():
-                headers["Authorization"] = f"Bearer {session['access_token']}"
-                resp = requests.get(next_url, headers=headers, params=params)
-
-        if resp.status_code != 200:
-            app.logger.error(f"Playlist fetch failed: {resp.status_code} {resp.text}")
-            return jsonify({"error": f"Could not fetch playlist (status {resp.status_code})"}), 500
-
-        data = resp.json()
-        for item in data.get("items", []):
-            track = item.get("track")
-            if track and track.get("id"):
-                tracks.append(track)
-
-        next_url = data.get("next")  # full URL or None
-        params = None  # params are already encoded in next_url
-
-    if not tracks:
-        return jsonify({"error": "Playlist is empty"}), 404
-
-    # Pick a random track (avoid repeating the last one if possible)
-    last_track_id = session.get("last_track_id")
-    available = [t for t in tracks if t["id"] != last_track_id] if len(tracks) > 1 else tracks
-    track = random.choice(available)
-    session["last_track_id"] = track["id"]
-
-    # Get active device
-    devices_data, _ = spotify_get("/me/player/devices")
-    devices = devices_data.get("devices", []) if devices_data else []
-
+    devices = resp.json().get("devices", [])
     if not devices:
-        return jsonify({"error": "No active Spotify device found. Please open Spotify on your phone or desktop."}), 404
+        return jsonify({"error": "No active Spotify device found. Open Spotify on your phone or desktop first."}), 404
 
-    # Prefer active device, else first available
-    active_device = next((d for d in devices if d.get("is_active")), devices[0])
-    device_id = active_device["id"]
+    # Prefer the currently active device, else take the first available
+    device = next((d for d in devices if d.get("is_active")), devices[0])
 
-    # Play the track
-    status_code = spotify_put(
-        f"/me/player/play?device_id={device_id}",
-        {"uris": [f"spotify:track:{track['id']}"]},
+    # Play the song
+    play_resp = spotify_put(
+        f"/me/player/play?device_id={device['id']}",
+        {"uris": [song["uri"]]},
     )
 
-    if status_code not in (200, 204):
-        return jsonify({"error": f"Could not start playback (status {status_code}). Make sure Spotify is open and active."}), 500
+    if play_resp.status_code not in (200, 204):
+        app.logger.error(f"Playback failed: {play_resp.status_code} {play_resp.text}")
+        return jsonify({"error": f"Could not start playback. Make sure Spotify is open and active. (status {play_resp.status_code})"}), 500
 
-    # Build track info for reveal
-    album = track.get("album", {})
-    artists = [a["name"] for a in track.get("artists", [])]
-    images = album.get("images", [])
-    album_image = images[0]["url"] if images else None
-    release_year = album.get("release_date", "")[:4]
-
-    return jsonify({
-        "success": True,
-        "track": {
-            "id": track["id"],
-            "name": track["name"],
-            "artists": artists,
-            "album": album.get("name", ""),
-            "album_image": album_image,
-            "year": release_year,
-        },
-    })
+    return jsonify({"success": True, "track": song})
 
 
 if __name__ == "__main__":
