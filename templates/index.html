@@ -1,552 +1,591 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Song Roulette</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<title>🎵 Music Time Machine</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #13131a;
+    --border: #2a2a3a;
+    --accent-us: #ff4d6d;
+    --accent-il: #4ecdc4;
+    --accent-yellow: #ffe66d;
+    --text: #f0f0f5;
+    --muted: #6b6b80;
+    --vinyl-size: 180px;
+  }
 
-    :root {
-      --bg: #F7F5F2;
-      --surface: #FFFFFF;
-      --text: #1a1a1a;
-      --text-muted: #888;
-      --accent: #1DB954;
-      --accent-dark: #158a3e;
-      --border: #E8E4DF;
-      --shadow: 0 2px 20px rgba(0,0,0,0.06);
-      --radius: 14px;
-    }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
 
-    html, body {
-      height: 100%;
-      background: var(--bg);
-      color: var(--text);
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 300;
-    }
+  body {
+    font-family: 'Syne', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    height: 100dvh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px 20px;
+    position: relative;
+  }
 
-    body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      padding: 24px;
-    }
+  /* Background stars */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      radial-gradient(1px 1px at 20% 30%, rgba(255,255,255,0.15) 0%, transparent 100%),
+      radial-gradient(1px 1px at 80% 10%, rgba(255,255,255,0.1) 0%, transparent 100%),
+      radial-gradient(1px 1px at 50% 80%, rgba(255,255,255,0.12) 0%, transparent 100%),
+      radial-gradient(1px 1px at 10% 70%, rgba(255,255,255,0.08) 0%, transparent 100%),
+      radial-gradient(1px 1px at 90% 60%, rgba(255,255,255,0.1) 0%, transparent 100%);
+    pointer-events: none;
+    z-index: 0;
+  }
 
-    /* Subtle background grain */
-    body::before {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
-      pointer-events: none;
-      z-index: 0;
-    }
+  /* Header */
+  .header {
+    text-align: center;
+    z-index: 1;
+  }
 
-    .container {
-      position: relative;
-      z-index: 1;
-      width: 100%;
-      max-width: 420px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 0;
-    }
+  .header h1 {
+    font-size: clamp(1.3rem, 5vw, 1.8rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    background: linear-gradient(135deg, var(--accent-us), var(--accent-yellow), var(--accent-il));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.1;
+  }
 
-    /* Header */
-    .header {
-      text-align: center;
-      margin-bottom: 48px;
-    }
+  .header p {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.6rem;
+    color: var(--muted);
+    margin-top: 3px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
 
-    .header h1 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(2.4rem, 8vw, 3.2rem);
-      letter-spacing: -0.02em;
-      line-height: 1;
-      color: var(--text);
-    }
+  /* Vinyl */
+  .vinyl-wrap {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
 
-    .header h1 em {
-      font-style: italic;
-      color: var(--accent);
-    }
+  .vinyl {
+    width: var(--vinyl-size);
+    height: var(--vinyl-size);
+    border-radius: 50%;
+    background: radial-gradient(circle at center,
+      #1a1a1a 0%,
+      #111 18%,
+      #222 18.5%,
+      #0d0d0d 22%,
+      #1a1a1a 30%,
+      #0d0d0d 38%,
+      #1a1a1a 46%,
+      #0d0d0d 54%,
+      #1a1a1a 62%,
+      #0d0d0d 70%,
+      #1a1a1a 80%,
+      #0d0d0d 90%,
+      #1a1a1a 100%
+    );
+    box-shadow: 0 0 40px rgba(255, 77, 109, 0.2), 0 8px 32px rgba(0,0,0,0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    transition: box-shadow 0.3s;
+  }
 
-    .header p {
-      margin-top: 10px;
-      font-size: 0.88rem;
-      color: var(--text-muted);
-      letter-spacing: 0.03em;
-    }
+  .vinyl.spinning {
+    animation: spin 3s linear infinite;
+    box-shadow: 0 0 60px rgba(255, 77, 109, 0.4), 0 0 20px rgba(78, 205, 196, 0.2), 0 8px 32px rgba(0,0,0,0.7);
+  }
 
-    /* Card */
-    .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 36px 32px;
-      width: 100%;
-      box-shadow: var(--shadow);
-      display: flex;
-      flex-direction: column;
-      gap: 14px;
-    }
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
 
-    /* Buttons */
-    .btn {
-      width: 100%;
-      padding: 15px 20px;
-      border-radius: 10px;
-      border: none;
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.95rem;
-      font-weight: 500;
-      cursor: pointer;
-      transition: all 0.18s ease;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      letter-spacing: 0.01em;
-    }
+  .vinyl-center {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: var(--bg);
+    border: 3px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    overflow: hidden;
+    position: absolute;
+    z-index: 2;
+  }
 
-    .btn:active { transform: scale(0.98); }
+  .vinyl-center img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    display: none;
+  }
 
-    .btn-primary {
-      background: var(--accent);
-      color: #fff;
-    }
-    .btn-primary:hover:not(:disabled) { background: var(--accent-dark); }
+  .vinyl-center .emoji {
+    font-size: 1.3rem;
+  }
 
-    .btn-secondary {
-      background: transparent;
-      color: var(--text);
-      border: 1.5px solid var(--border);
-    }
-    .btn-secondary:hover:not(:disabled) { border-color: #bbb; background: #fafafa; }
+  /* Song info badge */
+  .song-badge {
+    text-align: center;
+    min-height: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+  }
 
-    .btn-ghost {
-      background: transparent;
-      color: var(--text-muted);
-      border: 1.5px solid var(--border);
-      font-size: 0.85rem;
-    }
-    .btn-ghost:hover:not(:disabled) { color: var(--text); border-color: #bbb; }
+  .song-badge .year-tag {
+    font-family: 'Space Mono', monospace;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--accent-yellow);
+    display: none;
+    line-height: 1;
+    text-shadow: 0 0 20px rgba(255, 230, 109, 0.5);
+  }
 
-    .btn:disabled {
-      opacity: 0.4;
-      cursor: not-allowed;
-    }
+  .song-badge .song-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text);
+    display: none;
+    max-width: 260px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
 
-    .btn-logout {
-      background: transparent;
-      color: var(--text-muted);
-      border: 1.5px solid var(--border);
-      font-size: 0.82rem;
-      padding: 10px 20px;
-    }
-    .btn-logout:hover { color: #c0392b; border-color: #c0392b; }
+  .song-badge .song-artist {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--muted);
+    display: none;
+    letter-spacing: 0.05em;
+  }
 
-    /* Divider */
-    .divider {
-      height: 1px;
-      background: var(--border);
-      margin: 4px 0;
-    }
+  .song-badge .source-tag {
+    font-size: 0.6rem;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-family: 'Space Mono', monospace;
+    letter-spacing: 0.08em;
+    display: none;
+    margin-top: 2px;
+  }
 
-    /* Reveal section */
-    .reveal-area {
-      overflow: hidden;
-      max-height: 0;
-      opacity: 0;
-      transition: max-height 0.5s cubic-bezier(0.4,0,0.2,1), opacity 0.4s ease;
-    }
+  .source-tag.american {
+    background: rgba(255, 77, 109, 0.15);
+    color: var(--accent-us);
+    border: 1px solid rgba(255, 77, 109, 0.3);
+  }
 
-    .reveal-area.visible {
-      max-height: 500px;
-      opacity: 1;
-    }
+  .source-tag.hebrew {
+    background: rgba(78, 205, 196, 0.15);
+    color: var(--accent-il);
+    border: 1px solid rgba(78, 205, 196, 0.3);
+  }
 
-    .reveal-card {
-      margin-top: 6px;
-      background: var(--bg);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 20px;
-      display: flex;
-      gap: 16px;
-      align-items: center;
-    }
+  .song-badge .placeholder {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
 
-    .album-art {
-      width: 80px;
-      height: 80px;
-      border-radius: 8px;
-      object-fit: cover;
-      flex-shrink: 0;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-    }
+  /* Slider section */
+  .slider-section {
+    width: 100%;
+    max-width: 320px;
+    z-index: 1;
+  }
 
-    .album-art-placeholder {
-      width: 80px;
-      height: 80px;
-      border-radius: 8px;
-      background: var(--border);
-      flex-shrink: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: var(--text-muted);
-      font-size: 1.4rem;
-    }
+  .slider-labels {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
 
-    .song-info {
-      flex: 1;
-      min-width: 0;
-    }
+  .slider-label {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
 
-    .song-year {
-      font-size: 0.78rem;
-      font-weight: 500;
-      color: var(--accent);
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      margin-bottom: 4px;
-    }
+  .slider-label.us { color: var(--accent-us); }
+  .slider-label.il { color: var(--accent-il); }
 
-    .song-name {
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.1rem;
-      line-height: 1.2;
-      color: var(--text);
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
+  .slider-value {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--accent-yellow);
+    text-align: center;
+    min-width: 80px;
+  }
 
-    .song-artist {
-      font-size: 0.85rem;
-      color: var(--text-muted);
-      margin-top: 3px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
+  .slider-track {
+    position: relative;
+    height: 6px;
+    background: var(--border);
+    border-radius: 10px;
+    overflow: visible;
+  }
 
-    .song-album {
-      font-size: 0.78rem;
-      color: #bbb;
-      margin-top: 2px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
+  .slider-fill {
+    position: absolute;
+    top: 0; left: 0;
+    height: 100%;
+    border-radius: 10px;
+    background: linear-gradient(90deg, var(--accent-us), var(--accent-il));
+    transition: width 0.1s;
+    pointer-events: none;
+  }
 
-    /* Toast notification */
-    .toast {
-      position: fixed;
-      bottom: 32px;
-      left: 50%;
-      transform: translateX(-50%) translateY(80px);
-      background: var(--text);
-      color: #fff;
-      padding: 12px 22px;
-      border-radius: 40px;
-      font-size: 0.85rem;
-      font-weight: 400;
-      white-space: nowrap;
-      z-index: 100;
-      transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.3s ease;
-      opacity: 0;
-      pointer-events: none;
-      max-width: 90vw;
-      white-space: normal;
-      text-align: center;
-    }
-    .toast.show {
-      transform: translateX(-50%) translateY(0);
-      opacity: 1;
-    }
-    .toast.error { background: #c0392b; }
-    .toast.success { background: var(--accent); }
+  input[type=range] {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 100%;
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+    margin: 0;
+  }
 
-    /* Spinner */
-    @keyframes spin { to { transform: rotate(360deg); } }
-    .spinner {
-      width: 16px;
-      height: 16px;
-      border: 2px solid rgba(255,255,255,0.3);
-      border-top-color: #fff;
-      border-radius: 50%;
-      animation: spin 0.7s linear infinite;
-      flex-shrink: 0;
-    }
-    .spinner.dark {
-      border-color: rgba(0,0,0,0.15);
-      border-top-color: var(--text-muted);
-    }
+  input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: var(--accent-yellow);
+    border: 2px solid var(--bg);
+    box-shadow: 0 0 8px rgba(255, 230, 109, 0.5);
+    cursor: pointer;
+  }
 
-    /* Status dot */
-    .status-row {
-      display: flex;
-      align-items: center;
-      gap: 7px;
-      font-size: 0.8rem;
-      color: var(--text-muted);
-      justify-content: center;
-      margin-top: -4px;
-      margin-bottom: 2px;
-    }
-    .status-dot {
-      width: 7px;
-      height: 7px;
-      border-radius: 50%;
-      background: var(--accent);
-      flex-shrink: 0;
-    }
+  input[type=range]::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: var(--accent-yellow);
+    border: 2px solid var(--bg);
+    box-shadow: 0 0 8px rgba(255, 230, 109, 0.5);
+    cursor: pointer;
+  }
 
-    /* Now playing pulse */
-    @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.4; }
-    }
-    .now-playing-dot {
-      width: 8px;
-      height: 8px;
-      border-radius: 50%;
-      background: var(--accent);
-      animation: pulse 1.6s ease-in-out infinite;
-      flex-shrink: 0;
-    }
+  /* Buttons */
+  .btn-row {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    max-width: 320px;
+    z-index: 1;
+  }
 
-    /* Reveal animation for info items */
-    @keyframes fadeUp {
-      from { opacity: 0; transform: translateY(8px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .reveal-card .song-info > * {
-      animation: fadeUp 0.4s ease forwards;
-    }
-    .reveal-card .song-info > *:nth-child(1) { animation-delay: 0.05s; opacity: 0; }
-    .reveal-card .song-info > *:nth-child(2) { animation-delay: 0.12s; opacity: 0; }
-    .reveal-card .song-info > *:nth-child(3) { animation-delay: 0.19s; opacity: 0; }
-    .reveal-card .song-info > *:nth-child(4) { animation-delay: 0.26s; opacity: 0; }
+  .btn {
+    flex: 1;
+    padding: 12px 8px;
+    border: none;
+    border-radius: 12px;
+    font-family: 'Syne', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.18s ease;
+    letter-spacing: 0.02em;
+    position: relative;
+    overflow: hidden;
+  }
 
-    /* Mobile */
-    @media (max-width: 480px) {
-      .card { padding: 28px 22px; }
-    }
-  </style>
+  .btn:active { transform: scale(0.96); }
+  .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  .btn-login {
+    background: linear-gradient(135deg, #1DB954, #17a349);
+    color: #000;
+  }
+
+  .btn-new {
+    background: linear-gradient(135deg, var(--accent-us), #c9364f);
+    color: #fff;
+  }
+
+  .btn-reveal {
+    background: linear-gradient(135deg, var(--accent-yellow), #f0c040);
+    color: #000;
+  }
+
+  .btn-pause {
+    flex: 0 0 48px;
+    padding: 12px 0;
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--border);
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .btn:hover:not(:disabled) {
+    filter: brightness(1.12);
+    transform: translateY(-1px);
+  }
+
+  /* Loading spinner on btn */
+  .btn-new.loading::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.3);
+    border-radius: 12px;
+  }
+
+  /* Year not found note */
+  .year-unknown {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.55rem;
+    color: var(--muted);
+    text-align: center;
+    display: none;
+    margin-top: 2px;
+  }
+</style>
 </head>
 <body>
 
-<div class="container">
-  <div class="header">
-    <h1>Song <em>Roulette</em></h1>
-    <p>Guess the song before you reveal it.</p>
+<!-- Header -->
+<div class="header">
+  <h1>🎵 Music Time Machine</h1>
+  <p>Spin the dial. Feel the era.</p>
+</div>
+
+<!-- Vinyl + song info -->
+<div class="vinyl-wrap">
+  <div class="vinyl" id="vinyl">
+    <div class="vinyl-center" id="vinylCenter">
+      <span class="emoji" id="vinylEmoji">🎵</span>
+      <img id="vinylImg" src="" alt="album"/>
+    </div>
   </div>
 
-  <div class="card">
-    <!-- Auth section -->
-    <div id="auth-section">
-      <button class="btn btn-primary" id="login-btn" onclick="handleLogin()">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
-      Connect with Spotify
-      </button>
-    </div>
+  <div class="song-badge" id="songBadge">
+    <span class="placeholder" id="placeholder">— press new song —</span>
+    <span class="year-tag" id="yearTag"></span>
+    <span class="song-title" id="songTitle"></span>
+    <span class="song-artist" id="songArtist"></span>
+    <span class="source-tag" id="sourceTag"></span>
+  </div>
+  <div class="year-unknown" id="yearUnknown"></div>
+</div>
 
-    <div id="logged-in-section" style="display:none; flex-direction:column; gap:14px;">
-      <div class="status-row">
-        <span class="status-dot"></span>
-        <span id="username-label">Connected</span>
-      </div>
-
-      <div class="divider"></div>
-
-      <!-- New Song button -->
-      <button class="btn btn-secondary" id="new-song-btn" onclick="playRandomSong()">
-        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 3 21 3 21 8"/><line x1="4" y1="20" x2="21" y2="3"/><polyline points="21 16 21 21 16 21"/><line x1="4" y1="4" x2="9" y2="9"/></svg>
-        New Song
-      </button>
-
-      <!-- Reveal button -->
-      <button class="btn btn-ghost" id="reveal-btn" onclick="revealSong()" disabled>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-        Reveal Song
-      </button>
-
-      <!-- Reveal area -->
-      <div class="reveal-area" id="reveal-area">
-        <div class="reveal-card" id="reveal-card">
-          <!-- filled by JS -->
-        </div>
-      </div>
-
-      <div class="divider"></div>
-
-      <!-- Logout -->
-      <button class="btn btn-logout" onclick="handleLogout()">
-        Sign out
-      </button>
-    </div>
+<!-- Slider -->
+<div class="slider-section">
+  <div class="slider-labels">
+    <span class="slider-label us">🇺🇸 American</span>
+    <span class="slider-value" id="sliderValue">Mix: 50% 🇮🇱</span>
+    <span class="slider-label il">Israeli 🇮🇱</span>
+  </div>
+  <div class="slider-track">
+    <div class="slider-fill" id="sliderFill" style="width:50%"></div>
+    <input type="range" id="ratioSlider" min="0" max="100" value="50"/>
   </div>
 </div>
 
-<!-- Toast -->
-<div class="toast" id="toast"></div>
+<!-- Buttons -->
+<div class="btn-row">
+  {% if logged_in %}
+    <button class="btn btn-login" onclick="window.location='/logout'">🚪 Logout</button>
+  {% else %}
+    <button class="btn btn-login" onclick="window.location='/login'">🎧 Login</button>
+  {% endif %}
+  <button class="btn btn-new" id="btnNew" onclick="newSong()">🎲 New Song</button>
+  <button class="btn btn-reveal" id="btnReveal" onclick="toggleReveal()" disabled>👁 Reveal</button>
+  <button class="btn btn-pause" id="btnPause" onclick="togglePause()" disabled>▶</button>
+</div>
 
 <script>
-  let currentTrack = null;
   let revealed = false;
+  let isPlaying = false;
+  let isPaused = false;
+  let currentSong = null;
 
-  // Check login status on load
-  async function init() {
-    const params = new URLSearchParams(window.location.search);
-    if (params.get('error')) {
-      showToast('Could not connect to Spotify. Please try again.', 'error');
-      window.history.replaceState({}, '', '/');
-    }
+  // Slider
+  const slider = document.getElementById('ratioSlider');
+  const sliderFill = document.getElementById('sliderFill');
+  const sliderValue = document.getElementById('sliderValue');
 
-    try {
-      const res = await fetch('/api/status');
-      const data = await res.json();
-      if (data.logged_in) {
-        showLoggedIn(data.display_name);
-      } else {
-        showLoggedOut();
-      }
-    } catch(e) {
-      showLoggedOut();
-    }
-  }
+  slider.addEventListener('input', () => {
+    const v = slider.value;
+    sliderFill.style.width = v + '%';
+    if (v == 0) sliderValue.textContent = '100% 🇺🇸 American';
+    else if (v == 100) sliderValue.textContent = '100% 🇮🇱 Israeli';
+    else sliderValue.textContent = `Mix: ${v}% 🇮🇱`;
+  });
 
-  function showLoggedOut() {
-    document.getElementById('auth-section').style.display = '';
-    document.getElementById('logged-in-section').style.display = 'none';
-  }
-
-  function showLoggedIn(name) {
-    document.getElementById('auth-section').style.display = 'none';
-    const section = document.getElementById('logged-in-section');
-    section.style.display = 'flex';
-    if (name) {
-      document.getElementById('username-label').textContent = name;
-    }
-  }
-
-  function handleLogin() {
-    window.location.href = '/login';
-  }
-
-  function handleLogout() {
-    window.location.href = '/logout';
-  }
-
-  async function playRandomSong() {
-    const btn = document.getElementById('new-song-btn');
-    const revealBtn = document.getElementById('reveal-btn');
+  // New song
+  async function newSong() {
+    const btn = document.getElementById('btnNew');
+    btn.disabled = true;
+    btn.textContent = '⏳ Loading...';
+    btn.classList.add('loading');
 
     // Reset reveal
-    hideReveal();
-    revealed = false;
-    revealBtn.disabled = true;
-    currentTrack = null;
-
-    // Loading state
-    btn.disabled = true;
-    btn.innerHTML = `<span class="spinner"></span> Finding song...`;
+    resetReveal();
 
     try {
-      const res = await fetch('/api/play_random');
+      const res = await fetch('/api/random-song', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({ israeli_ratio: parseInt(slider.value) })
+      });
       const data = await res.json();
+      if (data.error) { alert(data.error); return; }
 
-      if (!res.ok) {
-        showToast(data.error || 'Something went wrong.', 'error');
-      } else {
-        currentTrack = data.track;
-        revealBtn.disabled = false;
-        showToast('▶ Now playing on your Spotify device', 'success');
+      currentSong = data;
+      isPlaying = true;
+      isPaused = false;
+
+      // Spin vinyl
+      document.getElementById('vinyl').classList.add('spinning');
+
+      // Store data for reveal
+      document.getElementById('yearTag').textContent = data.year || '?';
+      document.getElementById('songTitle').textContent = data.title;
+      document.getElementById('songArtist').textContent = data.artist;
+
+      const sourceTag = document.getElementById('sourceTag');
+      sourceTag.textContent = data.source === 'hebrew' ? '🇮🇱 Israeli' : '🇺🇸 American';
+      sourceTag.className = 'source-tag ' + (data.source === 'hebrew' ? 'hebrew' : 'american');
+
+      if (data.album_image) {
+        document.getElementById('vinylImg').src = data.album_image;
       }
-    } catch(e) {
-      showToast('Network error. Please try again.', 'error');
+
+      const yearNote = document.getElementById('yearUnknown');
+      if (data.source === 'hebrew' && !data.year) {
+        yearNote.textContent = '⚠️ Year not found';
+        yearNote.style.display = 'block';
+      } else if (data.source === 'hebrew' && data.year_source === 'spotify') {
+        yearNote.textContent = '📅 Year from Spotify (may be approximate)';
+        yearNote.style.display = 'block';
+      } else {
+        yearNote.style.display = 'none';
+      }
+
+      // Enable buttons
+      document.getElementById('btnReveal').disabled = false;
+      document.getElementById('btnPause').disabled = false;
+      document.getElementById('btnPause').textContent = '⏸';
+
+    } catch (e) {
+      console.error(e);
+      alert('Something went wrong, try again!');
     } finally {
       btn.disabled = false;
-      btn.innerHTML = `
-        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 3 21 3 21 8"/><line x1="4" y1="20" x2="21" y2="3"/><polyline points="21 16 21 21 16 21"/><line x1="4" y1="4" x2="9" y2="9"/></svg>
-        New Song
-      `;
+      btn.textContent = '🎲 New Song';
+      btn.classList.remove('loading');
     }
   }
 
-  function revealSong() {
-    if (!currentTrack || revealed) return;
-    revealed = true;
+  // Reveal / hide
+  function toggleReveal() {
+    const btn = document.getElementById('btnReveal');
+    if (!revealed) {
+      showReveal();
+      btn.textContent = '🙈 Hide';
+      revealed = true;
+    } else {
+      hideReveal();
+      btn.textContent = '👁 Reveal';
+      revealed = false;
+    }
+  }
 
-    const card = document.getElementById('reveal-card');
-    const imgHTML = currentTrack.album_image
-      ? `<img class="album-art" src="${currentTrack.album_image}" alt="Album art"/>`
-      : `<div class="album-art-placeholder">♪</div>`;
+  function showReveal() {
+    document.getElementById('placeholder').style.display = 'none';
+    document.getElementById('yearTag').style.display = 'block';
+    document.getElementById('songTitle').style.display = 'block';
+    document.getElementById('songArtist').style.display = 'block';
+    document.getElementById('sourceTag').style.display = 'inline-block';
 
-    const artistStr = currentTrack.artists.join(', ');
-
-    card.innerHTML = `
-      ${imgHTML}
-      <div class="song-info">
-        <div class="song-year">${currentTrack.year || '—'}</div>
-        <div class="song-name">${escapeHtml(currentTrack.name)}</div>
-        <div class="song-artist">${escapeHtml(artistStr)}</div>
-        <div class="song-album">${escapeHtml(currentTrack.album)}</div>
-      </div>
-    `;
-
-    // Show reveal area
-    const area = document.getElementById('reveal-area');
-    area.classList.add('visible');
-
-    // Update reveal button
-    const btn = document.getElementById('reveal-btn');
-    btn.innerHTML = `
-      <span class="now-playing-dot"></span>
-      ${escapeHtml(currentTrack.name)}
-    `;
-    btn.disabled = true;
+    // Show album art in vinyl center
+    const img = document.getElementById('vinylImg');
+    const emoji = document.getElementById('vinylEmoji');
+    if (currentSong && currentSong.album_image) {
+      img.style.display = 'block';
+      emoji.style.display = 'none';
+    }
   }
 
   function hideReveal() {
-    const area = document.getElementById('reveal-area');
-    area.classList.remove('visible');
+    document.getElementById('placeholder').style.display = 'block';
+    document.getElementById('yearTag').style.display = 'none';
+    document.getElementById('songTitle').style.display = 'none';
+    document.getElementById('songArtist').style.display = 'none';
+    document.getElementById('sourceTag').style.display = 'none';
 
-    const btn = document.getElementById('reveal-btn');
-    btn.innerHTML = `
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-      Reveal Song
-    `;
+    // Hide album art in vinyl
+    document.getElementById('vinylImg').style.display = 'none';
+    document.getElementById('vinylEmoji').style.display = 'block';
   }
 
-  function escapeHtml(str) {
-    const div = document.createElement('div');
-    div.appendChild(document.createTextNode(str || ''));
-    return div.innerHTML;
+  function resetReveal() {
+    revealed = false;
+    const btn = document.getElementById('btnReveal');
+    btn.textContent = '👁 Reveal';
+    hideReveal();
+    document.getElementById('yearUnknown').style.display = 'none';
+    document.getElementById('vinyl').classList.remove('spinning');
+    document.getElementById('btnPause').textContent = '▶';
+    document.getElementById('btnPause').disabled = true;
   }
 
-  let toastTimer;
-  function showToast(msg, type = '') {
-    const toast = document.getElementById('toast');
-    toast.textContent = msg;
-    toast.className = 'toast show' + (type ? ' ' + type : '');
-    clearTimeout(toastTimer);
-    toastTimer = setTimeout(() => {
-      toast.classList.remove('show');
-    }, 3500);
+  // Pause / resume
+  async function togglePause() {
+    const btn = document.getElementById('btnPause');
+    if (!isPaused) {
+      await fetch('/api/pause', { method: 'POST' });
+      isPaused = true;
+      btn.textContent = '▶';
+      document.getElementById('vinyl').classList.remove('spinning');
+    } else {
+      await fetch('/api/resume', { method: 'POST' });
+      isPaused = false;
+      btn.textContent = '⏸';
+      document.getElementById('vinyl').classList.add('spinning');
+    }
   }
-
-  init();
 </script>
 </body>
 </html>
