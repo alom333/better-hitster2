@@ -20,7 +20,7 @@ PLAYLIST_ID = os.environ.get("PLAYLIST_ID")
 import billboard
 
 def get_random_american_song():
-    year = random.randint(2006, 2024)
+    year = random.randint(1950, 2024)
     try:
         chart = billboard.ChartData("hot-100-songs", year=f"{year}")
         top_50 = chart[:50]
